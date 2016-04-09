@@ -19,7 +19,7 @@ button[0].addEventListener('click', toggle, false);
 function toggle() {
 var span = document.getElementsByClassName("grab")
 for (var i = 0; i < span.length; i++) 
-if (span[i].style.backgroundColor !== "yellow") {
+if (span[i].style.backgroundColor != "yellow") {
 span[i].style.backgroundColor = "yellow"
 }
 else span[i].style.backgroundColor = ""    

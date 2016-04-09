@@ -17,18 +17,18 @@ button2.addEventListener('click',show_hide2,false);
 
 function show_hide1() {
     if (document.getElementById('toggle1').style.display != "none") {
-        document.getElementById('toggle1').style.display = "none";
+        document.getElementById('toggle1').style.display == "none";
     }
     else { 
-        document.getElementById("toggle1").style.display = "block";
+        document.getElementById("toggle1").style.display == "block";
         }
 }
 
 function show_hide2() {
     if (document.getElementById("toggle2").style.visibility != "hidden") {
-        document.getElementById("toggle2").style.visibility = "hidden";
+        document.getElementById("toggle2").style.visibility == "hidden";
     }
     else {
-        document.getElementById("toggle2").style.visibility = "visible";
+        document.getElementById("toggle2").style.visibility == "visible";
         }
 }

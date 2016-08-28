@@ -6,9 +6,9 @@ Welcome to the Pitt-Greensburg DH Class Hub! This is a repository to help introd
 * In order for you to participate fully in this shared class space, I need to add you as a collaborator. Set up your own GitHub account and write to me to tell me how to find you. 
 
 * Now that you're here, you should try to "clone" this repository on your local computer. 
-* Read and follow the instructions here to get started with GitHub: 
-a) with Desktop Client  <a href="http://dh.obdurodon.org/github.xhtml">http://dh.obdurodon.org/github.xhtml</a>
-b) **recommended** with Shell (command line): <a href="http://newtfire.org/dh/explainGitShell.html">http://newtfire.org/dh/explainGitShell.html</a>
+* Read and follow the instructions here to get started with Git:  
+  a) with Desktop Client  <a href="http://dh.obdurodon.org/github.xhtml">http://dh.obdurodon.org/github.xhtml</a>  
+  b) **recommended** with Shell (command line): <a href="http://newtfire.org/dh/explainGitShell.html">http://newtfire.org/dh/explainGitShell.html</a>
 
 (You may wish to install a free desktop client for convenient use of GitHub as a repository to manage shared class and project files: <a href="https://desktop.github.com/">https://desktop.github.com/</a>. The desktop client can help you with configuring your local Git directories on your computer(s) with the remote repository in the GitHub cloud. But you do not need a desktop client, and we recommend learning Git from command line for better control and fuller understanding of how Git and GitHub works.)
 

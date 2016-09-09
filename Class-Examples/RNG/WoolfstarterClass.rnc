@@ -1,0 +1,22 @@
+# 2016-09-09 ebb: Here's the schema I wrote in class, now debugged and functional for checking our XML. 
+start = letter
+letter = element letter {from, to, (head, body, closer, postScript)}
+from = attribute from {"vw" | "vs-w"}
+to = attribute to {"vw" | "vs-w"}
+head = element head {address, date}
+address = element address {mixed {(lb | postal)*}}
+postal = element postal {text}
+lb = element lb {empty}
+body = element body {p+}
+p = element p {mixed {(date | persName)*}, n}
+n = attribute n {xsd:int}
+# This is to make a "mixed" content of free-floating text alongside elements!
+persName = element persName {text}
+date = element date {text, when}
+when = attribute when {xsd:date}
+closer = element closer {mixed{signed}}
+signed = element signed {text}
+postScript = element postScript {text}
+
+
+

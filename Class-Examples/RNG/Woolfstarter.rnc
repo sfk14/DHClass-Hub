@@ -1,0 +1,12 @@
+start = letter
+letter = element letter {head, body, closer, postScript*}
+head = element head {address, date}
+date = element date {when, text}
+when = attribute when {xsd:date}
+address = element address {mixed {lb+, postal}}
+lb = element lb {empty}
+postal = element postal {text}
+body = element body {mixed{date}}
+closer = element closer {mixed{signed}}
+signed = element signed {text}
+postScript = element postScript {text}

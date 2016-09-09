@@ -1,6 +1,6 @@
 ##GitHub steps working from fork and branch:
 
-* ls (This gives you all of the repositories that are cloned to your computer)
+* ls (This lists out all of the repositories that are cloned to your computer, or the directories you have in a location.)
 * cd `whatever repository you want to contribute to` (This takes you directly into the repository you wish to contribute to)
 * git pull upstream master (This pulls any changes that were made to the original repository since you last synced into your forked repository)
 * git status (This is used a lot just to see the differences/changes between the master and your fork/branch, so you will see it a lot here)

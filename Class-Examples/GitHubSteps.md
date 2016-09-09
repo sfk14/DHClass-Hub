@@ -11,9 +11,7 @@
 * git status (To see that you added your changes to your branch)
 * git commit -m "`your commit message here`" (Commit your changes to your branch)
 * git status (To see that you committed and your branch is up to date with what you've been working in)
-* git checkout master (To go back into your forked repository from your branch)
-* git merge `branch name here` (You're merging your changes in your branch to your forked repo)
-* git push --all -u (You are pushing all of the changes into your fork)
-* git status (Just to make sure you pushed everything)
-* You now need to get on the GitHub website and Create a Pull Request
+* git push (Push your committed changes to remote!)
 * DONE!!
+
+

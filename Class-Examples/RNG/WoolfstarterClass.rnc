@@ -9,8 +9,8 @@ postal = element postal {text}
 lb = element lb {empty}
 body = element body {p+}
 p = element p {mixed {(date | persName)*}, n}
-n = attribute n {xsd:int}
 # This is to make a "mixed" content of free-floating text alongside elements!
+n = attribute n {xsd:int}
 persName = element persName {text}
 date = element date {text, when}
 when = attribute when {xsd:date}

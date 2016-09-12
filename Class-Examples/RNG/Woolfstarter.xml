@@ -2,6 +2,7 @@
 <?xml-model href="WoolfstarterClass.rnc" type="application/relax-ng-compact-syntax"?>
 <!--2016-09-09 ebb: Here is the sample XML document we discussed in class. Above this comment is the schema line that shows my WoolfstarterClass.rnc schema is associated with this document.-->
 <letter from="vw" to="vs-w">
+    <nameCan xml:id="vwoolf">Virginia Woolf</nameCan>
     <head>
         <address>To V. Sackville-West<lb/> 52 Tavistock Square,<lb/>
             <postal>W.C.1</postal>
@@ -13,7 +14,7 @@
     </head>
     <body>
         <p n="1">Yes, yes, yes. Come at once.</p>
-        <p n="2">Everybody is longing to see you. Grizzle in paroxysms. Lunch at 1. Friday. Better
+        <p n="2">Everybody is longing to see you. <persName ref="vwoolf">Grizzle</persName> in paroxysms. Lunch at 1. Friday. Better
             still come to the basement at 12.30 and have a preliminary talk (must it be about the
             Polish rebellion?) with me in my studio—then 6 or 7 hours upstairs. (unless you'll dine
             with me on <date when="1926-05-20">Thursday</date>, when I happen to be alone)</p>

@@ -1,7 +1,9 @@
 # 2016-09-09 ebb: Here's the schema I wrote in class, now debugged and functional for checking our XML. 
 start = letter
-letter = element letter {from, to, (nameCan, head, body, closer, postScript)}
-nameCan = element nameCan {text, xmlid}
+letter = element letter {from, to, (listCan, head, body, closer, postScript)}
+listCan = element listCan {person+}
+person = element person {text, xmlid, type} 
+type = attribute type {"animal" | "person" | "fict" | "myth"}
 xmlid = attribute xml:id {xsd:ID}
 from = attribute from {"vw" | "vs-w"}
 to = attribute to {"vw" | "vs-w"}

@@ -54,7 +54,7 @@ This finds each chapter title. Let's keep going to see if we can grab the headin
 **Find:** 
 `<subSec>C H A P T E R [IVX]+\.</subSec>.+?</subSec>\n</section>`
 
-Let's work on our capturing groups! What do we want to keep and what do we want to exclude? Keep what we want inside parentheses, and separate them based on what we want to enclose in tags:
+Let's work on our capturing groups! What do we want to keep and what do we want to exclude? Keep what we want inside parentheses ** (  )**, and separate them based on what we want to enclose in tags:
 
 **Find:** 
 `<subSec>(C H A P T E R [IVX]+\.)</subSec>(.+?)</subSec>\n</section>`

@@ -38,7 +38,8 @@ Now all of the lines are wrapped in `<item>` tags.
 **Find:** `<subSec>(Sect\.\s\d.+)</subSec>$`
 
 **Replace:** `</section><section><head>\1</head>`
-    See how we *close* a previous section and *open* a new section at the same time that we open a new one? We also wrapped the capturing group in its own `<head>` element, to hold the title of the section. That tag opens first and then closes since it's fully contained within our single line.
+    
+See how we *close* a previous section and *open* a new section at the same time that we open a new one? We also wrapped the capturing group in its own `<head>` element, to hold the title of the section. That tag opens first and then closes since it's fully contained within our single line.
  
 `5.` Let's work on wrapping the chapters now, and we can clean up the issue with placement of closing section tags, too. Remember, literal characters are perfectly viable regular expressions when they are used regularly! We are using a character set to match on the Roman numerals in the chapter headings.
 

@@ -57,7 +57,7 @@ This finds each chapter title. Let's keep going to see if we can grab the headin
 
 **Replace:** `</section></chapter><chapter><head>\1<lb/>\2</head>`
 
-Notice how we cleaned up our `</section>` tag mess here, by effectively moving those tags to where they belong. Then we wrap our chapters using our close-open strategy, and wrap their titles in a head tag. We used a `<lb/> to separate out the parts of the chapter heading.
+Notice how we cleaned up our `</section>` tag mess here, by effectively moving those tags to where they belong. Then we wrap our chapters using our close-open strategy, and wrap their titles in a `<head>` tag. We used a `<lb/> to separate out the parts of the chapter heading.
 
 `7.` Our chapter headings still have <subSec> tags in them. We can use a regular expression match to remove those:
 

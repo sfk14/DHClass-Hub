@@ -43,11 +43,11 @@ See how we *close* a previous section and *open* a new section at the same time 
  
 `5.` Let's work on wrapping the chapters now, and we can clean up the issue with placement of closing section tags, too. Remember, literal characters are perfectly viable regular expressions when they are used regularly! We are using a character set to match on the Roman numerals in the chapter headings.
 
-    **Find:** `<subSec>C H A P T E R [IVX]+\.</subSec>`
+**Find:** `<subSec>C H A P T E R [IVX]+\.</subSec>`
 
 This finds each chapter title. Let's keep going to see if we can grab the heading right after it. To help with this, we're turning on "Dot matches all" so we can match any character at all, including newline characters. We'll use **`.+?`** as a "lookahead" to match up to the first `</subSec>` we see, and keep going to hunt for those extra `</section>` tags. 
 
-    **Find:** 
+**Find:** 
     `<subSec>C H A P T E R [IVX]+\.</subSec>.+?</subSec>\n</section>`
 
 `6.` Let's work on our capturing groups! What do we want to keep and what do we want to exclude? Keep what we want inside parentheses ** (  )**, and separate them based on what we want to enclose in tags:

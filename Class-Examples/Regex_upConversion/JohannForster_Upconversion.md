@@ -37,7 +37,7 @@ Now all of the lines are wrapped in `<item>` tags.
 
 **Note:** That "close-open" strategy is always going to create a little tangle: at the top of each section list will be an extra closing `<section/>` tag, that's missing at the end. That's okay--we just have to remember to clean that up in a later stage, when we deal with the `<chapter>` "wrapper" elements.
 
-We begin to use *capturing groups* with parentheses here, to hold *only* the part of the regular expression we want to keep in the Replace. We use \1, \2, \3 to refer to the first, second, and third set of parentheses in a sequence. (In this example, we'll use just one capturing group.)
+We begin to use *capturing groups* with parentheses here **( )**, to hold *only* the part of the regular expression we want to keep in the Replace. We use \1, \2, \3 to refer to the first, second, and third set of parentheses in a sequence. (In this example, we'll use just one capturing group.)
 
 **Find:** `<subSec>(Sect\.\s\d.+)</subSec>$`
 

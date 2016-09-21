@@ -26,12 +26,11 @@ First, survey the document to decide how we want to tag it. We want a structure 
 **Find:** `^.+$`
 **Replace:** `<subSec>\0</subSec>`
   
-**Note:** 
-* caret and dollar sign bring up the start and the end of a line, respectively. They're not actually characters, so they aren't ever replaced, but they are sort of like flags. 
-* \0 means capture the *entire expression*. 
+**Note:** The **`^`**(caret) and **$** (dollar sign) bring up the start and the end of a line, respectively. They're not actually characters, so they aren't ever replaced, but they are sort of like flags. 
+ **`\0`** in the Replace window means capture the *entire expression* in the Find window. 
 Now all of the lines are wrapped in `<item>` tags.   
 
-3. We'll manually tag the top line as the `<title>` and remove the `<item>` tags around it, since there's only one of it. We'll pop some <lb/> elements in to preserve those interesting line breaks.  
+3. We'll manually tag the top line as the `<title>` and remove the `<item>` tags around it, since there's only one of it. We'll pop some `<lb/>` elements in to preserve those interesting line breaks.  
 
 4. Let's find and wrap the sections in their `<section>` element, and remove some of the extra `<item>` elements. Remember, we need to wrap the *entire* section list, with all its items inside. We typically use a "close-open" strategy for this kind of thing, so we *only* have to find the start of each section in order to find the end of the previous one.   
 

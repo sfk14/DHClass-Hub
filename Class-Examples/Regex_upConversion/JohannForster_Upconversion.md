@@ -33,9 +33,9 @@ Now all of the lines are wrapped in `<item>` tags.
 
 3. We'll manually tag the top line as the `<title>` and remove the `<item>` tags around it, since there's only one of it. We'll pop some <lb/> elements in to preserve those interesting line breaks.  
 
-4. Let's find and wrap the sections in their <section> element, and remove some of the extra <item> elements. Remember, we need to wrap the *entire* section list, with all its items inside. We typically use a "close-open" strategy for this kind of thing, so we *only* have to find the start of each section in order to find the end of the previous one.   
+4. Let's find and wrap the sections in their `<section>` element, and remove some of the extra `<item>` elements. Remember, we need to wrap the *entire* section list, with all its items inside. We typically use a "close-open" strategy for this kind of thing, so we *only* have to find the start of each section in order to find the end of the previous one.   
 
-**Note:** That "close-open" strategy is always going to create a little tangle: at the top of each section list will be an extra closing `<section/>` tag, that's missing at the end. That's okay--we just have to remember to clean that up in a later stage, when we deal with the chapter div "wrapper" elements.
+**Note:** That "close-open" strategy is always going to create a little tangle: at the top of each section list will be an extra closing `<section/>` tag, that's missing at the end. That's okay--we just have to remember to clean that up in a later stage, when we deal with the `<chapter>` "wrapper" elements.
 
 We begin to use *capturing groups* with parentheses here, to hold *only* the part of the regular expression we want to keep in the Replace. We use \1, \2, \3 to refer to the first, second, and third set of parentheses in a sequence. (In this example, we'll use just one capturing group.)
 

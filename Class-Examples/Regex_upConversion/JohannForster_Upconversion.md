@@ -35,9 +35,9 @@ Now all of the lines are wrapped in `<item>` tags.
 **Note:** That "close-open" strategy is always going to create a little tangle: at the top of each section list will be an extra closing `<section/>` tag, that's missing at the end. That's okay--we just have to remember to clean that up in a later stage, when we deal with the `<chapter>` "wrapper" elements.
     We begin to use *capturing groups* with parentheses here **( )**, to hold *only* the part of the regular expression we want to keep in the Replace. We use \1, \2, \3 to refer to the first, second, and third set of parentheses in a sequence. (In this example, we'll use just one capturing group.)
 
-    **Find:** `<subSec>(Sect\.\s\d.+)</subSec>$`
+**Find:** `<subSec>(Sect\.\s\d.+)</subSec>$`
 
-    **Replace:** `</section><section><head>\1</head>`
+**Replace:** `</section><section><head>\1</head>`
     See how we *close* a previous section and *open* a new section at the same time that we open a new one? We also wrapped the capturing group in its own `<head>` element, to hold the title of the section. That tag opens first and then closes since it's fully contained within our single line.
  
 `5.` Let's work on wrapping the chapters now, and we can clean up the issue with placement of closing section tags, too. Remember, literal characters are perfectly viable regular expressions when they are used regularly! We are using a character set to match on the Roman numerals in the chapter headings.

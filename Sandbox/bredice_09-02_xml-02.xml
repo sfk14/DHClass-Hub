@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="bredice_09-12_xml-12.rnc" type="application/relax-ng-compact-syntax"?>
+<root><letter><introduction type= "background">Coffin, a member of the American Anti-Slavery Society, 
+writes to author and abolitionist Lydia Maria Child about Harriet Jacobs.<quote>I hope you will call and see, if she is now in the city, one of the most interesting cases of escape from slavery that you have ever seen."</quote></introduction> 
+    
+<date>Phila. 25 June 1842</date>
+<startLetter>Esteemed Friend,</startLetter>
+<speech type= "speaking"> I hope you will call and see, if she is now in the city, one of the most interesting cases of escape from slavery that you have ever seen. 
+<dialogue type= "girl1">She was sent from this city yesterday morning and consigned to Mr. Johnston. 
+She is from N.C. was brought away by a sea captain. 
+She was sold by her master to the speculators and to avoid being sent away she was hidden for 7 years! 
+in a small upper room of a house occupied by colored people and within a hundred yards of her master's house, who did not know she was there. 
+She had not seen her boy, for 7 years till within 3 days of her coming away. 
+She has been shut up so long that she can hardly walk. </dialogue> 
+<dialogue type= "girl2">Another woman was brought away from Delaware, who was found tied to a tree.</dialogue> 
+<dialogue type= "man">If Mr. Johnston was the man he ought to be, he would invite you occasionally to see some of these remarkable cases, which are continually passing from Phil. to N.Y. </dialogue>
+<dialogue type= "government">The Vagrant what a queer mistake. 
+The Vigilance Committee of this city are doing a fine business in weakening and delapidating the edifice of slavery. </dialogue></speech>
+<conclusion>Success to them...</conclusion>
+<narrator>Joshua Coffin</narrator></letter>
+</root>

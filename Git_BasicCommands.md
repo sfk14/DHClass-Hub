@@ -1,5 +1,16 @@
 #Using Git through Command Line
   
+##Quick reference:
+* Navigate to repo.
+* `git pull`
+* Make changes.
+* `git status` -- list of changes should be red
+* `git add -A` OR `git add .`
+* `git status` -- list of changes should be green
+* `git commit -m "message here"`
+* `git push`
+  
+##Detailed walk-through:
 The key thing to working with Git is **always knowing where to find your files in the Finder (on Mac) / File Explorer (on Windows) and in the Terminal/Command Line Shell**. So you need to save them in a place where you can easily see them. 
 * In the Finder/File Explorer, make yourself a "GitHub" directory that lives inside "Documents" (or on your desktop if that is a more logical place for you). Inside the "GitHub" directory you will clone each of your project repositories.
 * In the Terminal/Command Line Shell), you can navigate to your "GitHub" directory from the computer's root by typing:
@@ -46,19 +57,11 @@ git push
 ````
 And gears turn and lines of text whirl on the screen, and your changes go up into the remote "Mothership repo"! You should always check on the web repository to see if your commit went through.  
   
-##Just the commands for quick reference:
-* Navigate to repo.
-* `git pull`
-* Make changes.
-* `git status` -- list of changes should be red
-* `git add -A` OR `git add .`
-* `git status` -- list of changes should be green
-* `git commit -m "message here"`
-* `git push`
   
   
   
-####Git commands for a Forked Repo workflow:
+  
+###Git commands for a Forked Repo workflow:
 * `git pull upstream master` (This pulls any changes that were made to the original repository since you last synced into your forked repository.)
 * Save changes / move files into directory through File Explorer / Finder
 * `git status` (shows the differences/changes between the master and your fork/branch -- should be red)

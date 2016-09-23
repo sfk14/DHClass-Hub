@@ -1,5 +1,7 @@
 #Using Git through Command Line
   
+*If you wish to download a file without cloning or pulling in changes locally navigate to the file on GitHub and on the right side near top of file's content click the button that gives you the "Raw" view of the file. From there you can copy and paste or right click and save.*
+  
 ##Quick reference:
 * Navigate to repo.
 * `git pull`

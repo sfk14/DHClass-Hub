@@ -50,17 +50,16 @@ The period means *all* -- as in add *all* new files to be tracked by Git.
 * If you type `git status` at this point, you see highlighted in green the new files being added! 
 * Now, you need to **commit** those changes. You type the commit, and write a message, because Git *always* makes you document changes to the repo:
 ````
-git commit -m "your detailed commit message should go in here... think of these as breadcrumbs for you and others to use in tracing project progress"
+git commit -m "your detailed commit message should go in here"
 ````
+Think of these commit messages as breadcrumbs for you and others to use in recording your project's progress!
 
 * Next, you push the commit through, with:
 ````
 git push
 ````
 And gears turn and lines of text whirl on the screen, and your changes go up into the remote "Mothership repo"! You should always check on the web repository to see if your commit went through.  
-  
-  
-  
+ 
   
   
 ###Git commands for a Forked Repo workflow:
@@ -73,5 +72,4 @@ And gears turn and lines of text whirl on the screen, and your changes go up int
 * `git status` (To see that your commit was successful and your branch is ahead of your remote fork.)
 * `git push` (Push your committed changes to your remote fork.)
 * Create a pull request on the web repository from your fork to the original repo
-
 

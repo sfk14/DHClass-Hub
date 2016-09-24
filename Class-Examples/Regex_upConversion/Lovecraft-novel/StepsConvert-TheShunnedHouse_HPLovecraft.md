@@ -1,4 +1,4 @@
-**Class Example 2016-09-23**
+#Class Example 2016-09-23
 *The Shunned House by H.P. Lovecraft*
   
   

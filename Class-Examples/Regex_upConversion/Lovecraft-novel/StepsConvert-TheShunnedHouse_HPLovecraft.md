@@ -19,8 +19,8 @@ Wrap paragraphs using "close-open strategy"
   
 Wrap numbered sections using "close-open strategy"  
 	**Find:** `<p>(\d)</p>` (4 results)  
-	**Replace:** '</section><section n="\1">`  
-*Add `<section n="1">` after first two blocks of text wrapped in `<p>` tags, and add `</section>` at the end of the document before the "Transcriber's Note". While doing this manually surround the beginning two paragraphs in `<preface>` element, and adjust the "Transcriber's Note" into a single paragraph with an appropriate label. I used `<note>`  
+	**Replace:** `</section><section n="\1">`  
+*Add `<section n="1">` after first two blocks of text wrapped in `<p>` tags, and add `</section>` at the end of the document before the "Transcriber's Note". While doing this manually surround the beginning two paragraphs in `<preface>` element, and adjust the "Transcriber's Note" into a single paragraph with an appropriate label. I used `<note>`*  
   
 Might as well also add in the `<title> and `<byline>` elements too!  
   

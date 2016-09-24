@@ -15,7 +15,7 @@ Wrap paragraphs using "close-open strategy"
 	**Replace:** `</p>\n\n<p>` 
 *Remove the erroneous closing `</p>` from beginning and add it to last paragraph in document that is missing one.   
   
-**Notice this put `<p>` elements around parts of the document that might not necessarily be paragraphs; however, the `<p>` on those other parts gives us handles to grab on to and can easily be removed.**  
+**Notice this put `<p>` elements around parts of the document that might not necessarily be paragraphs; however, the `<p>` tags on those other document parts give us handles to grab on to and will be easily removed later.**  
   
 Wrap numbered sections using "close-open strategy"  
 	**Find:** `<p>(\d)</p>` (4 results)  
@@ -30,7 +30,7 @@ Prepare to create self-closing element for ampersand divisions and removing exce
   
 Remove ampersand division and replace with self-closing element to mark divisions.  
 	**Find:** `<p>\*.+</p>$` (8 results)  
-	**Return** `<anchor type="division" subtype="ampersand"/>` 
+	**Return** `<anchor type="division" subtype="asterisk"/>` 
   
 Just some clean-up:  
 	Removing extra whitespace at line starts  
@@ -39,4 +39,5 @@ Just some clean-up:
   
 Add root element, save as XML, and re-open document to check for formedness issues!
   
+##Extra Challenge:
 **Notice there are indications of illustrations sitting inside of square brackets that we have erroneously surrounded in `<p>` elements. How could we remove the bracket pseudo-markup and re-tag those?**	

@@ -53,7 +53,7 @@ The period means *all* -- as in add *all* new files to be tracked by Git.
 ````
 git commit -m "your detailed commit message should go in here"
 ````
-Think of these commit messages as breadcrumbs for you and others to use in recording your project's progress! Check out our [issue on the importance of detailed commit messages](https://github.com/ebeshero/DHClass-Hub/issues/217).
+Think of these commit messages as breadcrumbs for you and others to use in recording your project's progress! Check out our issue on [Effective Git Commit Messages](https://github.com/ebeshero/DHClass-Hub/issues/217).
 
 * Next, you push the commit through, with:
 ````

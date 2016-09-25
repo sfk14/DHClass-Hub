@@ -3,6 +3,7 @@
 *To download a file without cloning or pulling in changes locally, navigate to the file on GitHub and on the right side near the top of the file's content click the button that gives you the "Raw" view of the file. From there you can copy and paste or right click and save.*
   
 ##Quick reference:
+* Open terminal / command line shell
 * Navigate to repo.
 * `git pull`
 * Make changes.
@@ -52,7 +53,7 @@ The period means *all* -- as in add *all* new files to be tracked by Git.
 ````
 git commit -m "your detailed commit message should go in here"
 ````
-Think of these commit messages as breadcrumbs for you and others to use in recording your project's progress!
+Think of these commit messages as breadcrumbs for you and others to use in recording your project's progress! Check out our [issue on the importance of detailed commit messages](https://github.com/ebeshero/DHClass-Hub/issues/217).
 
 * Next, you push the commit through, with:
 ````

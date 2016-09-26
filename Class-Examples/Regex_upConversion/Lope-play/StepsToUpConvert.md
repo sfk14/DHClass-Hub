@@ -9,7 +9,7 @@
   3. Surround every line in a `<l>` element =  
   **Find:** `.+` (1498 results)     **Replace:** `<l>\0</l>`  
   
-  4. Grabbing line numbers and placing them inside of `<l>` elements =  
+  4. Grab line numbers and place them inside of `<l>` elements =  
 First need to find line numbers that are sitting on line below line of dialogue  
   **Find:** `<l>(.+)</l>\n<l>(\d+)</l>` (16 results)  
   **Replace:** `<l n="\2">\1</l>`  

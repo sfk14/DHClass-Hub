@@ -19,5 +19,13 @@ Then need to find other lines containing line numbers
   **Find:** `<l>(.+)<n>(.+)</n></l>` (193 results)  
   **Replace:** `<l n="\2">\1</l>`  
   **Find:** `\s+(</l>)` (193 results)  
-  **Replace:** `\1`
+  **Replace:** `\1`  
+  
+  5. Grab speakers =  
+  **Find:** <l>[A-Z]+</l> (161 results) -- not catching all speakers  
+  Need to create a specific character set that includes Spanish accent marks  
+  **Find:** `<l>([A-ZÁÉÍÓÚÑÜ]+)</l>` (255 results)  
+  **Replace:** `</sp>\n<sp><speaker>\1</speaker>`  
+  Take `</sp>` element from first speech (on oXygen line 26) and place after the final speech (oXygen line 1737)  
+  
   

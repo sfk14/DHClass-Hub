@@ -1,0 +1,1482 @@
+<l>Peribáñez y el Comendador de Ocaña</l>
+<l>Lope de Vega</l>
+<l>ArribaAbajo</l>
+<l>Acto I</l>
+<l>Figuras del primer acto</l>
+<l>UN CURA,   a lo gracioso.</l>
+<l>INÉS,   madrina.</l>
+<l>COSTANZA,   labradora.</l>
+<l>CASILDA,   desposada.</l>
+<l>PERIBÁÑEZ,   novio.</l>
+<l>LOS MÚSICOS,   de villanos.</l>
+<l>BARTOLO,   labrador.</l>
+<l>EL COMENDADOR.</l>
+<l>MARÍN,   lacayo.</l>
+<l>LUJÁN,   lacayo.</l>
+<l>LABRADORES.</l>
+<l>LEONARDO,   criado.</l>
+<l>EL REY ENRIQUE.</l>
+<l>EL CONDESTABLE.</l>
+<l>ACOMPAÑAMIENTO.</l>
+<l>UN PAJE.</l>
+<l>DOS REGIDORES DE TOLEDO.</l>
+<l>[UN PINTOR]</l>
+<l>[Escena I]</l>
+<l>Boda de villanos. EL CURA; INÉS, madrina; COSTANZA, labradora; CASILDA, novia; PERIBÁÑEZ; músicos, de labradores.</l>
+<l>INÉS</l>
+<l>Largos años os gocéis.</l>
+<l>[Quintillas.]</l>
+<l>COSTANZA</l>
+<l>Si son como yo deseo</l>
+<l>casi inmortales seréis.</l>
+<l>CASILDA</l>
+<l>Por el de serviros, creo</l>
+<l n="5">que merezco que me honréis.</l>
+<l>CURA</l>
+<l>Aunque no parecen mal,</l>
+<l>son escusadas razones</l>
+<l>para cumplimiento igual,</l>
+<l>ni puede haber bendiciones</l>
+<l n="10">que igualen con el misal.</l>
+<l>Hartas os dije; no queda</l>
+<l>cosa que deciros pueda</l>
+<l>el más deudo, el más amigo.</l>
+<l>INÉS</l>
+<l>Señor doctor, yo no digo</l>
+<l n="15">más de que bien les suceda.</l>
+<l>CURA</l>
+<l>Espérelo en Dios, que ayuda</l>
+<l>a la gente virtüosa.</l>
+<l>Mi sobrina es muy sesuda.</l>
+<l>PERIBÁÑEZ</l>
+<l>Sólo con no ser celosa</l>
+<l n="20">saca este pleito de duda.</l>
+<l>CASILDA</l>
+<l>No me deis vos ocasión;</l>
+<l>que en mi vida tendré celos.</l>
+<l>PERIBÁÑEZ</l>
+<l>Por mí no sabréis qué son.</l>
+<l>INÉS</l>
+<l>Dicen que al amor los cielos</l>
+<l n="25">le dieron esta pensión.</l>
+<l>CURA</l>
+<l>Sentaos, y alegrad el día</l>
+<l>en que sois uno los dos.</l>
+<l>PERIBÁÑEZ</l>
+<l>Yo tengo harta alegría</l>
+<l>en ver que me ha dado Dios</l>
+<l n="30">tan hermosa compañía.</l>
+<l>CURA</l>
+<l>Bien es que a Dios se atrebuya</l>
+<l>que en el reino de Toledo</l>
+<l>no hay cara como la suya.</l>
+<l>CASILDA</l>
+<l>Si con amor pagar puedo,</l>
+<l n="35">esposo, la afición tuya,</l>
+<l>de lo que debiendo quedas,</l>
+<l>me estás en obligación.</l>
+<l>PERIBÁÑEZ</l>
+<l>Casilda, mientras no puedas</l>
+<l>excederme en afición,</l>
+<l n="40">no con palabras me excedas.</l>
+<l>Toda esta villa de Ocaña</l>
+<l>poner quisiera a tus pies,</l>
+<l>y aun todo aquello que baña</l>
+<l>Tajo hasta ser portugués,</l>
+<l n="45">entrando en el mar de España.</l>
+<l>El olivar más cargado</l>
+<l>de aceitunas me parece</l>
+<l>menos hermoso, y el prado</l>
+<l>que por el mayo florece,</l>
+<l n="50">sólo del alba pisado.</l>
+<l>No hay camuesa que se afeite</l>
+<l>que no te rinda ventaja,</l>
+<l>ni rubio y dorado aceite</l>
+<l>conservado en la tinaja,</l>
+<l n="55">que me cause más deleite.</l>
+<l>Ni el vino blanco imagino</l>
+<l>de cuarenta años tan fino</l>
+<l>como tu boca olorosa,</l>
+<l>que como al señor la rosa</l>
+<l n="60">le güele al villano el vino.</l>
+<l>Cepas que en diciembre arranco</l>
+<l>y en otubre dulce mosto,</l>
+<l>[ni] mayo de lluvias franco,</l>
+<l>ni por los fines de agosto</l>
+<l n="65">la parva de trigo blanco,</l>
+<l>igualan a ver presente</l>
+<l>en mi casa un bien que ha sido</l>
+<l>prevención más excelente</l>
+<l>para el invierno aterido</l>
+<l n="70">y para el verano ardiente.</l>
+<l>Contigo, Casilda, tengo</l>
+<l>cuanto puedo desear,</l>
+<l>y sólo el pecho prevengo;</l>
+<l>en él te he dado lugar,</l>
+<l n="75">ya que a merecerte vengo.</l>
+<l>Vive en él; que si un villano</l>
+<l>por la paz del alma es rey,</l>
+<l>que tú eres reina está llano,</l>
+<l>ya porque es divina ley,</l>
+<l n="80">y ya por derecho humano.</l>
+<l>Reina, pues que tan dichosa</l>
+<l>te hará el cielo, dulce esposa,</l>
+<l>que te diga quien te vea:</l>
+<l>«la ventura de la fea</l>
+<l n="85">pasóse a Casilda hermosa».</l>
+<l>CASILDA</l>
+<l>Pues yo, ¿cómo te diré</l>
+<l>lo menos que miro en ti,</l>
+<l>que lo más del alma fue?</l>
+<l>Jamás en el baile oí</l>
+<l n="90">son que me bullese el pie,</l>
+<l>que tal placer me causase</l>
+<l>cuando el tamboril sonase,</l>
+<l>por más que el tamborilero</l>
+<l>chiflase con el guarguero</l>
+<l n="95">y con el palo tocase.</l>
+<l>En mañana de San Juan</l>
+<l>nunca más placer me hicieron</l>
+<l>la verbena y arrayán,</l>
+<l>ni los relinchos me dieron</l>
+<l n="100">el que tus voces me dan.</l>
+<l>¿Cuál adufe bien templado,</l>
+<l>cuál salterio te ha igualado?</l>
+<l>¿Cuál pendón de procesión</l>
+<l>con sus borlas y cordón,</l>
+<l n="105">a tu sombrero chapado?</l>
+<l>No hay pies con zapatos nuevos</l>
+<l>como agradan tus amores,</l>
+<l>eres entre mil mancebos</l>
+<l>hornazo en Pascua de Flores</l>
+<l n="110">con sus picos y sus huevos.</l>
+<l>Pareces en verde prado</l>
+<l>toro bravo y rojo echado;</l>
+<l>pareces camisa nueva,</l>
+<l>que entre jazmines se lleva</l>
+<l n="115">en azafate dorado.</l>
+<l>Pareces cirio pascual</l>
+<l>y mazapán de bautismo</l>
+<l>con capillo de cendal,</l>
+<l>y paréscete a ti mismo</l>
+<l n="120">porque no tienes igual.</l>
+<l>CURA</l>
+<l>Ea, bastan los amores;</l>
+<l>que quieren estos mancebos</l>
+<l>bailar y ofrecer.</l>
+<l>PERIBÁÑEZ</l>
+<l>Señores</l>
+<l>pues no sois en amor nuevos,</l>
+<l>perdón.</l>
+<l>LOS MÚSICOS</l>
+<l n="125">Ama hasta que adores.</l>
+<l>(Canten y danzan.)</l>
+<l>[Canción-romancillo í-o.]</l>
+<l>Dente parabienes</l>
+<l>el mayo garrido,</l>
+<l>los alegres campos,</l>
+<l>las fuentes y ríos.</l>
+<l n="130">Alcen las cabezas</l>
+<l>los verdes alisos,</l>
+<l>y con frutos nuevos</l>
+<l>almendros floridos.</l>
+<l>Echen las mañanas,</l>
+<l n="135">después del rocío,</l>
+<l>en espadas verdes</l>
+<l>guarnición de lirios.</l>
+<l>Suban los ganados</l>
+<l>por el monte mismo</l>
+<l n="140">que cubrió la nieve,</l>
+<l>a pacer tomillos.</l>
+<l>(Folía.)</l>
+<l>Y a los nuevos desposados</l>
+<l>eche Dios su bendición;</l>
+<l>parabién les den los prados,</l>
+<l n="145">pues hoy para en uno son.</l>
+<l>(Vuelva[n] a danzar.)</l>
+<l>Montañas heladas</l>
+<l>y soberbios riscos,</l>
+<l>antiguas encinas</l>
+<l>y robustos pinos,</l>
+<l n="150">dad paso a las aguas</l>
+<l>en arroyos limpios</l>
+<l>que a los valles bajan</l>
+<l>de los yelos fríos.</l>
+<l>Canten ruiseñores,</l>
+<l n="155">y con dulces silbos</l>
+<l>sus amores cuenten</l>
+<l>a estos verdes mirtos.</l>
+<l>Fabriquen las aves</l>
+<l>con nuevo artificio,</l>
+<l n="160">para sus hijuelos</l>
+<l>amorosos nidos.</l>
+<l>(Folía.)</l>
+<l>Y a los nuevos desposados</l>
+<l>eche Dios su bendición;</l>
+<l>parabién les den los prados</l>
+<l n="165">pues hoy para en uno son.</l>
+<l>[Escena II]</l>
+<l>Hagan gran ruido y entre BARTOLO, labrador.</l>
+<l>[Redondillas.]</l>
+<l>CURA</l>
+<l>¿Qué es aquello?</l>
+<l>BARTOLO</l>
+<l>¿No lo veis</l>
+<l>en la grita y el rüido?</l>
+<l>CURA</l>
+<l>¿Mas que el novillo han traído?</l>
+<l>BARTOLO</l>
+<l>¿Cómo un novillo? ¡Y aun tres!</l>
+<l n="170">Pero al tiznado que agora</l>
+<l>traen del campo, ¡voto al sol,</l>
+<l>que tiene brío español!</l>
+<l>No se ha encintado en una hora.</l>
+<l>Dos vueltas ha dado a Bras,</l>
+<l n="175">que ningún italïano</l>
+<l>se ha vido andar tan liviano</l>
+<l>por la maroma jamás.</l>
+<l>A la yegua de Antón Gil,</l>
+<l>del verde recién sacada,</l>
+<l n="180">por la panza desgarrada</l>
+<l>se le mira el perejil.</l>
+<l>No es de burlas; que a Tomás,</l>
+<l>quitándole los calzones,</l>
+<l>no ha quedado en opiniones,</l>
+<l n="185">aunque no barbe jamás.</l>
+<l>El nueso Comendador,</l>
+<l>señor de Ocaña y su tierra,</l>
+<l>bizarro a picarle cierra,</l>
+<l>más gallardo que un azor.</l>
+<l n="190">¡Juro a mí, si no tuviera</l>
+<l>cintero el novillo!...</l>
+<l>CURA</l>
+<l>Aquí</l>
+<l>¿no podrá entrar?</l>
+<l>BARTOLO</l>
+<l>Antes sí.</l>
+<l>CURA</l>
+<l>Pues, Pedro, de esa manera</l>
+<l>allá me suba al terrado.</l>
+<l>COSTANZA</l>
+<l n="195">Dígale alguna oración;</l>
+<l>que ya ve que no es razón</l>
+<l>irse, señor licenciado.</l>
+<l>CURA</l>
+<l>Pues oración, ¿a qué fin?</l>
+<l>COSTANZA</l>
+<l>¿A qué fin? De resistillo.</l>
+<l>CURA</l>
+<l n="200">Engáñaste; que hay novillo</l>
+<l>que no entiende bien latín.</l>
+<l>(Éntrese.)</l>
+<l>[Escena III]</l>
+<l>COSTANZA</l>
+<l>Al terrado va sin duda.</l>
+<l>La grita creciendo va.</l>
+<l>(Voces.)</l>
+<l>INÉS</l>
+<l>Todas iremos allá;</l>
+<l n="205">que atado, al fin, no se muda.</l>
+<l>BARTOLO</l>
+<l>Es verdad que no es posible</l>
+<l>que más que la soga alcance.</l>
+<l>[Vanse.]</l>
+<l>[Escena IV]</l>
+<l>PERIBÁÑEZ</l>
+<l>¿Tú quieres que intente un lance?</l>
+<l>CASILDA</l>
+<l>¡Ay no, mi bien, que es terrible!</l>
+<l>PERIBÁÑEZ</l>
+<l n="210">Aunque más terrible sea,</l>
+<l>de los cuernos le asiré,</l>
+<l>y en tierra con él daré,</l>
+<l>porque mi valor se vea.</l>
+<l>CASILDA</l>
+<l>No conviene a tu decoro</l>
+<l n="215">el día que te has casado,</l>
+<l>ni que un recién desposado</l>
+<l>se ponga en cuernos de un toro.</l>
+<l>PERIBÁÑEZ</l>
+<l>Si refranes considero,</l>
+<l>dos me dan gran pesadumbre:</l>
+<l n="220">que a la cárcel, ni aun por lumbre,</l>
+<l>y de cuernos, ni aun tintero.</l>
+<l>Quiero obedecer.</l>
+<l>CASILDA</l>
+<l>¡Ay Dios!</l>
+<l>¿Qué es esto?</l>
+<l>(Dentro.)</l>
+<l>[GENTE]</l>
+<l>¡Qué gran desdicha!</l>
+<l>CASILDA</l>
+<l>Algún mal hizo, por dicha.</l>
+<l>PERIBÁÑEZ</l>
+<l n="225">¿Cómo, estando aquí los dos?</l>
+<l>[Escena V]</l>
+<l>BARTOLOMÉ vuelve.</l>
+<l>[Romance o-o.]</l>
+<l>BARTOLO</l>
+<l>¡Oh, que nunca le trujeran,</l>
+<l>pluguiera al cielo, del soto!</l>
+<l>¡A la fe, que no se alaben</l>
+<l>de aquesta fiesta los mozos!</l>
+<l n="230">¡Oh, mal hayas, el novillo!</l>
+<l>Nunca en el abril llovioso</l>
+<l>halles yerba en verde prado</l>
+<l>más que si fuera en agosto.</l>
+<l>Siempre te venza el contrario</l>
+<l n="235">cuando estuvieres celoso,</l>
+<l>y por los bosques bramando,</l>
+<l>halles secos los arroyos.</l>
+<l>Mueras en manos del vulgo,</l>
+<l>a pura garrocha, en coso;</l>
+<l n="240">no te mate caballero</l>
+<l>con lanza o cuchillo de oro;</l>
+<l>mal lacayo por detrás,</l>
+<l>con el acero mohoso,</l>
+<l>te haga sentar por fuerza</l>
+<l n="245">y manchar en sangre el polvo.</l>
+<l>PERIBÁÑEZ</l>
+<l>Repórtate ya, si quieres,</l>
+<l>y dinos lo que es, Bartolo;</l>
+<l>que no maldijera más</l>
+<l>Zamora a Vellido Dolfos.</l>
+<l>BARTOLO</l>
+<l n="250">El Comendador de Ocaña,</l>
+<l>mueso señor generoso,</l>
+<l>en un bayo que cubrían</l>
+<l>moscas negras pecho y lomo,</l>
+<l>mostrando por un bozal</l>
+<l n="255">de plata el rostro fogoso,</l>
+<l>y lavando en blanca espuma</l>
+<l>un tafetán verde y rojo,</l>
+<l>pasaba la calle acaso,</l>
+<l>y viendo correr el toro,</l>
+<l n="260">caló la gorra y sacó</l>
+<l>de la capa el brazo airoso.</l>
+<l>Vibró la vara y las piernas</l>
+<l>puso al bayo, que era un corzo,</l>
+<l>y al batir los acicates,</l>
+<l n="265">revolviendo el vulgo loco,</l>
+<l>trabó la soga al caballo</l>
+<l>y cayó en medio de todos.</l>
+<l>Tan grande fue la caída,</l>
+<l>que es el peligro forzoso.</l>
+<l n="270">Pero ¿qué os cuento, si aquí</l>
+<l>le trae la gente en hombros?</l>
+<l>[Escena VI]</l>
+<l>EL COMENDADOR, entre algunos labradores; dos lacayos, de librea, MARÍN y LUJÁN, borceguís, capa y gorra.</l>
+<l>[Redondillas.]</l>
+<l>SAN[CHO]</l>
+<l>Aquí estaba el licenciado,</l>
+<l>y lo podrán absolver.</l>
+<l>INÉS</l>
+<l>Pienso que se fue a esconder.</l>
+<l>PERIBÁÑEZ</l>
+<l n="275">Sube, Bartolo, al terrado.</l>
+<l>BARTOLO</l>
+<l>Voy a buscarle.</l>
+<l>PERIBÁÑEZ</l>
+<l>¡Camina!</l>
+<l>LUJÁN</l>
+<l>Por silla vamos los dos</l>
+<l>en que llevarle, si Dios</l>
+<l>llevársele determina.</l>
+<l>MARÍN</l>
+<l n="280">Vamos, Luján, que sospecho</l>
+<l>que es muerto el Comendador.</l>
+<l>LUJÁN</l>
+<l>El corazón de temor</l>
+<l>me va saltando en el pecho.</l>
+<l>[Vanse.]</l>
+<l>[Escena VII]</l>
+<l>CASILDA</l>
+<l>Id vos, porque me parece,</l>
+<l n="285">Pedro, que algo vuelve en sí,</l>
+<l>y traed agua.</l>
+<l>PERIBÁÑEZ</l>
+<l>Si aquí</l>
+<l>el Comendador muriese,</l>
+<l>no vivo más en Ocaña.</l>
+<l>¡Maldita la fiesta sea!</l>
+<l>[Escena VIII]</l>
+<l>Vanse todos. Queden CASILDA y EL COMENDADOR en una silla, y ella tomándole las manos.</l>
+<l>CASILDA</l>
+<l n="290">¡Oh, qué mal [el mal] se emplea</l>
+<l>en quien es la flor de España!</l>
+<l>¡Ah, gallardo caballero!</l>
+<l>¡Ah, valiente lidiador!</l>
+<l>¿Sois vos quien daba temor</l>
+<l n="295">con ese desnudo acero</l>
+<l>a los moros de Granada?</l>
+<l>¿Sois vos quien tantos mató?</l>
+<l>¡Una soga derribó</l>
+<l>a quien no pudo su espada!</l>
+<l n="300">Con soga os hiere la muerte;</l>
+<l>mas será por ser ladrón</l>
+<l>de la gloria y opinión</l>
+<l>de tanto capitán fuerte.</l>
+<l>¡Ah, señor Comendador!</l>
+<l>COMENDADOR</l>
+<l n="305">¿Quién llama? ¿Quién está aquí?</l>
+<l>CASILDA</l>
+<l>¡Albricias, que habló!</l>
+<l>COMENDADOR</l>
+<l>¡Ay de mí!</l>
+<l>¿Quién eres?</l>
+<l>CASILDA</l>
+<l>Yo soy, señor.</l>
+<l>No os aflijáis, que no estáis</l>
+<l>donde no os desean más bien</l>
+<l n="310">que vos mismo, aunque también</l>
+<l>quejas, mi señor, tengáis</l>
+<l>de haber corrido aquel toro.</l>
+<l>Haced cuenta que esta casa,</l>
+<l>aunque [humilde] es vuestra.</l>
+<l>COMENDADOR</l>
+<l>¡Hoy pasa</l>
+<l n="315">todo el humano tesoro!</l>
+<l>Estuve muerto en el suelo,</l>
+<l>y como ya lo creí,</l>
+<l>cuando los ojos abrí,</l>
+<l>pensé que estaba en el cielo.</l>
+<l n="320">Desengañadme, por Dios;</l>
+<l>que es justo pensar que sea</l>
+<l>cielo donde un hombre vea</l>
+<l>que hay ángeles como vos.</l>
+<l>CASILDA</l>
+<l>Antes por vuestras razones</l>
+<l n="325">podría yo presumir</l>
+<l>que estáis cerca de morir.</l>
+<l>COMENDADOR</l>
+<l>¿Cómo?</l>
+<l>CASILDA</l>
+<l>Porque veis visiones.</l>
+<l>Y advierta vueseñoría</l>
+<l>que, si es agradecimiento</l>
+<l n="330">de hallarse en el aposento</l>
+<l>desta humilde casa mía,</l>
+<l>de hoy solamente lo es.</l>
+<l>COMENDADOR</l>
+<l>¿Sois la novia, por ventura?</l>
+<l>CASILDA</l>
+<l>No por ventura, si dura</l>
+<l n="335">y crece este mal después,</l>
+<l>venido por mi ocasión.</l>
+<l>COMENDADOR</l>
+<l>¿Que vos estáis ya casada?</l>
+<l>CASILDA</l>
+<l>Casada y bien empleada.</l>
+<l>COMENDADOR</l>
+<l>Pocas hermosas lo son.</l>
+<l>CASILDA</l>
+<l n="340">Pues por eso he yo tenido</l>
+<l>la ventura de la fea.</l>
+<l>COMENDADOR</l>
+<l>[Aparte.]</l>
+<l>(¡Que un tosco villano sea</l>
+<l>de esta hermosura marido!)</l>
+<l>¿Vuestro nombre?</l>
+<l>CASILDA</l>
+<l>Con perdón,</l>
+<l n="345">Casilda, señor, me nombro.</l>
+<l>COMENDADOR</l>
+<l>[Aparte.]</l>
+<l>(De ver su traje me asombro</l>
+<l>y su rara perfeción.)</l>
+<l>Diamante en plomo engastado,</l>
+<l>¡dichoso el hombre mil veces</l>
+<l n="350">a quien tu hermosura ofreces!</l>
+<l>CASILDA</l>
+<l>No es él el bien empleado;</l>
+<l>yo lo soy Comendador.</l>
+<l>Créalo su señoría.</l>
+<l>COMENDADOR</l>
+<l>Aun para ser mujer mía</l>
+<l n="355">tenéis, Casilda, valor.</l>
+<l>Dame licencia que pueda</l>
+<l>regalarte.</l>
+<l>[Escena IX]</l>
+<l>PERIBÁÑEZ entre.</l>
+<l>PERIBÁÑEZ</l>
+<l>No parece</l>
+<l>el licenciado: Si crece</l>
+<l>el acidente...</l>
+<l>CASILDA</l>
+<l>Ahí te queda,</l>
+<l n="360">porque ya tiene salud</l>
+<l>don Fadrique, mi señor.</l>
+<l>PERIBÁÑEZ</l>
+<l>¡Albricias te da mi amor!</l>
+<l>COMENDADOR</l>
+<l>Tal ha sido la virtud</l>
+<l>desta piedra celestial.</l>
+<l>[Escena X]</l>
+<l>MARÍN y LUJÁN, lacayos.</l>
+<l>MARÍN</l>
+<l n="365">Ya dicen que ha vuelto en sí.</l>
+<l>LUJÁN</l>
+<l>Señor, la silla está aquí.</l>
+<l>COMENDADOR</l>
+<l>Pues no pase del portal;</l>
+<l>que no he menester ponerme</l>
+<l>en ella.</l>
+<l>LUJÁN</l>
+<l>¡Gracias a Dios!</l>
+<l>COMENDADOR</l>
+<l n="370">Esto que os debo a los dos;</l>
+<l>si con salud vengo a verme,</l>
+<l>satisfaré de manera</l>
+<l>que conozcáis lo que siento</l>
+<l>vuestro buen acogimiento.</l>
+<l>PERIBÁÑEZ</l>
+<l n="375">Si a vuestra salud pudiera,</l>
+<l>señor, ofrecer la mía,</l>
+<l>no lo dudéis.</l>
+<l>COMENDADOR</l>
+<l>Yo lo creo.</l>
+<l>LUJÁN</l>
+<l>[Aparte.]</l>
+<l>(¿Qué sientes?</l>
+<l>COMENDADOR</l>
+<l>Un gran deseo</l>
+<l>que cuando entré no tenía.</l>
+<l>LUJÁN</l>
+<l>No lo entiendo.</l>
+<l>COMENDADOR</l>
+<l n="380">Importa poco.</l>
+<l>LUJÁN</l>
+<l>Yo hablo de tu caída.</l>
+<l>COMENDADOR</l>
+<l>En peligro está mi vida</l>
+<l>por un pensamiento loco.)</l>
+<l>(Váyanse; queden CASILDA y PERIBÁÑEZ.)</l>
+<l>[Escena XI]</l>
+<l>PERIBÁÑEZ</l>
+<l>Parece que va mejor.</l>
+<l>CASILDA</l>
+<l n="385">Lástima, Pedro, me ha dado.</l>
+<l>PERIBÁÑEZ</l>
+<l>Por mal agüero he tomado</l>
+<l>que caiga el Comendador.</l>
+<l>¡Mal haya la fiesta, amén,</l>
+<l>el novillo y quien lo ató!</l>
+<l>CASILDA</l>
+<l n="390">No es nada, luego me habló.</l>
+<l>Antes lo tengo por bien,</l>
+<l>porque nos haga favor</l>
+<l>si ocasión se nos ofrece.</l>
+<l>PERIBÁÑEZ</l>
+<l>Casilda, mi amor merece</l>
+<l n="395">satisfación de mi amor.</l>
+<l>Ya estamos en nuestra casa;</l>
+<l>su dueño y mío has de ser.</l>
+<l>Ya sabes que la mujer</l>
+<l>para obedecer se casa;</l>
+<l n="400">que así se lo dijo Dios</l>
+<l>en el principio del mundo;</l>
+<l>que en eso estriba me fundo,</l>
+<l>la paz y el bien de los dos.</l>
+<l>Espero amores de ti;</l>
+<l n="405">que has de hacer gloria mi pena.</l>
+<l>CASILDA</l>
+<l>¿Qué ha de tener para buena</l>
+<l>una mujer?</l>
+<l>PERIBÁÑEZ</l>
+<l>Oye.</l>
+<l>CASILDA</l>
+<l>Di.</l>
+<l>PERIBÁÑEZ</l>
+<l>Amar y honrar su marido</l>
+<l>es letra deste abecé,</l>
+<l n="410">siendo buena por la B,</l>
+<l>que es todo el bien que te pido.</l>
+<l>Haráte cuerda la C,</l>
+<l>la D dulce y entendida</l>
+<l>la E, y la F en la vida</l>
+<l n="415">firme, fuerte y de gran fe.</l>
+<l>La G grave, y para honrada,</l>
+<l>la H, que con la I</l>
+<l>te hará ilustre, si de ti</l>
+<l>queda mi casa ilustrada.</l>
+<l n="420">Limpia serás por la L,</l>
+<l>y por la M, maestra</l>
+<l>de tus hijos, cual lo muestra</l>
+<l>quien de sus vicios se duele.</l>
+<l>La N te enseña un no</l>
+<l n="425">a solicitudes locas;</l>
+<l>que este no, que aprenden pocas,</l>
+<l>está en la N y la O.</l>
+<l>La P te hará pensativa,</l>
+<l>la Q bien quista, la R</l>
+<l n="430">con tal razón, que destierre</l>
+<l>toda locura excesiva.</l>
+<l>Solícita te ha de hacer</l>
+<l>de mi regalo la S,</l>
+<l>la T tal que no pudiese</l>
+<l n="435">hallarse mejor mujer.</l>
+<l>La V te hará verdadera,</l>
+<l>la X buena cristiana,</l>
+<l>letra que en la vida humana</l>
+<l>has de aprender la primera.</l>
+<l n="440">Por la Z has de guardarte</l>
+<l>de ser celosa; que es cosa</l>
+<l>que nuestra paz amorosa</l>
+<l>puede, Casilda, quitarte.</l>
+<l>Aprende este canto llano;</l>
+<l n="445">que con aquesta cartilla,</l>
+<l>tú serás flor de la villa,</l>
+<l>y yo el más noble villano.</l>
+<l>CASILDA</l>
+<l>Estudiaré, por servirte,</l>
+<l>las letras de ese abecé;</l>
+<l n="450">pero dime si podré</l>
+<l>otro, mi Pedro, decirte,</l>
+<l>si no es acaso licencia.</l>
+<l>PERIBÁÑEZ</l>
+<l>Antes yo me huelgo. Di;</l>
+<l>que quiero aprender de ti.</l>
+<l>CASILDA</l>
+<l n="455">Pues escucha, y ten paciencia.</l>
+<l>La primera letra es A,</l>
+<l>que altanero no has de ser;</l>
+<l>por la B no me has de hacer</l>
+<l>burla para siempre ya.</l>
+<l n="460">La C te hará compañero</l>
+<l>en mis trabajos; la D</l>
+<l>dadivoso, por la fe</l>
+<l>con que regalarte espero.</l>
+<l>La F de fácil trato,</l>
+<l n="465">la G galán para mí,</l>
+<l>la H honesto, y la I</l>
+<l>sin pensamiento de ingrato.</l>
+<l>Por la L liberal,</l>
+<l>y por la M el mejor</l>
+<l n="470">marido que tuvo amor,</l>
+<l>porque es el mayor caudal.</l>
+<l>Por la N no serás</l>
+<l>necio, que es fuerte castigo;</l>
+<l>por la O sólo conmigo</l>
+<l n="475">todas las horas tendrás.</l>
+<l>Por la P me has de hacer obras</l>
+<l>de padre; porque quererme</l>
+<l>por la Q será ponerme</l>
+<l>en la obligación que cobras.</l>
+<l n="480">Por la R regalarme,</l>
+<l>y por la S servirme,</l>
+<l>por la T tenerte firme,</l>
+<l>por la V verdad tratarme,</l>
+<l>por la X con abiertos</l>
+<l n="485">brazos imitarla ansí,</l>
+<l>(Abrázale.)</l>
+<l>y como estamos aquí,</l>
+<l>estemos después de muertos.</l>
+<l>PERIBÁÑEZ</l>
+<l>Yo me ofrezco, prenda mía,</l>
+<l>a saber este abecé.</l>
+<l>¿Quieres más?</l>
+<l>CASILDA</l>
+<l n="490">Mi bien, no sé</l>
+<l>si me atreva el primer día</l>
+<l>a pedirte un gran favor.</l>
+<l>PERIBÁÑEZ</l>
+<l>Mi amor se agravia de ti.</l>
+<l>CASILDA</l>
+<l>¿Cierto?</l>
+<l>PERIBÁÑEZ</l>
+<l>Sí.</l>
+<l>CASILDA</l>
+<l>Pues oye.</l>
+<l>PERIBÁÑEZ</l>
+<l>Di,</l>
+<l n="495">cuantas se obliga mi amor.</l>
+<l>CASILDA</l>
+<l>El día de la Asunción</l>
+<l>se acerca; tengo deseo</l>
+<l>de ir a Toledo, y creo</l>
+<l>que no es gusto, es devoción</l>
+<l n="500">de ver la imagen también</l>
+<l>del Sagrario, que aquel día</l>
+<l>sale en procesión.</l>
+<l>PERIBÁÑEZ</l>
+<l>La mía</l>
+<l>es tu voluntad, mi bien.</l>
+<l>Tratemos de la partida.</l>
+<l>CASILDA</l>
+<l n="505">Ya por la G me pareces</l>
+<l>galán; tus manos mil veces</l>
+<l>beso.</l>
+<l>PERIBÁÑEZ</l>
+<l>A tus primas convida,</l>
+<l>y vaya un famoso carro.</l>
+<l>CASILDA</l>
+<l>¿Tanto me quieres honrar?</l>
+<l>PERIBÁÑEZ</l>
+<l n="510">Allá te pienso comprar...</l>
+<l>CASILDA</l>
+<l>Dilo.</l>
+<l>PERIBÁÑEZ</l>
+<l>¡Un vestido bizarro!</l>
+<l>(Éntre[n]se.)</l>
+<l>[Escena XII]</l>
+<l>Salga[n] EL COMENDADOR y LEONARDO, criado.</l>
+<l>[Quintillas.]</l>
+<l>COMENDADOR</l>
+<l>Llámame, Leonardo, presto</l>
+<l>a Luján.</l>
+<l>LEONARDO</l>
+<l>Ya le avisé,</l>
+<l>pero estaba descompuesto.</l>
+<l>COMENDADOR</l>
+<l>Vuelve a llamarle.</l>
+<l>LEONARDO</l>
+<l n="515">Yo iré.</l>
+<l>COMENDADOR</l>
+<l>Parte.</l>
+<l>LEONARDO</l>
+<l>[Aparte.]</l>
+<l>(¿En qué ha de parar esto?</l>
+<l>Cuando se siente mejor,</l>
+<l>tiene más melancolía,</l>
+<l>y se queja sin dolor,</l>
+<l n="520">sospiros al aire envía.</l>
+<l>¡Mátenme si no es amor!)</l>
+<l>(Váyanse.)</l>
+<l>[Escena XIII]</l>
+<l>[Liras.]</l>
+<l>COMENDADOR</l>
+<l>Hermosa labradora,</l>
+<l>más bella, más lucida,</l>
+<l>que ya del sol vestida</l>
+<l n="525">la colorada aurora;</l>
+<l>sierra de blanca nieve,</l>
+<l>que los rayos de amor vencer se atreve,</l>
+<l>parece que cogiste</l>
+<l>con esas blancas manos</l>
+<l n="530">en los campos lozanos,</l>
+<l>que el mayo adorna y viste,</l>
+<l>cuantas flores agora</l>
+<l>Céfiro engendra en el regazo a Flora.</l>
+<l>Yo vi los verdes prados</l>
+<l n="535">llamar tus plantas bellas,</l>
+<l>por florecer con ellas,</l>
+<l>de su nieve pisados,</l>
+<l>y vi de tu labranza</l>
+<l>nacer al corazón verde esperanza.</l>
+<l n="540">¡Venturoso el villano</l>
+<l>que tal agosto ha hecho</l>
+<l>del trigo de tu pecho</l>
+<l>con atrevida mano,</l>
+<l>y [que] con blanca barba</l>
+<l n="545">verá en sus eras de tus hijos parva!</l>
+<l>Para tan gran tesoro</l>
+<l>de fruto sazonado,</l>
+<l>el mismo sol dorado</l>
+<l>te preste el carro de oro,</l>
+<l n="550">o el que forman estrellas,</l>
+<l>pues las del norte no serán tan bellas.</l>
+<l>Por su azadón trocara</l>
+<l>mi dorada cuchilla,</l>
+<l>a Ocaña tu casilla,</l>
+<l n="555">casa en que el sol repara.</l>
+<l>¡Dichoso tú, que tienes</l>
+<l>en la troj de tu lecho tantos bienes!</l>
+<l>[Escena XIV]</l>
+<l>Entre LUJÁN.</l>
+<l>[Quintillas.]</l>
+<l>LUJÁN</l>
+<l>Perdona; que estaba el bayo</l>
+<l>necesitado de mí.</l>
+<l>COMENDADOR</l>
+<l n="560">Muerto estoy, matóme un rayo.</l>
+<l>Aún dura, Luján, en mí</l>
+<l>la fuerza de aquel desmayo.</l>
+<l>LUJÁN</l>
+<l>¿Todavía persevera,</l>
+<l>y aquella pasión te dura?</l>
+<l>COMENDADOR</l>
+<l n="565">Como va el fuego a su esfera,</l>
+<l>el alma a tanta hermosura</l>
+<l>sube cobarde y ligera.</l>
+<l>Si quiero, Luján, hacerme</l>
+<l>amigo deste villano,</l>
+<l n="570">donde el honor menos duerme</l>
+<l>que en el sutil cortesano,</l>
+<l>¿qué medio puede valerme?</l>
+<l>¿Será bien decir que trato</l>
+<l>de no parecer ingrato</l>
+<l n="575">al deseo que mostró</l>
+<l>hacerle algún bien?</l>
+<l>LUJÁN</l>
+<l>Si yo</l>
+<l>quisiera bien, con recato,</l>
+<l>quiero decir, advertido</l>
+<l>de un peligro conocido,</l>
+<l n="580">primero que a la mujer</l>
+<l>solicitara tener</l>
+<l>la gracia de su marido.</l>
+<l>Éste, aunque es hombre de bien</l>
+<l>y honrado entre sus iguales,</l>
+<l n="585">se descuidará también</l>
+<l>si le haces obras tales</l>
+<l>como por otros se ven.</l>
+<l>Que hay marido que, obligado,</l>
+<l>procede más descuidado;</l>
+<l n="590">que la obligación, señor,</l>
+<l>descuida el mayor cuidado.</l>
+<l>COMENDADOR</l>
+<l>¿Qué le daré por primeras</l>
+<l>señales?</l>
+<l>LUJÁN</l>
+<l>Si consideras</l>
+<l>lo que un labrador adulas,</l>
+<l n="595">será darle un par de mulas</l>
+<l>más que si a Ocaña le dieras.</l>
+<l>Éste es el mayor tesoro</l>
+<l>de un labrador. Y a su esposa,</l>
+<l>unas arracadas de oro;</l>
+<l n="600">que con Angélica hermosa</l>
+<l>esto escriben de Medoro:</l>
+<l>[Soneto.]</l>
+<l>«Reinaldo fuerte en roja sangre baña</l>
+<l>por Angélica el campo de Agramante;</l>
+<l>Roldán valiente, gran señor de Anglante,</l>
+<l n="605">cubre de cuerpos la marcial campaña;</l>
+<l>la furia Malgesí del cetro engaña;</l>
+<l>sangriento corre el fiero Sacripante;</l>
+<l>cuanto le pone la ocasión delante,</l>
+<l>derriba al suelo Ferragut de España.</l>
+<l n="610">Mas, mientras los gallardos paladines</l>
+<l>armados tiran tajos y reveses,</l>
+<l>presentóle Medoro unos chapines;</l>
+<l>y entre unos verdes olmos y cipreses,</l>
+<l>gozó de amor los regalados fines,</l>
+<l n="615">y la tuvo por suya trece meses.»</l>
+<l>[Quintillas.]</l>
+<l>COMENDADOR</l>
+<l>No pintó mal el poeta</l>
+<l>lo que puede el interés.</l>
+<l>LUJÁN</l>
+<l>Ten por opinión discreta</l>
+<l>la del dar, porque al fin es</l>
+<l n="620">la más breve y más secreta.</l>
+<l>Los servicios personales</l>
+<l>son vistos públicamente,</l>
+<l>y dan del amor señales.</l>
+<l>El interés diligente,</l>
+<l n="625">que negocia por metales,</l>
+<l>dicen que llevan los pies</l>
+<l>todos envueltos en lana.</l>
+<l>COMENDADOR</l>
+<l>¡Pues alto! ¡Venza interés!</l>
+<l>LUJÁN</l>
+<l>Mares y montes allana,</l>
+<l n="630">y tú lo verás después.</l>
+<l>COMENDADOR</l>
+<l>Desde que fuiste conmigo,</l>
+<l>Luján, al Andalucía,</l>
+<l>y fui en la guerra testigo</l>
+<l>de tu honra y valentía,</l>
+<l n="635">huelgo de tratar contigo</l>
+<l>todas las cosas que son</l>
+<l>de gusto y secreto, a efeto</l>
+<l>de saber tu condición;</l>
+<l>que un hombre de bien discreto</l>
+<l n="640">es digno de estimación</l>
+<l>en cualquier parte o lugar</l>
+<l>que le ponga su fortuna;</l>
+<l>y yo te pienso mudar</l>
+<l>deste oficio.</l>
+<l>LUJÁN</l>
+<l>Si en alguna</l>
+<l n="645">cosa te puedo agradar,</l>
+<l>mándame, y verás mi amor;</l>
+<l>que yo no puedo, señor,</l>
+<l>ofrecerte otras grandezas.</l>
+<l>COMENDADOR</l>
+<l>Sácame destas tristezas.</l>
+<l>LUJÁN</l>
+<l n="650">Éste es el medio mejor.</l>
+<l>COMENDADOR</l>
+<l>Pues vamos, y buscarás</l>
+<l>el par de mulas más bello</l>
+<l>que él haya visto jamás.</l>
+<l>LUJÁN</l>
+<l>Ponles ese yugo al cuello;</l>
+<l n="655">que antes de un hora verás</l>
+<l>arar en su pecho fiero</l>
+<l>surcos de afición, tributo</l>
+<l>de que tu cosecha espero;</l>
+<l>que en trigo de amor no hay fruto,</l>
+<l n="660">si no se siembra dinero.</l>
+<l>(Váya[n]se.)</l>
+<l>[Escena XV]</l>
+<l>Salen INÉS, COSTANZA y CASILDA.</l>
+<l>[Redondillas.]</l>
+<l>CASILDA</l>
+<l>¿No es tarde para partir?</l>
+<l>El tiempo es bueno, y es llano</l>
+<l>todo el camino.</l>
+<l>COSTANZA</l>
+<l>En verano,</l>
+<l>suelen muchas veces ir</l>
+<l n="665">en diez horas, y aún en menos.</l>
+<l>¿Qué galas llevas, Inés?</l>
+<l>INÉS</l>
+<l>Pobres, y el talle que ves.</l>
+<l>COSTANZA</l>
+<l>Yo llevo unos cuerpos llenos</l>
+<l>de pasamanos de plata.</l>
+<l>INÉS</l>
+<l n="670">Desabrochado el sayuelo,</l>
+<l>salen bien.</l>
+<l>CASILDA</l>
+<l>De terciopelo,</l>
+<l>sobre encarnada escarlata</l>
+<l>los pienso llevar; que son</l>
+<l>galas de mujer casada.</l>
+<l>COSTANZA</l>
+<l n="675">Una basquiña prestada</l>
+<l>me daba Inés, la de Antón.</l>
+<l>Era palmilla gentil</l>
+<l>de Cuenca, si allá se teje,</l>
+<l>y oblígame a que la deje</l>
+<l n="680">Menga, la de Blasco Gil,</l>
+<l>porque dice que el color</l>
+<l>no dice bien con mi cara.</l>
+<l>INÉS</l>
+<l>Bien sé yo quién te prestara</l>
+<l>una faldilla mejor.</l>
+<l>COSTANZA</l>
+<l>¿Quién?</l>
+<l>INÉS</l>
+<l>Casilda.</l>
+<l>CASILDA</l>
+<l n="685">Si tú quieres,</l>
+<l>la de grana blanca es buena,</l>
+<l>o la verde, que está llena</l>
+<l>de vivos.</l>
+<l>COSTANZA</l>
+<l>Liberal eres</l>
+<l>y bien acondicionada;</l>
+<l n="690">mas, si Pedro ha de reñir,</l>
+<l>no te la quiero pedir,</l>
+<l>y guárdete Dios, casada.</l>
+<l>CASILDA</l>
+<l>No es Peribáñez, Costanza,</l>
+<l>tan mal acondicionado.</l>
+<l>INÉS</l>
+<l n="695">¿Quiérete bien tu velado?</l>
+<l>CASILDA</l>
+<l>¿Tan presto temes mudanza?</l>
+<l>No hay en esta villa toda</l>
+<l>novios de placer tan ricos;</l>
+<l>pero aún comemos los picos</l>
+<l n="700">de las roscas de la boda.</l>
+<l>INÉS</l>
+<l>¿Dícete muchos amores?</l>
+<l>CASILDA</l>
+<l>No sé yo cuáles son pocos.</l>
+<l>Sé que mis sentidos locos</l>
+<l>lo están de tantos favores.</l>
+<l n="705">Cuando se muestra el lucero,</l>
+<l>viene del campo mi esposo,</l>
+<l>de su cena deseoso;</l>
+<l>siéntele el alma primero,</l>
+<l>y salgo a abrille la puerta,</l>
+<l n="710">arrojando el almohadilla,</l>
+<l>que siempre tengo en la villa</l>
+<l>quien mis labores concierta.</l>
+<l>El de las mulas se arroja,</l>
+<l>y yo me arrojo en sus brazos;</l>
+<l n="715">tal vez de nuestros abrazos</l>
+<l>la bestia hambrienta se enoja,</l>
+<l>y, sintiéndola gruñir,</l>
+<l>dice: «En dándole la cena</l>
+<l>al ganado, cara buena,</l>
+<l n="720">volverá Pedro a salir.»</l>
+<l>Mientras él paja les echa,</l>
+<l>ir por cebada me manda;</l>
+<l>yo la traigo, él la zaranda,</l>
+<l>y deja la que aprovecha.</l>
+<l n="725">Revuélvela en el pesebre,</l>
+<l>y allí me vuelve a abrazar;</l>
+<l>que no hay tan bajo lugar</l>
+<l>que el amor no le celebre.</l>
+<l>Salimos donde ya está</l>
+<l n="730">dándonos voces la olla,</l>
+<l>porque el ajo y la cebolla,</l>
+<l>fuera del olor que da</l>
+<l>por toda nuestra cocina,</l>
+<l>tocan a la cobertera</l>
+<l n="735">el villano de manera</l>
+<l>que a bailalle nos inclina.</l>
+<l>Sácola en limpios manteles,</l>
+<l>no en plata, aunque yo quisiera;</l>
+<l>platos son de Talavera,</l>
+<l n="740">que están vertiendo claveles.</l>
+<l>Avahóle su escodilla</l>
+<l>de sopas con tal primor,</l>
+<l>que no la come mejor</l>
+<l>el señor de muesa villa;</l>
+<l n="745">y él lo paga, porque a fe,</l>
+<l>que apenas bocado toma,</l>
+<l>de que, como a su paloma,</l>
+<l>lo que es mejor no me dé.</l>
+<l>Bebe, y deja la mitad;</l>
+<l n="750">bébole las fuerzas yo.</l>
+<l>Traigo olivas, y si no,</l>
+<l>es postre la voluntad.</l>
+<l>Acabada la comida</l>
+<l>puestas las manos los dos,</l>
+<l n="755">dámosle gracias a Dios</l>
+<l>por la merced recibida;</l>
+<l>y vámonos a acostar</l>
+<l>donde le pesa al Aurora</l>
+<l>cuando se llega la hora</l>
+<l n="760">de venirnos a llamar.</l>
+<l>INÉS</l>
+<l>¡Dichosa tú, casadilla,</l>
+<l>que en tan buen estado estás!</l>
+<l>Ea, ya no falta más</l>
+<l>sino salir de la villa.</l>
+<l>[Escena XVI]</l>
+<l>Entre PERIBÁÑEZ.</l>
+<l>CASILDA</l>
+<l n="765">¿Está el carro aderezado?</l>
+<l>PERIBÁÑEZ</l>
+<l>Lo mejor que puede está.</l>
+<l>CASILDA</l>
+<l>Luego, ¿pueden subir ya?</l>
+<l>PERIBÁÑEZ</l>
+<l>Pena, Casilda, me ha dado</l>
+<l>el ver que el carro de Bras</l>
+<l n="770">lleva alhombra y repostero.</l>
+<l>CASILDA</l>
+<l>Pídele a algún caballero.</l>
+<l>INÉS</l>
+<l>Al Comendador podrás.</l>
+<l>PERIBÁÑEZ</l>
+<l>Él nos mostraba afición,</l>
+<l>y pienso que nos le diera.</l>
+<l>CASILDA</l>
+<l>¿Qué se pierde en ir?</l>
+<l>PERIBÁÑEZ</l>
+<l n="775">Espera;</l>
+<l>que a la fe que no es razón</l>
+<l>que vaya sin repostero.</l>
+<l>INÉS</l>
+<l>Pues vámonos a vestir.</l>
+<l>CASILDA</l>
+<l>También le puedes pedir...</l>
+<l>PERIBÁÑEZ</l>
+<l>¿Qué, mi Casilda?</l>
+<l>CASILDA</l>
+<l n="780">Un sombrero.</l>
+<l>PERIBÁÑEZ</l>
+<l>Eso no.</l>
+<l>CASILDA</l>
+<l>¿Por qué? ¿Es exceso?</l>
+<l>PERIBÁÑEZ</l>
+<l>Porque plumas de señor</l>
+<l>podrán darnos por favor,</l>
+<l>a ti viento y a mí peso.</l>
+<l>(Vanse todos.)</l>
+<l>[Escena XVII]</l>
+<l>Entre[n] EL COMENDADOR y LUJÁN.</l>
+<l>[Endecasílabos su.]</l>
+<l>COMENDADOR</l>
+<l>Ellas son con estremo.</l>
+<l>LUJÁN</l>
+<l n="785">Yo no he visto</l>
+<l>mejores bestias, por tu vida y mía,</l>
+<l>en cuantas he tratado, y no son pocas.</l>
+<l>COMENDADOR</l>
+<l>Las arracadas faltan.</l>
+<l>LUJÁN</l>
+<l>Dijo el dueño</l>
+<l>que cumplen a estas yerbas [los] tres años,</l>
+<l n="790">y costaron lo mismo que le diste,</l>
+<l>habrá un mes, en la feria de Mansilla,</l>
+<l>y que saben muy bien de albarda y silla.</l>
+<l>COMENDADOR</l>
+<l>¿De qué manera, di, Luján, podremos</l>
+<l>darlas a Peribáñez, su marido,</l>
+<l n="795">que no tenga malicia en mi propósito?</l>
+<l>LUJÁN</l>
+<l>Llamándole a tu casa, y previniéndole</l>
+<l>de que estás a su amor agradecido.</l>
+<l>Pero cáusame risa en ver que hagas</l>
+<l>tu secretario en cosas de tu gusto</l>
+<l>un hombre de mis prendas.</l>
+<l>COMENDADOR</l>
+<l n="800">No te espantes;</l>
+<l>que, sirviendo mujer de humildes prendas,</l>
+<l>es fuerza que lo trate con las tuyas.</l>
+<l>Si sirviera una dama, hubiera dado</l>
+<l>parte a mi secretario o mayordomo,</l>
+<l n="805">o a algunos gentilhombres de mi casa.</l>
+<l>Éstos hicieran joyas, y buscaran</l>
+<l>cadenas de diamantes, brincos, perlas,</l>
+<l>telas, rasos, damascos, terciopelos,</l>
+<l>y otras cosas extrañas y exquisitas,</l>
+<l n="810">hasta en Arabia procurar la Fénix;</l>
+<l>pero la calidad de lo que quiero</l>
+<l>me obliga a darte parte de mis cosas,</l>
+<l>Luján, aunque eres mi lacayo; mira</l>
+<l>que para comprar mulas eres propio,</l>
+<l n="815">de suerte que yo trato el amor mío</l>
+<l>de la manera misma que él me trata.</l>
+<l>LUJÁN</l>
+<l>Ya que no fue tu amor, señor, discreto,</l>
+<l>el modo de tratarle lo parece.</l>
+<l>[Escena XVIII]</l>
+<l>Entre LEONARDO.</l>
+<l>LEONARDO</l>
+<l>Aquí está Peribáñez.</l>
+<l>COMENDADOR</l>
+<l>¿Quién, Leonardo?</l>
+<l>LEONARDO</l>
+<l>Peribáñez, señor.</l>
+<l>COMENDADOR</l>
+<l n="820">¿Qué es lo que dices?</l>
+<l>LEONARDO</l>
+<l>Digo que me pregunta Peribáñez</l>
+<l>[por ti], y yo pienso bien que le conoces.</l>
+<l>Es Peribáñez labrador de Ocaña,</l>
+<l>cristiano viejo y rico, hombre tenido</l>
+<l n="825">en gran veneración de sus iguales,</l>
+<l>y que, si se quisiese alzar agora</l>
+<l>en esta villa, seguirán su nombre</l>
+<l>cuantos salen al campo con su arado,</l>
+<l>porque es, aunque villano, muy honrado.</l>
+<l>LUJÁN</l>
+<l>¿De qué has perdido el color?</l>
+<l>COMENDADOR</l>
+<l n="830">¡Ay cielos!</l>
+<l>¡Que de sólo venir el que es esposo</l>
+<l>de una mujer que quiero bien, me sienta</l>
+<l>descolorir, helar y temblar todo!</l>
+<l>LUJÁN</l>
+<l>Luego, ¿no ternás ánimo de verle?</l>
+<l>COMENDADOR</l>
+<l n="835">Di que entre; que del modo que quien ama,</l>
+<l>la calle, las ventanas y las rejas</l>
+<l>agradables le son, y en las crïadas</l>
+<l>parece que ve el rostro de su dueño,</l>
+<l>así pienso mirar en su marido</l>
+<l n="840">la hermosura por quien estoy perdido.</l>
+<l>[Escena XIX]</l>
+<l>PERIBÁÑEZ con capa.</l>
+<l>PERIBÁÑEZ</l>
+<l>Dame tus generosos pies.</l>
+<l>COMENDADOR</l>
+<l>¡Oh Pedro!</l>
+<l>Seas mil veces bien venido. Dame</l>
+<l>otras tantas tus brazos.</l>
+<l>PERIBÁÑEZ</l>
+<l>¡Señor mío!</l>
+<l>¡Tanta merced a un rústico villano</l>
+<l n="845">de los menores que en Ocaña tienes!</l>
+<l>¡Tanta merced a un labrador!</l>
+<l>COMENDADOR</l>
+<l>No eres</l>
+<l>indigno, Peribáñez, de mis brazos,</l>
+<l>que, fuera de ser hombre bien nacido,</l>
+<l>y, por tu entendimiento y tus costumbres,</l>
+<l n="850">honra de los vasallos de mi tierra,</l>
+<l>te debo estar agradecido, y tanto</l>
+<l>cuanto ha sido por ti tener la vida;</l>
+<l>que pienso que sin ti fuera perdida.</l>
+<l>¿Qué quieres de esta casa?</l>
+<l>PERIBÁÑEZ</l>
+<l>Señor mío,</l>
+<l n="855">yo soy, ya lo sabrás, recién casado.</l>
+<l>Los hombres, y de bien, cual lo profeso,</l>
+<l>hacemos, aunque pobres, el oficio</l>
+<l>que hicier[a]n los galanes de palacio.</l>
+<l>Mi mujer me ha pedido que la lleve</l>
+<l n="860">a la fiesta de agosto, que en Toledo</l>
+<l>es, como sabes, de su santa iglesia</l>
+<l>celebrada de suerte, que convoca</l>
+<l>a todo el reino. Van también sus primas.</l>
+<l>Yo, señor, tengo en casa pobres sargas,</l>
+<l n="865">no franceses tapices de oro y seda,</l>
+<l>no reposteros con doradas armas,</l>
+<l>ni coronados de blasón y plumas</l>
+<l>los timbres generosos; y así, vengo</l>
+<l>a que se digne vuestra señoría</l>
+<l n="870">de prestarme una alhombra y repostero</l>
+<l>para adornar el carro; y le suplico</l>
+<l>que mi ignorancia su grandeza abone,</l>
+<l>y como enamorado me perdone.</l>
+<l>COMENDADOR</l>
+<l>¿Estás contento, Peribáñez?</l>
+<l>PERIBÁÑEZ</l>
+<l>Tanto,</l>
+<l n="875">que no trocara a este sayal grosero</l>
+<l>la encomienda mayor que el pecho cruza</l>
+<l>de vuestra señoría, porque tengo</l>
+<l>mujer honrada, y no de mala cara,</l>
+<l>buena cristiana, humilde, y que me quiere</l>
+<l n="880">no sé si tanto como yo la quiero,</l>
+<l>pero con más amor que mujer tuvo.</l>
+<l>COMENDADOR</l>
+<l>Tenéis razón de amar a quien os ama,</l>
+<l>por ley divina y por humanas leyes;</l>
+<l>que a vos eso os agrada como vuestro.</l>
+<l n="885">¡Hola! Dalde el alfombra mequinesa,</l>
+<l>con ocho reposteros de mis armas,</l>
+<l>y pues hay ocasión para pagarle</l>
+<l>el buen acogimiento de su casa</l>
+<l>adonde hallé la vida, las dos mulas</l>
+<l n="890">que compré para el coche de camino;</l>
+<l>y a su esposa llevad las arracadas,</l>
+<l>si el platero las tiene ya acabadas.</l>
+<l>PERIBÁÑEZ</l>
+<l>Aunque bese la tierra, señor mío,</l>
+<l>en tu nombre mil veces, no te pago</l>
+<l n="895">una mínima parte de las muchas</l>
+<l>que debo a las mercedes que me haces.</l>
+<l>Mi esposa y yo, hasta aquí vasallos tuyos,</l>
+<l>desde hoy somos esclavos de tu casa.</l>
+<l>COMENDADOR</l>
+<l>Ve, Leonardo, con él.</l>
+<l>LEONARDO</l>
+<l>Ven[te] conmigo.</l>
+<l>(Vanse.)</l>
+<l>[Escena XX]</l>
+<l>COMENDADOR</l>
+<l>Luján, ¿qué te parece?</l>
+<l>LUJÁN</l>
+<l n="900">Que se viene</l>
+<l>la ventura a tu casa.</l>
+<l>COMENDADOR</l>
+<l>Escucha aparte:</l>
+<l>el alazán al punto me adereza,</l>
+<l>que quiero ir a Toledo rebozado,</l>
+<l>porque me lleva el alma esta villana.</l>
+<l>LUJÁN</l>
+<l>¿Seguirla quieres?</l>
+<l>COMENDADOR</l>
+<l n="905">Sí, pues me persigue,</l>
+<l>porque este ardor con verla se mitigue.</l>
+<l>(Váyanse.)</l>
+<l>[Escena XXI]</l>
+<l>Entren con acompañamiento EL REY ENRIQUE y EL CONDESTABLE.</l>
+<l>[Redondillas.]</l>
+<l>CONDESTABLE</l>
+<l>Alegre está la ciudad,</l>
+<l>y a servirte apercebida</l>
+<l>con la dichosa venida</l>
+<l n="910">de tu sacra majestad.</l>
+<l>Auméntales el placer</l>
+<l>ser víspera de tal día.</l>
+<l>REY</l>
+<l>El deseo que tenía</l>
+<l>me pueden agradecer.</l>
+<l n="915">Soy de su rara hermosura</l>
+<l>el mayor apasionado.</l>
+<l>CONDESTABLE</l>
+<l>Ella, en amor y en cuidado,</l>
+<l>notablemente procura</l>
+<l>mostrar agradecimiento.</l>
+<l>REY</l>
+<l n="920">Es otava maravilla,</l>
+<l>es corona de Castilla,</l>
+<l>es su lustre y ornamento;</l>
+<l>es cabeza, Condestable,</l>
+<l>de quien los miembros reciben</l>
+<l n="925">vida, con que alegres viven;</l>
+<l>es a la vista admirable.</l>
+<l>Como Roma, está sentada</l>
+<l>sobre un monte, que ha vencido</l>
+<l>los siete por quien ha sido</l>
+<l n="930">tantos siglos celebrada.</l>
+<l>Salgo de su santa iglesia</l>
+<l>con admiración y amor.</l>
+<l>CONDESTABLE</l>
+<l>Este milagro, señor,</l>
+<l>vence al antiguo de Efesia.</l>
+<l n="935">¿Piensas hallarte mañana</l>
+<l>en la procesión?</l>
+<l>REY</l>
+<l>Iré,</l>
+<l>para ejemplo de mi fe,</l>
+<l>con la imagen soberana,</l>
+<l>que la querría obligar</l>
+<l n="940">a que rogase por mí</l>
+<l>en esta jornada.</l>
+<l>[Escena XXII]</l>
+<l>UN PAJE entre.</l>
+<l>PAJE</l>
+<l>Aquí</l>
+<l>tus pies vienen a besar</l>
+<l>[Romance e-o.]</l>
+<l>dos regidores, de parte</l>
+<l>de su noble ayuntamiento.</l>
+<l>REY</l>
+<l>Di que lleguen.</l>
+<l>(Dos regidores.)</l>
+<l>REGIDOR</l>
+<l n="945">Esos pies</l>
+<l>besa, gran señor, Toledo,</l>
+<l>y dice que, para darte</l>
+<l>respuesta con breve acuerdo</l>
+<l>a lo que pides, y es justo,</l>
+<l n="950">de la gente y el dinero,</l>
+<l>juntó sus nobles, y todos</l>
+<l>de común consentimiento,</l>
+<l>para la jornada ofrecen</l>
+<l>mil hombres de todo el reino</l>
+<l n="955">y cuarenta mil ducados.</l>
+<l>REY</l>
+<l>Mucho a Toledo agradezco</l>
+<l>el servicio que me hace;</l>
+<l>pero [es] Toledo en efeto.</l>
+<l>¿Sois caballeros los dos?</l>
+<l>REGIDOR</l>
+<l n="960">Los dos somos caballeros.</l>
+<l>REY</l>
+<l>Pues hablad al Condestable</l>
+<l>mañana, porque Toledo</l>
+<l>vea que en vosotros pago</l>
+<l>lo que a su nobleza debo.</l>
+<l>[Escena XXIII]</l>
+<l>Entren INÉS y COSTANZA, y CASILDA, con sombreros de borlas y vestidos de labradoras a uso de la Sagra, y PERIBÁÑEZ, y EL COMENDADOR, de camino, detrás.</l>
+<l>INÉS</l>
+<l n="965">¡Pardiez, que tengo de verle,</l>
+<l>pues hemos venido a tiempo</l>
+<l>que está el rey en la ciudad!</l>
+<l>COSTANZA</l>
+<l>¡Oh, qué gallardo mancebo!</l>
+<l>Éste llaman don Enrique</l>
+<l>Tercero.</l>
+<l>CASILDA</l>
+<l n="970">¡Qué buen tercero!</l>
+<l>PERIBÁÑEZ</l>
+<l>Es hijo del rey don Juan</l>
+<l>el Primero, y así, es nieto</l>
+<l>del Segundo don Enrique,</l>
+<l>el que mató al rey don Pedro,</l>
+<l n="975">que fue Guzmán por la madre,</l>
+<l>y valiente caballero,</l>
+<l>aunque más lo fue el hermano;</l>
+<l>pero cayendo en el suelo,</l>
+<l>valióse de la Fortuna,</l>
+<l n="980">y de los brazos asiendo</l>
+<l>a Enrique, le dio la daga</l>
+<l>que agora se ha vuelto cetro.</l>
+<l>INÉS</l>
+<l>¿Quién es aquel tan erguido</l>
+<l>que habla con él?</l>
+<l>PERIBÁÑEZ</l>
+<l>Cuando menos,</l>
+<l>el Condestable.</l>
+<l>CASILDA</l>
+<l n="985">¿Que son</l>
+<l>los reyes de carne y hueso?</l>
+<l>COSTANZA</l>
+<l>Pues, ¿de qué pensabas tú?</l>
+<l>CASILDA</l>
+<l>De damasco o terciopelo.</l>
+<l>COSTANZA</l>
+<l>¡Sí que eres boba en verdad!</l>
+<l>COMENDADOR</l>
+<l>[Aparte.]</l>
+<l n="990">(Como sombra voy siguiendo</l>
+<l>el sol de aquesta villana,</l>
+<l>y con tanto atrevimiento,</l>
+<l>que de la gente del rey</l>
+<l>el ser conocido temo.</l>
+<l n="995">Pero ya se ve el Alcázar.)</l>
+<l>(Vase EL REY y su gente.)</l>
+<l>[Escena XXIV]</l>
+<l>INÉS</l>
+<l>¡Hola! El rey se va.</l>
+<l>COSTANZA</l>
+<l>Tan presto,</l>
+<l>que aún no he podido saber</l>
+<l>si es barbirrubio o [taheño].</l>
+<l>INÉS</l>
+<l>Los reyes son a la vista,</l>
+<l n="1000">Costanza, por el respeto,</l>
+<l>imágenes de milagros,</l>
+<l>porque siempre que los vemos,</l>
+<l>de otra color nos parecen.</l>
+<l>[Escena XXV]</l>
+<l>LUJÁN entre con UN PINTOR.</l>
+<l>LUJÁN</l>
+<l>Aquí está.</l>
+<l>PINTOR</l>
+<l>¿Cuál dellos?</l>
+<l>LUJÁN</l>
+<l>¡Quedo!</l>
+<l n="1005">Señor, aquí está el pintor.</l>
+<l>COMENDADOR</l>
+<l>¡Oh amigo!</l>
+<l>PINTOR</l>
+<l>A servirte vengo.</l>
+<l>COMENDADOR</l>
+<l>¿Traes el naipe y colores?</l>
+<l>PINTOR</l>
+<l>Sabiendo tu pensamiento,</l>
+<l>colores y naipe traigo.</l>
+<l>COMENDADOR</l>
+<l n="1010">Pues, con notable secreto,</l>
+<l>de aquellas tres labradoras</l>
+<l>me retratas la de enmedio,</l>
+<l>luego que en cualquier lugar</l>
+<l>tomen con espacio asiento.</l>
+<l>PINTOR</l>
+<l n="1015">Que será dificultoso</l>
+<l>temo, pero yo me atrevo</l>
+<l>a que se parezca mucho.</l>
+<l>COMENDADOR</l>
+<l>Pues advierte lo que quiero:</l>
+<l>si se parece en el naipe,</l>
+<l n="1020">deste retrato pequeño</l>
+<l>quiero que hagas uno grande,</l>
+<l>con más espacio, en un lienzo.</l>
+<l>PINTOR</l>
+<l>¿Quiéresle entero?</l>
+<l>COMENDADOR</l>
+<l>No tanto;</l>
+<l>basta que de medio cuerpo,</l>
+<l n="1025">mas con las mismas patenas,</l>
+<l>sartas, camisa y sayuelo.</l>
+<l>LUJÁN</l>
+<l>Allí se sientan a ver</l>
+<l>la gente.</l>
+<l>PINTOR</l>
+<l>Ocasión tenemos.</l>
+<l>Yo haré el retrato.</l>
+<l>PERIBÁÑEZ</l>
+<l>Casilda,</l>
+<l n="1030">tomemos aqueste asiento</l>
+<l>para ver las luminarias.</l>
+<l>INÉS</l>
+<l>Dicen que al ayuntamiento</l>
+<l>traerán bueyes esta noche.</l>
+<l>CASILDA</l>
+<l>Vamos, que aquí los veremos</l>
+<l n="1035">sin peligro y sin estorbo.</l>
+<l>COMENDADOR</l>
+<l>Retrata, pintor, al cielo</l>
+<l>todo bordado de nubes,</l>
+<l>y retrata un prado ameno</l>
+<l>todo cubierto de flores.</l>
+<l>PINTOR</l>
+<l n="1040">¡Cierto que es bella en extremo!</l>
+<l>LUJÁN</l>
+<l>Tan bella que está mi amo</l>
+<l>todo cubierto de vello,</l>
+<l>de convertido en salvaje.</l>
+<l>PINTOR</l>
+<l>La luz faltará muy presto.</l>
+<l>COMENDADOR</l>
+<l n="1045">No lo temas; que otro sol</l>
+<l>tiene en sus ojos serenos,</l>
+<l>siendo estrellas para ti,</l>
+<l>para mí rayos de fuego.</l>
+<l>Fin del Primer Acto</l>

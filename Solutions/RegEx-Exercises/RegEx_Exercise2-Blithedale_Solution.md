@@ -1,6 +1,6 @@
 ###Regex Exercise 1:
 1. Delete all of the unnecessary front and back matter.
-2. Find all of the reserved characters. **You have to find and replace these characters in this order because the ampersand is in the code for the greater than and less than signs!  If you did tried to find the ampersand last, it would find and change all of the less than and greater than code that you just fixed!**
+2. Find all of the reserved characters. **You have to find and replace these characters in this order because the ampersand is in the code for the greater than and less than signs!  If you tried to find the ampersand last, it would find and change all of the less than and greater than code that you just fixed!**
  * Find: `&`
    * Replace: `&amp;`
  * Find: `<`

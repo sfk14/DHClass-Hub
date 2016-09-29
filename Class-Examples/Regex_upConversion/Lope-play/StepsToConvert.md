@@ -1,4 +1,4 @@
-#Upconverting Lope De Vega Play  
+# Upconverting Lope De Vega Play  
   
 Surround every line in a `<l>` element =  
   **Find:** `.+` (1498 results) **Replace:** `<l>\0</l>`  
@@ -21,7 +21,7 @@ Finding character names -- *except those in cast list* (make sure case sensitive
   Replace: `<spkr>\1\2</spkr>`  
   
   
-###Find all text inside of square brackets:  
+### Find all text inside of square brackets:  
 `\[.+?\]` (64 results)  
   
 Determine what each text in square brackets indicate.  
@@ -56,7 +56,7 @@ The rest of the text in square brackets seem to be the pseudo-markup indicating 
 Do a final search for square brackets  
   **Find:** `\[` -- (0 results)  
   
-###Finding Stage Directions and Text in Parenthesis  
+### Finding Stage Directions and Text in Parenthesis  
   
 Determine contents inside of parenthesis.  
   **Find:** `\(.+?\)`  *dot matches all checked*  
@@ -90,7 +90,7 @@ Clean up extra line returns now that they are not needed.
   **Find:** `\n{2,}`  
   **Replace:** --nothing--  
   
-###Finishing Up  
+### Finishing Up  
   
 MANUALLY, insert a root element.  
 Save as .xml, close, and re-open in oXygen to check for well-formedness.  

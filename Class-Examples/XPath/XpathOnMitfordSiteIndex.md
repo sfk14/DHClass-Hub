@@ -3,6 +3,7 @@
 Open URL in oXygen.  
 Go to File -> Open URL -> `http://digitalmitford.org/si.xml`  
   
+  
 Want to know all the elements that have sex attribute.  
 `//*[@sex]` 800 results  
 Get a count of these elements.  
@@ -13,5 +14,5 @@ What are those element names?
   
 Want to know all elements that have type attribute.  
 `//*[@type]/name()`  
-Get rid of the repeats and just get the **distinct values**.  
+Want a list rid of the repeat a.k.a. just get the **distinct values**.  
 `distinct-values(//*[@type]/name())`  

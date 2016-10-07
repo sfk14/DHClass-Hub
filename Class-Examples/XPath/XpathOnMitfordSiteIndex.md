@@ -7,9 +7,9 @@ Want to know all the elements that have sex attribute.
 `//*[@sex]` 800 results  
 Get a count of these elements.  
 `count(//*[@sex])` 800 in Window  
-  
-What are the element names?  
+What are those element names?  
 `//*[@sex]/name()` 800 results  
+  
   
 Want to know all elements that have type attribute.  
 `//*[@type]/name()`  

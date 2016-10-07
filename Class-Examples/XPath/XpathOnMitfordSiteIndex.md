@@ -5,11 +5,11 @@ Go to File -> Open URL -> `http://digitalmitford.org/si.xml`
   
   
 Want to know all the elements that have sex attribute.  
-`//*[@sex]` 800 results  
+`//*[@sex]` 
 Get a count of these elements.  
-`count(//*[@sex])` 800 in Window  
+`count(//*[@sex])` #800 in Window  
 What are those element names?  
-`//*[@sex]/name()` 800 results  
+`//*[@sex]/name()`  
   
   
 Want to know all elements that have type attribute.  

@@ -15,7 +15,7 @@ function(haystack arg, "needle arg")
 Let's find the paragraphs when the letters `ed` are used together.  
 Two options and they both take two arguments:  
 `//p[contains(.,"ed")]` -- contains(arg, "literal string")  
-`//p[matches(.,"\d+ed")]` -- matches(arg, "regular expression")  
+`//p[matches(.,"ed")]` -- matches(arg, "regular expression")  
 Find dates formated yyyy-mm-dd  
 `//date[matches(@when, "\d{4}-\d{2}-\d{2}")]`  
   

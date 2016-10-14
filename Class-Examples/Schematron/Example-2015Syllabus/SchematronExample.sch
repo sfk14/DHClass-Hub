@@ -32,5 +32,10 @@
                 If a ref does not have an @target then the element needs to be changed into a note element. @ref is reserved for links.
             </report>
         </rule>
+        <rule context="list">
+            <assert test="count(child::item) gt 1">
+                All lists need to have more than one item; otherwise, your list is simply a paragraph or note.
+            </assert>
+        </rule>
     </pattern>
 </schema>

@@ -27,15 +27,15 @@
                 The date inside a div designating a day on this syllabus must be later than the immediately preceding day on the syllabus.
             </assert>
         </rule>
-        <rule context="ref">
-            <report test="./@target">
+        <rule context="tei:ref">
+            <report test="not(@target)">
                 If a ref does not have an @target then the element needs to be changed into a note element. @ref is reserved for links.
             </report>
         </rule>
-        <rule context="list">
-            <assert test="count(child::item) gt 1">
+        <rule context="tei:list">
+            <report test="count(child::tei:item) &lt; 2">
                 All lists need to have more than one item; otherwise, your list is simply a paragraph or note.
-            </assert>
+            </report>
         </rule>
     </pattern>
 </schema>

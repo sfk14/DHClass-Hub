@@ -127,7 +127,7 @@ Here are two ways we did that:
 `//date/@when[contains(format-date(xs:date(.),'[FNn]'), "F")][contains(format-date(xs:date(.),'[MNn]'), "O")]/format-date(xs:date(.), '[FNn]:[MNn]:[D]:[Y]')`
 This expression holds a filter for finding Fridays and a filter to find the October dates. Putting the two predicates side by side as a filter on the @when attribute yields all the Fridays in October.
 2) a better short-hand way, easier to read and write! Notice how we use the dot (.) here, which indicates the result of the format-date() function:
-//date/@when/format-date(xs:date(.), '[FNn]/ [MNn]/ [D] / [Y]')[contains(., 'F')][contains(., 'O')]
+`//date/@when/format-date(xs:date(.), '[FNn]/ [MNn]/ [D] / [Y]')[contains(., 'F')][contains(., 'O')]`
 
 We discover there are five Fridays in October: 
 

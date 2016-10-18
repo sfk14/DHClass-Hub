@@ -15,7 +15,7 @@ Every speaker needs a who attribute:
   
 Check to see if there are any empty rdg elements anywhere in sp (for speeches):  
 `<rule context="sp">` the rule context gets us into the speeches wherever they sit in the document; this is your Xpath Pattern.  
-`<report test="descendant::app/rdg[not(text())]` now this gets us down into the rdg elements from the speech rule context and into the text node and reports when those rdg elements do not have a text node
+`<report test="descendant::app/rdg[not(text())]` now this gets us down into the rdg elements from the speech rule context and reports when those rdg elements do not have a text node
 
 **Just a reminder here is the basic structure:**
 

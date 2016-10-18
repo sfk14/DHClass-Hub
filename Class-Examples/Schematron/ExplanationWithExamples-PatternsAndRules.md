@@ -6,7 +6,7 @@ What if we want to write a rule involving the attribute name so that would look 
   
 The test on the assert or report gives the conditions being placed on what is being grabbed by the XPath pattern in the rule context.  
   
-So writing these rules:  
+**So writing these rules:**  
   
 Every speaker needs a who attribute:  
 `<rule context="speaker">` the rule context says grab all of the speaker elements wherever they sit in the document; this is your Xpath Pattern.  

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<poem>
+<poem xmlns="http://audreyHunker.newtfire.org">
 <title>Kubla Khan</title>
     <!--ebb: see simile in l 21. Push this to GitHub when ready!-->
 <line>In Xanadu did Kubla Khan</line>

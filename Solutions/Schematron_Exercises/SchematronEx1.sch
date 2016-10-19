@@ -9,7 +9,7 @@
               The sum of the votes for all places must add up to 100!
           </assert>
           <assert test="count(place) eq 4"> <!-- Optional bullet point #1 part A -->
-              There should be four different place elements in results.   
+              There should be four place elements in results.   
           </assert>
       </rule>
  

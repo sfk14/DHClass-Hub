@@ -26,8 +26,12 @@
      This means if I want to change this stylesheet to output the same stuff for Book 2, I only have to change the value of that @select attribute up in the document node template. I don't need to change the context of these template rules!
      -->
      <h1><xsl:apply-templates select="head"/></h1>
-     <ul><xsl:apply-templates select="//div[@type='chapter']/head"/></ul>
-<!--ebb: Here, at the level of the book, I'm creating just one <ul> element. Then I take a literal XPath down from the div[@type='book'] match, down into chapter heads.  -->
+     <ul><xsl:apply-templates select=".//div[@type='chapter']/head"/></ul>
+<!--ebb: Here, at the level of the book, I'm creating just one <ul> element. Then I take a literal XPath down from the div[@type='book'] match, down into chapter heads. Notice that I NEED TO USE A DOT here to indicate that we're stepping down from the context node! Otherwise it'll process all the chapters starting at the document node, including chapters that I don't want from other Books outside book 1. 
+     Here's another (actually much better) way I could write this: 
+     <xsl:apply-templates select="descendant::div[@type='chapter']/head"/>
+    That's even better to use the literal axis name, because that means you DEFINITELY go DOWN the tree from this point, and don't have to remember to designate the self:: axis first with .//  Because we need to know the dot notation and it's shorter to write, and we have to apply it sometimes, we're using it here so you remember how to write it and why we use it. 
+     -->
  </xsl:template>  
     
   <xsl:template match="div[@type='chapter']/head">

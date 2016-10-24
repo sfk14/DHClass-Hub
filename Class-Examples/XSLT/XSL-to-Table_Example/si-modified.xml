@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://ebeshero.github.io/siCheck.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--<?xml-model href="http://ebeshero.github.io/siCheck.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>-->
 <!--ebb: Note to Digital Mitford editors: If this site index file appears to be invalid in <oXygen/>, download and save siCheck.sch from the XSLT and Schematron files folder sitting next to this folder in Box. You can save siCheck.sch in the same file directory as your copy of si.xml, and associate the schema locally if the web version isn't running. siCheck.sch is a schematron or simple rule file to check our attribute values for consistency.-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader type="text">

@@ -15,7 +15,7 @@
             <h1>Table of Info about the Digital Mitford Site Index ListPersons</h1>
             
             <table>
-                <tr><th>Lists about People</th>
+                <tr><th>Gender Counts of Digital Mitford People</th>
                 <th>Number of Males</th>
                     <th>Number of Females</th>
                     <th>Number Unmarked</th>
@@ -24,6 +24,15 @@
                <xsl:apply-templates select="descendant::listPerson"/>
             </table>
            
+            <h1>Types of Digital Mitford Organizations</h1>
+            
+            <table>
+                <tr>
+                    <th>Organization Type</th>
+                    <th>Number of Organizations in Type</th>
+                </tr>
+                <xsl:apply-templates select="//listOrg"/>
+            </table>
         </body>       
     </html>   
 </xsl:template>  
@@ -38,5 +47,11 @@
         </tr>        
     </xsl:template>
        
+    <xsl:template match="listOrg">
+        <tr>
+            <td><xsl:apply-templates select="@type"/></td>
+            <td><xsl:value-of select="count(child::org)"/></td>
+        </tr>
+    </xsl:template>
  
 </xsl:stylesheet>

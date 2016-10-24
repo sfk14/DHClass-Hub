@@ -9,7 +9,7 @@
         <!--2016-10-23 ebb: First, when creating HTML from XML, we have to start with a template match on the document node, so we convert the root element and everything in a *one-to-one relationship with the root*. This is where we map the outer/higher level of the document organization. -->
         <html>
             <head>
-                <title>Table of Info about Digital Mitford Site Index Lists of Persons</title>
+                <title>Info Tables about Digital Mitford Site Index People and Organizations</title>
             </head>
             <body>
                 <h1>Info about the Digital Mitford Site Index ListPersons</h1>
@@ -40,10 +40,10 @@
                   <orgName>
                      <surname>Valpy</surname> family
                   </orgName> 
-So in order to grab specifically organizations that are families we have to use a predicate.
+So in order to grab specifically organizations that are families we have to use a predicate statement.
                 -->
-
                 <h1>XML:IDs for Digital Mitford Family Groups</h1>
+                
                 <table>
                     <tr>
                         <th>Family Name</th>

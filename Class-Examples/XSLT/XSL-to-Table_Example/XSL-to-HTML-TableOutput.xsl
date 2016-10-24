@@ -16,7 +16,7 @@
 
                 <table>
                     <tr>
-                        <th>Gender Counts of Digital Mitford People</th>
+                        <th>ListPerson Type</th>
                         <th>Number of Males</th>
                         <th>Number of Females</th>
                         <th>Number Unmarked</th>
@@ -42,8 +42,8 @@
                   </orgName> 
 So in order to grab specifically organizations that are families we have to use a predicate statement.
                 -->
-                <h1>XML:IDs for Digital Mitford Family Groups</h1>
-                
+                <h1>Digital Mitford Family Groups</h1>
+
                 <table>
                     <tr>
                         <th>Family Name</th>
@@ -55,7 +55,8 @@ So in order to grab specifically organizations that are families we have to use 
         </html>
     </xsl:template>
 
-    <xsl:template match="listPerson"><!-- RJP: This match processes the data we selected in the first table's apply-template selection in our source node match. -->
+    <xsl:template match="listPerson">
+        <!-- RJP: This match processes the data we selected in the first table's apply-template selection in our source node match. -->
         <tr>
             <td>
                 <xsl:apply-templates select="@type"/>
@@ -75,7 +76,8 @@ So in order to grab specifically organizations that are families we have to use 
         </tr>
     </xsl:template>
 
-    <xsl:template match="listOrg"> <!-- RJP: This match processes the data we selected in the second table's apply-template selection in our source node match. -->
+    <xsl:template match="listOrg">
+        <!-- RJP: This match processes the data we selected in the second table's apply-template selection in our source node match. -->
         <tr>
             <td>
                 <xsl:apply-templates select="@type"/>
@@ -86,7 +88,8 @@ So in order to grab specifically organizations that are families we have to use 
         </tr>
     </xsl:template>
 
-    <xsl:template match="org[descendant::surname]"> <!-- RJP: This match processes the data we selected in the third table's apply-template selection in our source node match. -->
+    <xsl:template match="org[descendant::surname]">
+        <!-- RJP: This match processes the data we selected in the third table's apply-template selection in our source node match. -->
         <tr>
             <td>
                 <xsl:apply-templates select="descendant::surname"/>

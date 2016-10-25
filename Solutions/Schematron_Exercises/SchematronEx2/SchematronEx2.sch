@@ -84,16 +84,18 @@ The two Schematron patterns below provide a way to ensure you are preparing xml:
 In the homework, we prepared a list of editions with bibliography information about each, in a listWit or a list of witnesses, each one holding distinct identifying information about a different "witness" or editors' representation of Emily Dickinson's manuscript poems. Each edition produced distinct "variants" or different readings of the same document, as the editors "normalized" and changed Dickinson's poems in the different published editions. The Dickinson team needed to mark the different variants of particular lines in each poem, so they referred to the source of each variant by its unique identifier. They need a way to make sure they always type those in accurately, and for that we use the following two patterns, which you should feel free to adapt to your own projects!
   -->
         <rule context="@xml:id">
+            <!-- Question 4 -->
             <report test="starts-with(., '#')">
                 xml:id attributes must not begin with a hashtag!
             </report>
+            <!-- Question 4 EXPANDED -->
             <report test="matches(., '\s+')">
                 @xml:id values may NOT contain white spaces!
             </report>       
         </rule>
     </pattern>
     <pattern>
-        <!-- Question 4 EXPANDED -->
+        <!-- Question 4 -->
         <rule context="@wit">
             <let name="tokens" value="for $w in tokenize(., '\s+') return substring-after($w, '#')"/>
             <assert test="every $token in $tokens satisfies $token = //tei:TEI//tei:listWit//@xml:id">

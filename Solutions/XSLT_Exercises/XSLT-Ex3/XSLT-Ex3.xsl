@@ -25,15 +25,8 @@
                         <th>No</th>
                         <th>Blank</th>
                         <th>Total Responses</th>
-                        <!--  
-                        <th>Stand</th>
-                        <th>Water Closets</th>
-                        <th>Other Causes</th>
-                        <th>Optional</th>
-                      -->
-
                     </tr>
-                    <xsl:apply-templates select="//fs[f[@name = 'response'][@select = 'Yes']]"/>
+                    <xsl:apply-templates select="descendant::fs[child::f[@name = 'response'][@select = 'Yes']]"/>
                 </table>
 
                 <h2>Table 2: Sources of Offensive Odors</h2>
@@ -45,7 +38,7 @@
                         <th>Total Responses</th>
                     </tr>
                     <xsl:apply-templates
-                        select="//fs[f[@name = 'response'][@select = 'water_closet']]"/>
+                        select="//fs[f[@select = 'water_closet']]"/>
                 </table>
 
                 <h2>Table 3: Standing or Sitting at Work</h2>
@@ -58,13 +51,13 @@
                         <th>Blank</th>
                         <th>Total Responses</th>
                     </tr>
-                    <xsl:apply-templates select="//fs[f[@name = 'response'][@select = 'Sit']]"/>
+                    <xsl:apply-templates select="//fs[f[@select = 'Sit']]"/>
                 </table>
             </body>
         </html>
     </xsl:template>
 
-    <xsl:template match="fs[@type = 'QandA'][f[@select = 'Yes']]">
+    <xsl:template match="descendant::fs[child::f[@select = 'Yes']]">
         <!-- RJP: This match processes the data we selected with the first table's apply-template selection in our source node match. -->
         <tr>
             <td>
@@ -108,7 +101,7 @@
         </tr>
     </xsl:template>
 
-    <xsl:template match="fs[@type = 'QandA'][f[@select = 'water_closet']]">
+    <xsl:template match="fs[f[@select = 'water_closet']]">
         <!-- RJP: This match processes the data we selected with the second table's apply-template selection in our source node match. -->
         <tr>
             <td>
@@ -126,7 +119,7 @@
         </tr>
     </xsl:template>
 
-    <xsl:template match="fs[@type = 'QandA'][f[@select = 'Sit']]">
+    <xsl:template match="fs[f[@select = 'Sit']]">
         <!-- RJP: This match processes the data we selected with the third table's apply-template selection in our source node match. -->
         <tr>
             <td>

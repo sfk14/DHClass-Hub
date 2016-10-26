@@ -10,7 +10,7 @@
             <head>
                 <title>Processing Stuff in an XML Letter File Not Once, but Twice, using Modal
                     XSLT</title>
-                <link rel="stylesheet" type="text/css" href="stylePeople.css"/>
+                <link rel="stylesheet" type="text/css" href="stylePeople.css"/> <!-- RJP: Make sure you include your css stylesheet link here in the document node match so it appears in yout html <head> element. -->
             </head>
 
 

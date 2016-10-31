@@ -36,7 +36,7 @@
 
     
     <xsl:template match="body" mode="toc">
-       <li><strong><xsl:apply-templates select=".//title"/></strong>: 
+       <li><strong><xsl:apply-templates select="descendant::title"/></strong>: 
            <xsl:apply-templates select="lg[1]/l[1]"/>
            <!--ebb: In order to output the first line of each poem, I need to look in the first <lg> element, and then step down into the first <l> element.-->
       <xsl:text> [Variants: </xsl:text><xsl:value-of select="count(.//rdg)"/><xsl:text>]</xsl:text>
@@ -47,14 +47,14 @@
     </xsl:template>
 
     <xsl:template match="body">
-      <h2><xsl:apply-templates select=".//title"/>
+      <h2><xsl:apply-templates select="descendant::title"/>
           </h2>
         <!--ebb: This rule outputs the titles once again, this time in another section of the document where you are reproducing the full text of each poem. 
             NOTE: You may have observed in your output that some of our titles are inconsistently formatted! Some poem numbers have a period after them, and some only white space before the parenthetical information that summarizes each poem's publication history. An Optional Challenge for the next assignment is to find a way to:
         a) output only the poem and its number in the part of the document where you reproduce the poems, and/or
         b) remove the rogue period from the output, using the replace() function.
        We'll show you how we did both of these things in our solution to XSLT Exercise 6.-->
-        <xsl:apply-templates select=".//lg"/>
+        <xsl:apply-templates select="descendant::lg"/>
         
     </xsl:template>
     

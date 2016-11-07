@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+   <g transform="translate(50 750)"><!--The total number of chapters is 12.
+         The max X value is 840--><!--The max count of speeches is: 61 
+          The max Y value is: 610-->
+      <line x1="30"
+            y1="-10"
+            x2="910"
+            y2="-10"
+            stroke="black"
+            stroke-width="1"/>
+      <line x1="30"
+            y1="-10"
+            x2="30"
+            y2="-710"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="15" y="-100" text-anchor="middle">10</text>
+      <line x1="30"
+            x2="910"
+            y1="-100"
+            y2="-100"
+            stroke="green"
+            stroke-width=".5"
+            stroke-dasharray="10"/>
+      <text x="15" y="-200" text-anchor="middle">20</text>
+      <line x1="30"
+            x2="910"
+            y1="-200"
+            y2="-200"
+            stroke="green"
+            stroke-width=".5"
+            stroke-dasharray="10"/>
+      <text x="15" y="-300" text-anchor="middle">30</text>
+      <line x1="30"
+            x2="910"
+            y1="-300"
+            y2="-300"
+            stroke="green"
+            stroke-width=".5"
+            stroke-dasharray="10"/>
+      <text x="15" y="-400" text-anchor="middle">40</text>
+      <line x1="30"
+            x2="910"
+            y1="-400"
+            y2="-400"
+            stroke="green"
+            stroke-width=".5"
+            stroke-dasharray="10"/>
+      <text x="15" y="-500" text-anchor="middle">50</text>
+      <line x1="30"
+            x2="910"
+            y1="-500"
+            y2="-500"
+            stroke="green"
+            stroke-width=".5"
+            stroke-dasharray="10"/>
+      <text x="15" y="-600" text-anchor="middle">60</text>
+      <line x1="30"
+            x2="910"
+            y1="-600"
+            y2="-600"
+            stroke="green"
+            stroke-width=".5"
+            stroke-dasharray="10"/>
+      <text x="15" y="-700" text-anchor="middle">70</text>
+      <line x1="30"
+            x2="910"
+            y1="-700"
+            y2="-700"
+            stroke="green"
+            stroke-width=".5"
+            stroke-dasharray="10"/>
+      <text x="70" y="15" text-anchor="end" transform="rotate(-45 70, 15)">
+                Ch. 1</text>
+      <text x="140"
+            y="15"
+            text-anchor="end"
+            transform="rotate(-45 140, 15)">
+                Ch. 2</text>
+      <text x="210"
+            y="15"
+            text-anchor="end"
+            transform="rotate(-45 210, 15)">
+                Ch. 3</text>
+      <text x="280"
+            y="15"
+            text-anchor="end"
+            transform="rotate(-45 280, 15)">
+                Ch. 4</text>
+      <text x="350"
+            y="15"
+            text-anchor="end"
+            transform="rotate(-45 350, 15)">
+                Ch. 5</text>
+      <text x="420"
+            y="15"
+            text-anchor="end"
+            transform="rotate(-45 420, 15)">
+                Ch. 6</text>
+      <text x="490"
+            y="15"
+            text-anchor="end"
+            transform="rotate(-45 490, 15)">
+                Ch. 7</text>
+      <text x="560"
+            y="15"
+            text-anchor="end"
+            transform="rotate(-45 560, 15)">
+                Ch. 8</text>
+      <text x="630"
+            y="15"
+            text-anchor="end"
+            transform="rotate(-45 630, 15)">
+                Ch. 9</text>
+      <text x="700"
+            y="15"
+            text-anchor="end"
+            transform="rotate(-45 700, 15)">
+                Ch. 10</text>
+      <text x="770"
+            y="15"
+            text-anchor="end"
+            transform="rotate(-45 770, 15)">
+                Ch. 11</text>
+      <text x="840"
+            y="15"
+            text-anchor="end"
+            transform="rotate(-45 840, 15)">
+                Ch. 12</text>
+   </g>
+</svg>

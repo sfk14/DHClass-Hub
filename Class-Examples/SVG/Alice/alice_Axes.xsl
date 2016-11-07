@@ -28,7 +28,8 @@
         <g transform="translate(50 750)" >
       <!--ebb; I want to offset this by an x value to push it over horizontally, 
           and a y value to set a little lower than the base of my graph. 
-          Here a "0" y value will be translated to 700 for the origin point of my X and Y axes.
+          Here a "0" y value will be translated down to 750 for the origin point of my X and Y axes, and a "0" x value
+          will be translated to the right by 50. 
       To figure out how long to draw my axes, I'll make some calculations to determine the count of the chapters, 
       and the max count of Alice's speeches, and store these in global variables. 
       Just to study the numbers, I like making a comment tags in my output 

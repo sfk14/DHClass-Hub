@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="850"
+     height="850"
+     viewBox="0 0 1000 1000">
    <g transform="translate(50 750)"><!--The total number of chapters is 12.
          The max X value is 840--><!--The max count of speeches is: 61 
           The max Y value is: 610-->

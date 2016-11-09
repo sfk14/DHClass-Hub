@@ -46,9 +46,9 @@
     
         <!--ebb: Having made those calculations, I'm now ready to draw my axes.-->
  <!--X axis-->           
-     <line x1="30" y1="-10" x2="{$max_Xval + $xSpacer}" y2="-10" stroke="black" stroke-width="1"/>
+     <line x1="30" y1="0" x2="{$max_Xval + $xSpacer}" y2="-10" stroke="black" stroke-width="1"/>
  <!--Y axis-->
-            <line x1="30" y1="-10" x2="30" y2="{-$max_Yval - 100}" stroke="black" stroke-width="1"/>
+            <line x1="30" y1="0" x2="30" y2="{-$max_Yval - 100}" stroke="black" stroke-width="1"/>
  
             <!--Calculate Hash Marks on Y Axis-->
              <xsl:for-each select="1 to 7">

@@ -24,9 +24,13 @@
     
     <xsl:template match="/">
       
-    <svg width="100%" height="100%">
-        
-        <g transform="translate(50 850)" >
+        <svg width="850" height="850" viewBox="0 0 1000 1000">
+            <!--2016-11-08 ebb: Since people are reporting having trouble seeing my X-axis on output, 
+            I'm redefining the viewport (the width and height attributes) in literal pixel units, and 
+            I'm adding a viewBox attribute here to help ensure the output is fully visible in the browser window. 
+        The viewBox attribute sets the visible area we can see on a screen. 
+        -->
+            <g transform="translate(50 850)" >
       <!--ebb; I want to offset this by an x value to push it over horizontally, 
           and a y value to set a little lower than the base of my graph. 
           Here a "0" y value will be translated to 700 for the origin point of my X and Y axes.
@@ -78,12 +82,9 @@
           
       </xsl:for-each>      
       
+            </g>     
           
-          
-          
-        </g>
-        
-    </svg>  
+        </svg>    
       
       
   </xsl:template>  

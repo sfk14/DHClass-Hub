@@ -14,7 +14,7 @@ var p1 = document.getElementById("colorToggle")
 }
 
 function changeColor2() {
-pars = document.getElementsByTagName('p');
+var pars = document.getElementsByTagName('p')
     for (var i = 0, length = pars.length; i < length; i++) {
         pars[i].style.backgroundColor = "pink";
     }   

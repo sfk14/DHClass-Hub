@@ -1,4 +1,5 @@
-/* 2016-11-18 ebb: revised from Stacey Triplette's JavaScript Ex 1 homework, originally adapted from http://www.w3schools.com/howto/howto_js_filter_table.asp */
+/* 2016-11-18 ebb: revised from Stacey Triplette's JavaScript Ex 1 homework, 
+ * originally adapted from http://www.w3schools.com/howto/howto_js_filter_table.asp */
 
 window.addEventListener('DOMContentLoaded',init,false);
 

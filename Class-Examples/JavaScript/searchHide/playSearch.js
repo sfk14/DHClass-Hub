@@ -5,7 +5,7 @@ window.addEventListener('DOMContentLoaded', init, false);
 
 function init() {
 var searchBox = document.getElementById("SearchInput")    
-{searchBox.addEventListener('onkeyup', SearchFunction, false)};        
+{searchBox.addEventListener("keyup", SearchFunction, false)};        
 }
 
 function SearchFunction() {

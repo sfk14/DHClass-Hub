@@ -1,11 +1,11 @@
 /* 2016-11-18 ebb: revised from Stacey Triplette's JavaScript Ex 1 homework, 
  * originally adapted from http://www.w3schools.com/howto/howto_js_filter_table.asp */
 
-window.addEventListener('DOMContentLoaded',init,false);
+window.addEventListener('DOMContentLoaded', init, false);
 
 function init() {
 var searchBox = document.getElementById("SearchInput")    
-searchBox.addEventListener('onkeyup', SearchFunction, false)        
+searchBox.addEventListener('keyup', SearchFunction, false)        
 }
 
 function SearchFunction() {

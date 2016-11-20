@@ -46,16 +46,31 @@
             4. Sine of occ5slice: 0.984807753012208
             5. Sine of occ6slice: 0.6427876096865393
             6. Sine of occ9slice: 0.6427876096865393-->
-<svg xmlns:math="http://www.w3.org/2005/xpath-functions/math"
-     xmlns="http://www.w3.org/2000/svg"
-     width="100%"
-     height="100%">
+<!--CALCULATE THE RADIANS-->
+<!--
+            1. X value for occ2slice: 43.412044416732606
+            2. X value for occ3slice: 191.5111107797445
+            3. X value for occ4slice: 43.412044416732606
+            4. X value for occ5slice: 43.412044416732606
+            5. X value for occ6slice: 191.5111107797445
+            6. X value for occ9slice: 191.5111107797445-->
+<!--CALCULATE THE RADIANS-->
+<!--
+            1. Y value for occ2slice: 246.201938253052
+            2. Y value for occ3slice: 160.6969024216348
+            3. Y value for occ4slice: 246.201938253052
+            4. Y value for occ5slice: 246.201938253052
+            5. Y value for occ6slice: 160.6969024216348
+            6. Y value for occ9slice: 160.6969024216348-->
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
    <g transform="translate(350 350)">
       <circle cx="0"
               cy="0"
               r="250"
               style="stroke:black; stroke-width:3; fill:none"/>
-      <path d="M0,0                     L250,0                     A250,250 0 0,1 200,100                     Z"
-            style="stroke:black; stroke-width:3; fill: none"/>
+      <path d="M0,0                     L250,0                     A250,250 0 0,1 43.412044416732606,246.201938253052                     Z"
+            style="stroke:black; stroke-width:3; fill: green"/>
+      <path d="M0,0                     L43.412044416732606,246.201938253052                     A250,250 0 0,1 191.5111107797445,160.6969024216348                     Z"
+            style="stroke:black; stroke-width:3; fill: blue"/>
    </g>
 </svg>

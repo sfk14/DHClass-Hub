@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:math ="http://www.w3.org/2005/xpath-functions/math"
-    exclude-result-prefixes="xs"
-    xmlns="http://www.w3.org/2000/svg">
+    xmlns="http://www.w3.org/2000/svg"
+    exclude-result-prefixes="xs math"
+    version="2.0">
     
-    <xsl:output method="xml" indent="yes"/> 
+    <xsl:output method="xml" indent="yes"/>  
     
     <!--VARIABLES FOR TOTALS-->
     <xsl:variable name="lotTotal" select="count(//lot)"/>
@@ -33,6 +34,8 @@
         8. Plot each slice using the radian in the path element and make sure they all fit the circle properly.</xsl:comment>
         
         <!--ANGLE VARIABLES-->
+            <!--RADIUS-->
+        <xsl:variable name="radius" select="250"/>
         <!--Check the output window and count the number of times a value appers
             for these individual slices (these are the numbers being divided).-->
             <!--RADIANS-->
@@ -83,16 +86,56 @@
             5. Sine of occ6slice: <xsl:value-of select="$occ6sin"/>
             6. Sine of occ9slice: <xsl:value-of select="$occ9sin"/>
         </xsl:comment>
+        <!--X AXIS-->
+        <xsl:variable name="occ2X" select="$occ2cos * $radius"/>
+        <xsl:variable name="occ3X" select="$occ3cos * $radius"/>
+        <xsl:variable name="occ4X" select="$occ4cos * $radius"/>
+        <xsl:variable name="occ5X" select="$occ5cos * $radius"/>
+        <xsl:variable name="occ6X" select="$occ6cos * $radius"/>
+        <xsl:variable name="occ9X" select="$occ9cos * $radius"/>
+        <xsl:comment>CALCULATE THE RADIANS</xsl:comment>
+        <xsl:comment>
+            1. X value for occ2slice: <xsl:value-of select="$occ2X"/>
+            2. X value for occ3slice: <xsl:value-of select="$occ3X"/>
+            3. X value for occ4slice: <xsl:value-of select="$occ4X"/>
+            4. X value for occ5slice: <xsl:value-of select="$occ5X"/>
+            5. X value for occ6slice: <xsl:value-of select="$occ6X"/>
+            6. X value for occ9slice: <xsl:value-of select="$occ9X"/>
+        </xsl:comment>
+        <!--Y AXIS-->
+        <xsl:variable name="occ2Y" select="$occ2sin * $radius"/>
+        <xsl:variable name="occ3Y" select="$occ3sin * $radius"/>
+        <xsl:variable name="occ4Y" select="$occ4sin * $radius"/>
+        <xsl:variable name="occ5Y" select="$occ5sin * $radius"/>
+        <xsl:variable name="occ6Y" select="$occ6sin * $radius"/>
+        <xsl:variable name="occ9Y" select="$occ9sin * $radius"/>
+        <xsl:comment>CALCULATE THE RADIANS</xsl:comment>
+        <xsl:comment>
+            1. Y value for occ2slice: <xsl:value-of select="$occ2Y"/>
+            2. Y value for occ3slice: <xsl:value-of select="$occ3Y"/>
+            3. Y value for occ4slice: <xsl:value-of select="$occ4Y"/>
+            4. Y value for occ5slice: <xsl:value-of select="$occ5Y"/>
+            5. Y value for occ6slice: <xsl:value-of select="$occ6Y"/>
+            6. Y value for occ9slice: <xsl:value-of select="$occ9Y"/>
+        </xsl:comment>
         
         <!--SVG OUTPUT VIEW WINDOW-->
+        <!--While ploting points, pay attention to which "quarter" of the circle the END point of the arc
+        should hit. This will determine if the value is required to be positive or negitive to work.-->
         <svg width="100%" height="100%">
             <g transform="translate(350 350)" >
-                <circle cx="0" cy="0" r="250" style="stroke:black; stroke-width:3; fill:none"/>
+                <circle cx="0" cy="0" r="{$radius}" style="stroke:black; stroke-width:3; fill:none"/>
                 <path d="M0,0
-                    L250,0
-                    A250,250 0 0,1 200,100
+                    L{$radius},0
+                    A{$radius},{$radius} 0 0,1 {$occ2X},{$occ2Y}
                     Z"
-                    style="stroke:black; stroke-width:3; fill: none"/>
+                    style="stroke:black; stroke-width:3; fill: green"/>
+                <path d="M0,0
+                    L{$occ2X},{$occ2Y}
+                    A{$radius},{$radius} 0 0,1 {$occ3X},{$occ3Y}
+                    Z"
+                    style="stroke:black; stroke-width:3; fill: blue"/>
+                
             </g>
         </svg>
     </xsl:template>

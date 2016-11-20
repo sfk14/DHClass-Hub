@@ -25,7 +25,12 @@
                            
                 <xsl:comment>X value of wedge 1: <xsl:value-of select="$x_wedge1"/></xsl:comment>
                 <xsl:comment>Y value of wedge 1: <xsl:value-of select="$y_wedge1"/></xsl:comment>
-        <path id="wedge1" d="M0,0
+       
+                <!--ebb: Draw the first wedge, with a line starting at 3 o'clock, running 0,0 to 250,0
+                 Draw a circular arc with A250,25 0 0,1, out to the new set of wedge coordinates 
+                 calculated with math:sin() and math:cos(), and close the path with Z.
+                -->
+                <path id="wedge1" d="M0,0
                     L250,0
                     A250,250 0 0,1 {$x_wedge1},{$y_wedge1}
                     Z"
@@ -33,7 +38,12 @@
      <xsl:variable name="angle_wedge2" select="2 * math:pi() * (2 div 8)"/>
                 <xsl:variable name="x_wedge2" select="math:cos($angle_wedge2) * $radius"/>
                 <xsl:variable name="y_wedge2" select="math:sin($angle_wedge2) * $radius"/>
-     
+    <!--ebb: Draw the second wedge, 
+        starting with a line running from 0,0 to the end-point of the last set of x, y coordinates from wedge 1.
+    Make the same kind of arc as before, and draw the new arc and path to the new set of wedge coordinates,
+    and close the path with Z.
+    --> 
+                
         <path id="wedge2" d="M0,0 
             L{$x_wedge1},{$y_wedge1} A250,250 0, 0,1 {$x_wedge2},{$y_wedge2} Z"
             style="stroke:black; stroke-width:2; fill: purple"/>        

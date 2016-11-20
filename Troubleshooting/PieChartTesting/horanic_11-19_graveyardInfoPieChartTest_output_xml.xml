@@ -25,43 +25,43 @@
 <!--CALCULATE THE RADIANS-->
 <!--
             1. Radian of occ2slice: 1.3962634015954636
-            2. Radian of occ3slice: 0.6981317007977318
-            3. Radian of occ4slice: 1.3962634015954636
-            4. Radian of occ5slice: 1.3962634015954636
-            5. Radian of occ6slice: 0.6981317007977318
-            6. Radian of occ9slice: 0.6981317007977318-->
-<!--CALCULATE THE RADIANS-->
+            2. Radian of occ3slice: 2.0943951023931953
+            3. Radian of occ4slice: 3.4906585039886586
+            4. Radian of occ5slice: 4.886921905584122
+            5. Radian of occ6slice: 5.585053606381854
+            6. Radian of occ9slice: 6.283185307179586-->
+<!--CALCULATE THE COSINE-->
 <!--
             1. Cosine of occ2slice: 0.17364817766693041
-            2. Cosine of occ3slice: 0.766044443118978
-            3. Cosine of occ4slice: 0.17364817766693041
-            4. Cosine of occ5slice: 0.17364817766693041
-            5. Cosine of occ6slice: 0.766044443118978
-            6. Cosine of occ9slice: 0.766044443118978-->
-<!--CALCULATE THE RADIANS-->
+            2. Cosine of occ3slice: -0.4999999999999998
+            3. Cosine of occ4slice: -0.9396926207859085
+            4. Cosine of occ5slice: 0.17364817766692997
+            5. Cosine of occ6slice: 0.7660444431189778
+            6. Cosine of occ9slice: 1-->
+<!--CALCULATE THE SINE-->
 <!--
             1. Sine of occ2slice: 0.984807753012208
-            2. Sine of occ3slice: 0.6427876096865393
-            3. Sine of occ4slice: 0.984807753012208
-            4. Sine of occ5slice: 0.984807753012208
-            5. Sine of occ6slice: 0.6427876096865393
-            6. Sine of occ9slice: 0.6427876096865393-->
-<!--CALCULATE THE RADIANS-->
+            2. Sine of occ3slice: 0.8660254037844387
+            3. Sine of occ4slice: -0.3420201433256682
+            4. Sine of occ5slice: -0.9848077530122081
+            5. Sine of occ6slice: -0.6427876096865396
+            6. Sine of occ9slice: -2.4492935982947064E-16-->
+<!--CALCULATE THE X VALUES-->
 <!--
             1. X value for occ2slice: 43.412044416732606
-            2. X value for occ3slice: 191.5111107797445
-            3. X value for occ4slice: 43.412044416732606
-            4. X value for occ5slice: 43.412044416732606
-            5. X value for occ6slice: 191.5111107797445
-            6. X value for occ9slice: 191.5111107797445-->
-<!--CALCULATE THE RADIANS-->
+            2. X value for occ3slice: -124.99999999999994
+            3. X value for occ4slice: -234.92315519647713
+            4. X value for occ5slice: 43.41204441673249
+            5. X value for occ6slice: 191.51111077974446
+            6. X value for occ9slice: 250-->
+<!--CALCULATE THE Y VALUES-->
 <!--
             1. Y value for occ2slice: 246.201938253052
-            2. Y value for occ3slice: 160.6969024216348
-            3. Y value for occ4slice: 246.201938253052
-            4. Y value for occ5slice: 246.201938253052
-            5. Y value for occ6slice: 160.6969024216348
-            6. Y value for occ9slice: 160.6969024216348-->
+            2. Y value for occ3slice: 216.50635094610968
+            3. Y value for occ4slice: -85.50503583141705
+            4. Y value for occ5slice: -246.20193825305202
+            5. Y value for occ6slice: -160.6969024216349
+            6. Y value for occ9slice: -6.123233995736766E-14-->
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
    <g transform="translate(350 350)">
       <circle cx="0"
@@ -70,7 +70,15 @@
               style="stroke:black; stroke-width:3; fill:none"/>
       <path d="M0,0                     L250,0                     A250,250 0 0,1 43.412044416732606,246.201938253052                     Z"
             style="stroke:black; stroke-width:3; fill: green"/>
-      <path d="M0,0                     L43.412044416732606,246.201938253052                     A250,250 0 0,1 191.5111107797445,160.6969024216348                     Z"
+      <path d="M0,0                     L43.412044416732606,246.201938253052                     A250,250 0 0,1 -124.99999999999994,216.50635094610968                     Z"
             style="stroke:black; stroke-width:3; fill: blue"/>
+      <path d="M0,0                     L-124.99999999999994,216.50635094610968                     A250,250 0 0,1 -234.92315519647713,-85.50503583141705                     Z"
+            style="stroke:black; stroke-width:3; fill: red"/>
+      <path d="M0,0                     L-234.92315519647713,-85.50503583141705                     A250,250 0 0,1 43.41204441673249,-246.20193825305202                     Z"
+            style="stroke:black; stroke-width:3; fill: yellow"/>
+      <path d="M0,0                     L43.41204441673249,-246.20193825305202                     A250,250 0 0,1 191.51111077974446,-160.6969024216349                     Z"
+            style="stroke:black; stroke-width:3; fill: orange"/>
+      <path d="M0,0                     L191.51111077974446,-160.6969024216349                     A250,250 0 0,1 250,-6.123233995736766E-14                     Z"
+            style="stroke:black; stroke-width:3; fill: purple"/>
    </g>
 </svg>

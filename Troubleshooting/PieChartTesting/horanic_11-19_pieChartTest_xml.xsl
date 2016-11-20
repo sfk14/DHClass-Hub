@@ -40,11 +40,11 @@
             for these individual slices (these are the numbers being divided).-->
             <!--RADIANS-->
         <xsl:variable name="occ2slice" select="(2 div $lotTotal) * (2 * math:pi())"/>
-        <xsl:variable name="occ3slice" select="(1 div $lotTotal) * (2 * math:pi())"/>
-        <xsl:variable name="occ4slice" select="(2 div $lotTotal) * (2 * math:pi())"/>
-        <xsl:variable name="occ5slice" select="(2 div $lotTotal) * (2 * math:pi())"/>
-        <xsl:variable name="occ6slice" select="(1 div $lotTotal) * (2 * math:pi())"/>
-        <xsl:variable name="occ9slice" select="(1 div $lotTotal) * (2 * math:pi())"/>
+        <xsl:variable name="occ3slice" select="$occ2slice + ((1 div $lotTotal) * (2 * math:pi()))"/>
+        <xsl:variable name="occ4slice" select="$occ3slice + ((2 div $lotTotal) * (2 * math:pi()))"/>
+        <xsl:variable name="occ5slice" select="$occ4slice + ((2 div $lotTotal) * (2 * math:pi()))"/>
+        <xsl:variable name="occ6slice" select="$occ5slice + ((1 div $lotTotal) * (2 * math:pi()))"/>
+        <xsl:variable name="occ9slice" select="$occ6slice + ((1 div $lotTotal) * (2 * math:pi()))"/>
         <xsl:comment>CALCULATE THE RADIANS</xsl:comment>
         <xsl:comment>
             1. Radian of occ2slice: <xsl:value-of select="$occ2slice"/>
@@ -61,7 +61,7 @@
         <xsl:variable name="occ5cos" select="math:cos($occ5slice)"/>
         <xsl:variable name="occ6cos" select="math:cos($occ6slice)"/>
         <xsl:variable name="occ9cos" select="math:cos($occ9slice)"/>
-        <xsl:comment>CALCULATE THE RADIANS</xsl:comment>
+        <xsl:comment>CALCULATE THE COSINE</xsl:comment>
         <xsl:comment>
             1. Cosine of occ2slice: <xsl:value-of select="$occ2cos"/>
             2. Cosine of occ3slice: <xsl:value-of select="$occ3cos"/>
@@ -77,7 +77,7 @@
         <xsl:variable name="occ5sin" select="math:sin($occ5slice)"/>
         <xsl:variable name="occ6sin" select="math:sin($occ6slice)"/>
         <xsl:variable name="occ9sin" select="math:sin($occ9slice)"/>
-        <xsl:comment>CALCULATE THE RADIANS</xsl:comment>
+        <xsl:comment>CALCULATE THE SINE</xsl:comment>
         <xsl:comment>
             1. Sine of occ2slice: <xsl:value-of select="$occ2sin"/>
             2. Sine of occ3slice: <xsl:value-of select="$occ3sin"/>
@@ -93,7 +93,7 @@
         <xsl:variable name="occ5X" select="$occ5cos * $radius"/>
         <xsl:variable name="occ6X" select="$occ6cos * $radius"/>
         <xsl:variable name="occ9X" select="$occ9cos * $radius"/>
-        <xsl:comment>CALCULATE THE RADIANS</xsl:comment>
+        <xsl:comment>CALCULATE THE X VALUES</xsl:comment>
         <xsl:comment>
             1. X value for occ2slice: <xsl:value-of select="$occ2X"/>
             2. X value for occ3slice: <xsl:value-of select="$occ3X"/>
@@ -109,7 +109,7 @@
         <xsl:variable name="occ5Y" select="$occ5sin * $radius"/>
         <xsl:variable name="occ6Y" select="$occ6sin * $radius"/>
         <xsl:variable name="occ9Y" select="$occ9sin * $radius"/>
-        <xsl:comment>CALCULATE THE RADIANS</xsl:comment>
+        <xsl:comment>CALCULATE THE Y VALUES</xsl:comment>
         <xsl:comment>
             1. Y value for occ2slice: <xsl:value-of select="$occ2Y"/>
             2. Y value for occ3slice: <xsl:value-of select="$occ3Y"/>
@@ -135,6 +135,26 @@
                     A{$radius},{$radius} 0 0,1 {$occ3X},{$occ3Y}
                     Z"
                     style="stroke:black; stroke-width:3; fill: blue"/>
+                <path d="M0,0
+                    L{$occ3X},{$occ3Y}
+                    A{$radius},{$radius} 0 0,1 {$occ4X},{$occ4Y}
+                    Z"
+                    style="stroke:black; stroke-width:3; fill: red"/>
+                <path d="M0,0
+                    L{$occ4X},{$occ4Y}
+                    A{$radius},{$radius} 0 0,1 {$occ5X},{$occ5Y}
+                    Z"
+                    style="stroke:black; stroke-width:3; fill: yellow"/>
+                <path d="M0,0
+                    L{$occ5X},{$occ5Y}
+                    A{$radius},{$radius} 0 0,1 {$occ6X},{$occ6Y}
+                    Z"
+                    style="stroke:black; stroke-width:3; fill: orange"/>
+                <path d="M0,0
+                    L{$occ6X},{$occ6Y}
+                    A{$radius},{$radius} 0 0,1 {$occ9X},{$occ9Y}
+                    Z"
+                    style="stroke:black; stroke-width:3; fill: purple"/>
                 
             </g>
         </svg>

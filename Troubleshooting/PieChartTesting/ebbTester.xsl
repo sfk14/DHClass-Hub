@@ -21,7 +21,7 @@
                    <xsl:choose><xsl:when test="$ratio_wedge1 lt .5">0</xsl:when> 
                    <xsl:otherwise>1</xsl:otherwise>
                    </xsl:choose>     
-                <!--This generates a variable of 0 (for short) or 0 (for long) based on whether the ratio is larger or smaller than 1/2.
+                <!--This generates a variable of 0 (for short) or 1 (for long) based on whether the ratio is larger or smaller than 1/2.
                 The variable is needed to set the first sweep flag value on the arc path, 
                 to determine whether to make the shortest or the longest possible circular arc.
                 -->

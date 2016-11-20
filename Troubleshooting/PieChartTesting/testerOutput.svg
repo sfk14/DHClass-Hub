@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Pi in the w3c: 3.141592653589793-->
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+   <g transform="translate(350 350)">
+      <circle cx="0"
+              cy="0"
+              r="250"
+              style="stroke:black; stroke-width:3; fill:none"/>
+      <!--Angle: 0.41887902047863906 radians = 
+                    90 degrees.
+                -->
+      <!--X value of wedge 1: 228.38636441065023-->
+      <!--Y value of wedge 1: 101.68416076895004-->
+      <path id="wedge1"
+            d="M0,0                     L250,0                     A250,250 0 0,1 228.38636441065023,101.68416076895004                     Z"
+            style="stroke:black; stroke-width:2; fill: green"/>
+      <path id="wedge2"
+            d="M0,0              L228.38636441065023,101.68416076895004 A250,250 0, 0,1 1.5308084989341916E-14,250 Z"
+            style="stroke:black; stroke-width:2; fill: purple"/>
+   </g>
+</svg>

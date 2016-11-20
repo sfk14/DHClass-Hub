@@ -11,6 +11,9 @@
     
         <svg width="100%" height="100%">
             <g transform="translate(350 350) rotate(-90)">
+                <!--ebb: Just for fun, I set a rotate() attribute on the pie chart so it would rotate the pie 
+                   counter-clockwise to start plotting at NOON instead of 3 o'clock. See notes at bottom of this XSLT for 
+                more on how to set the rotation, if you want to do that.-->
                 <xsl:variable name="radius" select="80"/>
                 <circle cx="0" cy="0" r="{$radius}" style="stroke:black; stroke-width:3; fill:none"/>
                 

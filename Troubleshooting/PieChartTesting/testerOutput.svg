@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--Pi in the w3c: 3.141592653589793-->
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
-   <g transform="translate(350 350)">
+   <g transform="translate(350 350) rotate(-90)">
       <circle cx="0"
               cy="0"
               r="80"
@@ -12,7 +12,7 @@
       <!--X value of wedge 1: 73.08363661140807-->
       <!--Y value of wedge 1: 32.53893144606401-->
       <path id="wedge1"
-            d="M0,0                     L80,0                     A80,80 0 0,1 73.08363661140807,32.53893144606401                     Z"
+            d="M0,0                     L 80,0                     A80,80 0 0,1 73.08363661140807,32.53893144606401                     Z"
             style="stroke:black; stroke-width:2; fill: green"/>
       <path id="wedge2"
             d="M0,0              L73.08363661140807,32.53893144606401 A80,80 0, 0,1 4.898587196589413E-15,80 Z"

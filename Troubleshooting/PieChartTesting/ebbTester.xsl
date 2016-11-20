@@ -10,7 +10,7 @@
        <xsl:comment>Pi in the w3c: <xsl:value-of select="math:pi()"/></xsl:comment>
     
         <svg width="100%" height="100%">
-            <g transform="translate(350 350)" >
+            <g transform="translate(350 350) rotate(-90)">
                 <xsl:variable name="radius" select="80"/>
                 <circle cx="0" cy="0" r="{$radius}" style="stroke:black; stroke-width:3; fill:none"/>
                 
@@ -26,12 +26,12 @@
                 <xsl:comment>X value of wedge 1: <xsl:value-of select="$x_wedge1"/></xsl:comment>
                 <xsl:comment>Y value of wedge 1: <xsl:value-of select="$y_wedge1"/></xsl:comment>
        
-                <!--ebb: Draw the first wedge, with a line starting at 3 o'clock, running 0,0 to 250,0
+                <!--ebb: Draw the first wedge, with a line starting at 3 o'clock, running 0,0 to 0,250
                  Draw a circular arc with A{$radius},{$radius} 0 0,1, out to the new set of wedge coordinates 
                  calculated with math:sin() and math:cos(), and close the path with Z.
                 -->
                 <path id="wedge1" d="M0,0
-                    L{$radius},0
+                    L {$radius},0
                     A{$radius},{$radius} 0 0,1 {$x_wedge1},{$y_wedge1}
                     Z"
                     style="stroke:black; stroke-width:2; fill: green"/>
@@ -48,7 +48,21 @@
             L{$x_wedge1},{$y_wedge1} A{$radius},{$radius} 0, 0,1 {$x_wedge2},{$y_wedge2} Z"
             style="stroke:black; stroke-width:2; fill: purple"/>        
                 
-                
+  <!--ebb: Just for fun, if want to plot counterclockwise from 3pm, we can plot backwards by changing the following:
+      arc flags from 0,1 to 0,0
+      set a negative sign in front of the $y_wedge values -${$y_wedge1}
+     
+     But a MUCH easier way is to rotate the entire pie chart, using transform="rotate()"
+      See http://tutorials.jenkov.com/svg/svg-transformation.html#rotate
+      In the g element, here's how that rotate would look set in the transform attribute next to the translate coordinates:
+       <g transform="translate(350 350) rotate(-90)"> 
+          ...
+      </g>
+     This will rotate the pie chart counterclockwise by 90 degrees so the wedges start plotting downwards from NOON
+     One weirdness of this is that SVG trasnform="rotate()" reads in degrees, while the XPath functions math:sin() and math:cos()
+     calculate in radians on pi units. I guess we just live with this weirdness, but if you're curious, setting the rotation in CSS
+     gives you more options on units: Search for the word "radians" on this page https://css-tricks.com/transforms-on-svg-elements/
+  -->              
             </g>
         </svg>
     

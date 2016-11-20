@@ -14,12 +14,42 @@
 <!--There are 3 occupants for lot #33.-->
 <!--HOW TO CHART ON THE CIRCLE-->
 <!--To make a pie chart, the data has to be proportional to 360, because a circle has 360 degrees.
-        1. Find the totals for each slice you want to display.
-        2. Add all the slices totats up to make an overall total.
-        3. Now divide each slice by the total to get a percentage.
-        4. Multiply this percentage by 360 to be know the angle of each slice.
-        5. Plot each slice and make sure they all fit the circle properly.-->
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+        1. Find the total number of repeats for each instance, these make up the slices.
+        2. Find the total of all the instances you want to display on the chart by adding them together.
+        3. Now divide each slice total by the total number of instances to get a percentage.
+        4. Multiply this percentage by 2pi (2 * pi) to be know the radian of each slice.
+        5.
+        6.
+        7.
+        8. Plot each slice using the radian in the path element and make sure they all fit the circle properly.-->
+<!--CALCULATE THE RADIANS-->
+<!--
+            1. Radian of occ2slice: 1.3962634015954636
+            2. Radian of occ3slice: 0.6981317007977318
+            3. Radian of occ4slice: 1.3962634015954636
+            4. Radian of occ5slice: 1.3962634015954636
+            5. Radian of occ6slice: 0.6981317007977318
+            6. Radian of occ9slice: 0.6981317007977318-->
+<!--CALCULATE THE RADIANS-->
+<!--
+            1. Cosine of occ2slice: 0.17364817766693041
+            2. Cosine of occ3slice: 0.766044443118978
+            3. Cosine of occ4slice: 0.17364817766693041
+            4. Cosine of occ5slice: 0.17364817766693041
+            5. Cosine of occ6slice: 0.766044443118978
+            6. Cosine of occ9slice: 0.766044443118978-->
+<!--CALCULATE THE RADIANS-->
+<!--
+            1. Sine of occ2slice: 0.984807753012208
+            2. Sine of occ3slice: 0.6427876096865393
+            3. Sine of occ4slice: 0.984807753012208
+            4. Sine of occ5slice: 0.984807753012208
+            5. Sine of occ6slice: 0.6427876096865393
+            6. Sine of occ9slice: 0.6427876096865393-->
+<svg xmlns:math="http://www.w3.org/2005/xpath-functions/math"
+     xmlns="http://www.w3.org/2000/svg"
+     width="100%"
+     height="100%">
    <g transform="translate(350 350)">
       <circle cx="0"
               cy="0"

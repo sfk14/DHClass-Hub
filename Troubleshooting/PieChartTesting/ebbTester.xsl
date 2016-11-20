@@ -11,7 +11,7 @@
     
         <svg width="100%" height="100%">
             <g transform="translate(350 350)" >
-                <xsl:variable name="radius" select="250"/>
+                <xsl:variable name="radius" select="80"/>
                 <circle cx="0" cy="0" r="{$radius}" style="stroke:black; stroke-width:3; fill:none"/>
                 
                 <xsl:variable name="angle_wedge1" select="2 * math:pi() * (1 div 15)"/>   
@@ -27,12 +27,12 @@
                 <xsl:comment>Y value of wedge 1: <xsl:value-of select="$y_wedge1"/></xsl:comment>
        
                 <!--ebb: Draw the first wedge, with a line starting at 3 o'clock, running 0,0 to 250,0
-                 Draw a circular arc with A250,25 0 0,1, out to the new set of wedge coordinates 
+                 Draw a circular arc with A{$radius},{$radius} 0 0,1, out to the new set of wedge coordinates 
                  calculated with math:sin() and math:cos(), and close the path with Z.
                 -->
                 <path id="wedge1" d="M0,0
-                    L250,0
-                    A250,250 0 0,1 {$x_wedge1},{$y_wedge1}
+                    L{$radius},0
+                    A{$radius},{$radius} 0 0,1 {$x_wedge1},{$y_wedge1}
                     Z"
                     style="stroke:black; stroke-width:2; fill: green"/>
      <xsl:variable name="angle_wedge2" select="2 * math:pi() * (2 div 8)"/>
@@ -45,7 +45,7 @@
     --> 
                 
         <path id="wedge2" d="M0,0 
-            L{$x_wedge1},{$y_wedge1} A250,250 0, 0,1 {$x_wedge2},{$y_wedge2} Z"
+            L{$x_wedge1},{$y_wedge1} A{$radius},{$radius} 0, 0,1 {$x_wedge2},{$y_wedge2} Z"
             style="stroke:black; stroke-width:2; fill: purple"/>        
                 
                 

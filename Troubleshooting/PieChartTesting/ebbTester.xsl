@@ -16,8 +16,18 @@
                 more on how to set the rotation, if you want to do that.-->
                 <xsl:variable name="radius" select="80"/>
                 <circle cx="0" cy="0" r="{$radius}" style="stroke:black; stroke-width:3; fill:none"/>
-                
-                <xsl:variable name="angle_wedge1" select="2 * math:pi() * (1 div 15)"/>   
+                <xsl:variable name="ratio_wedge1" select="1 div 4"/>
+                <xsl:variable name="sweepFlagW1">
+                   <xsl:choose><xsl:when test="$ratio_wedge1 lt .5">0</xsl:when> 
+                   <xsl:otherwise>1</xsl:otherwise>
+                   </xsl:choose>     
+                <!--This generates a variable of 0 (for short) or 1 (for long) based on whether the ratio is larger or smaller than 1/2.
+                The variable is needed to set the first sweep flag value on the arc path, 
+                to determine whether to make the shortest or the longest possible circular arc.
+                -->
+                </xsl:variable>
+                <xsl:variable name="angle_wedge1" select="2 * math:pi() * $ratio_wedge1"/>  
+
                 <xsl:variable name="angle_w1_degs" select="360 * (25 div 100)"/>
                 <xsl:comment>Angle: <xsl:value-of select="$angle_wedge1"/> radians = 
                     <xsl:value-of select="$angle_w1_degs"/> degrees.
@@ -32,24 +42,36 @@
                 <!--ebb: Draw the first wedge, with a line starting at 3 o'clock, running 0,0 to 0,250
                  Draw a circular arc with A{$radius},{$radius} 0 0,1, out to the new set of wedge coordinates 
                  calculated with math:sin() and math:cos(), and close the path with Z.
+                 
+                 I discover that IF a wedge is set to be OVER HALF the pie, we have to change the first flag that indicates 
+                 whether the arc needs to take the short or the long way around the circle. We'll want to calculate a variable
+                 to determine whether to set the value to "0" for the short way when the value is under 1/2, or "1" when it's over 1/2.
                 -->
+            
                 <path id="wedge1" d="M0,0
                     L {$radius},0
-                    A{$radius},{$radius} 0 0,1 {$x_wedge1},{$y_wedge1}
+                    A{$radius},{$radius} 0 {$sweepFlagW1},1 {$x_wedge1},{$y_wedge1}
                     Z"
                     style="stroke:black; stroke-width:2; fill: green"/>
-     <xsl:variable name="angle_wedge2" select="2 * math:pi() * (2 div 8)"/>
-                <xsl:variable name="x_wedge2" select="math:cos($angle_wedge2) * $radius"/>
-                <xsl:variable name="y_wedge2" select="math:sin($angle_wedge2) * $radius"/>
+   
     <!--ebb: Draw the second wedge, 
         starting with a line running from 0,0 to the end-point of the last set of x, y coordinates from wedge 1.
+        We need to calculate the new angle to ADD to the first angle so we are properly placing our wedges in relation to each other.
     Make the same kind of arc as before, and draw the new arc and path to the new set of wedge coordinates,
     and close the path with Z.
     --> 
-                
-        <path id="wedge2" d="M0,0 
-            L{$x_wedge1},{$y_wedge1} A{$radius},{$radius} 0, 0,1 {$x_wedge2},{$y_wedge2} Z"
-            style="stroke:black; stroke-width:2; fill: purple"/>        
+                <xsl:variable name="ratio_wedge2" select="2 div 3"/>
+                <xsl:variable name="sweepFlagW2">
+                    <xsl:choose><xsl:when test="$ratio_wedge2 lt .5">0</xsl:when> 
+                        <xsl:otherwise>1</xsl:otherwise>
+                    </xsl:choose>     
+                </xsl:variable>
+                <xsl:variable name="angle_wedge2" select="$angle_wedge1 + (2 * math:pi() * $ratio_wedge2)"/>
+                <xsl:variable name="x_wedge2" select="math:cos($angle_wedge2) * $radius"/>
+                <xsl:variable name="y_wedge2" select="math:sin($angle_wedge2) * $radius"/>
+             <path id="wedge2" d="M0,0 
+                    L{$x_wedge1},{$y_wedge1} A{$radius},{$radius} 0, {$sweepFlagW2},1 {$x_wedge2},{$y_wedge2} Z"
+            style="stroke:black; stroke-width:2; fill: purple"/>     
                 
   <!--ebb: Just for fun, if want to plot counterclockwise from 3pm, we can plot backwards by changing the following:
       arc flags from 0,1 to 0,0

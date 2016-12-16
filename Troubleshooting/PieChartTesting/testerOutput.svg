@@ -6,16 +6,16 @@
               cy="0"
               r="80"
               style="stroke:black; stroke-width:3; fill:none"/>
-      <!--Angle: 0.41887902047863906 radians = 
+      <!--Angle: 1.5707963267948966 radians = 
                     90 degrees.
                 -->
-      <!--X value of wedge 1: 73.08363661140807-->
-      <!--Y value of wedge 1: 32.53893144606401-->
+      <!--X value of wedge 1: 4.898587196589413E-15-->
+      <!--Y value of wedge 1: 80-->
       <path id="wedge1"
-            d="M0,0                     L 80,0                     A80,80 0 0,1 73.08363661140807,32.53893144606401                     Z"
+            d="M0,0                     L 80,0                     A80,80 0 0,1 4.898587196589413E-15,80                     Z"
             style="stroke:black; stroke-width:2; fill: green"/>
       <path id="wedge2"
-            d="M0,0              L73.08363661140807,32.53893144606401 A80,80 0, 0,1 4.898587196589413E-15,80 Z"
+            d="M0,0                      L4.898587196589413E-15,80 A80,80 0, 1,1 69.28203230275507,-40.000000000000036 Z"
             style="stroke:black; stroke-width:2; fill: purple"/>
    </g>
 </svg>

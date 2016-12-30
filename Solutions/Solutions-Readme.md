@@ -1,2 +1,2 @@
-Welcome, come to this folder for Homework Solutions!  
+Welcome, frequent this folder for Homework Solutions!  
   

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <title>Gazpacho Recipe</title>
+
+    <time>Prep time: 25 minutes </time>
+    <yield>Yield: Serves 8</yield>
+    <heading>Ingredients</heading>
+    <ingredients><vegetable number="6"> ripe tomatoes</vegetable>
+        <weight>(about 3 lbs)</weight>, <preperation>peeled and chopped</preperation>
+        <measurement>(yielding about 6 cups)</measurement>
+        <vegetable number="1"> red onion</vegetable>, <preperation>finely chopped</preperation>
+        <measurement>(about 1 1/4 cups)</measurement>
+        <vegetable number="1"> cucumber</vegetable>, <preperation>peeled, seeded,
+            chopped</preperation>
+        <measurement> (about 1 cup)</measurement>
+        <vegetable number="1"> sweet red bell pepper (or green)</vegetable>
+        <preperation>seeded and chopped</preperation>
+        <measurement>(about 1 cup)</measurement>
+        <vegetable number="2"> stalks celery</vegetable>, <preperation>chopped</preperation>
+        <measurement>(about 1 cup)</measurement>
+        <measurement>1-2 Tbsp</measurement>
+        <preperation>chopped</preperation>
+        <seasoning>fresh parsley</seasoning>
+        <measurement>2 Tbsp</measurement>
+        <preperation>chopped</preperation>
+        <seasoning>fresh chives</seasoning>
+        <seasoning number="1"> clove garlic</seasoning>, <preperation>minced</preperation>
+        <measurement>(about 1 teaspoon)</measurement>
+        <measurement>1/4 cup</measurement>
+        <liquid>red wine vinegar</liquid>
+        <measurement>1/4 cup</measurement>
+        <liquid>olive oil</liquid>
+        <measurement>1 Tbsp</measurement>
+        <preperation>freshly squeezed</preperation>
+        <liquid>lemon juice</liquid>
+        <measurement>2 teaspoons</measurement>
+        <seasoning>sugar</seasoning>
+        <special_instructions>(more may be needed to balance out the acidity of the tomatoes, add to
+            taste)</special_instructions>
+        <seasoning>Salt and fresh ground pepper</seasoning>
+        <measurement>to taste</measurement>
+        <measurement>6 or more drops of</measurement>
+        <seasoning>Tabasco sauce</seasoning>
+        <measurement>to taste</measurement>
+        <measurement>1 teaspoon</measurement>
+        <seasoning>Worcestershire sauce</seasoning>
+        <special_instructions>(omit for vegan or vegetarian option)</special_instructions>
+        <measurement>2 cups</measurement>
+        <liquid>tomato juice</liquid>
+        <special_instructions>(or 1 15-ounce can crushed tomatoes if you don't have tomato
+            juice)</special_instructions></ingredients>
+    <instructions> Place all ingredients in a large bowl. Use an immersion blender or blend in
+        batches, to desired smoothness. We prefer our gazpacho somewhat chunky, so only pulse a few
+        times in the blender. Adjust seasonings to taste. Place in a non-reactive container
+        (tomatoes are acidic) to store. Chill several hours or overnight to allow the flavors to
+        blend.</instructions>
+</root>

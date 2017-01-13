@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="WoolfLetter.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="Woolfletter.rnc" type="application/relax-ng-compact-syntax"?>
 <letter writer="vw" recipient="vs-w">
     <head>
         <address>

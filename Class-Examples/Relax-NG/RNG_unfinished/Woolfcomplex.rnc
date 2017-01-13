@@ -1,3 +1,4 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start = letter
 letter = element letter {head, body, closer, postScript*}
 head = element head {address, date}

@@ -1,9 +1,0 @@
-datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
-start = letter
-letter = element letter {writer, recipient, head, body, closer, postScript}
-writer = attribute writer {"vw" | "vs-w"}
-recipient = attribute recipient {text}
-head
-body
-# How to write a comment
-# Remember to show how to associate the schema with the XML file

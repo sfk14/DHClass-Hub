@@ -1,0 +1,17 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+poem = poem
+poem = element poem {citation, title, byline, lg?}
+citation = element citation {mixed{link}}
+link = element link {xsd:anyURI}
+title = element title {text}
+byline = element byline {mixed{persName}}
+persName = element persName {type, id, text}
+type = attribute type {"author"}
+id = attribute id {"AngelouM"}
+lg = element lg {(lb | w | punct)+, text}
+lb = element lb {n, empty}
+n = attribute n {text}
+w = element w {ref, text}
+punct = attribute punct {type, text}
+type = attribute type {"period" | "comma"} 
+

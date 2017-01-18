@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<?xml-model href="Poem_Example.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
 <citation>
 Maya Angelou, "Phenomenal Woman" from And Still I Rise. Copyright © <date when="1978">1978</date> by Maya Angelou. The Complete Collected Poems of Maya Angelou (Random House Inc.,<date when="1994"> 1994</date>).
-<link>https://www.poetryfoundation.org/poems-and-poets/poems/detail/48985</link> Accessed: <date when="2017-15-01">January 15, 2017</date>
+<link>https://www.poetryfoundation.org/poems-and-poets/poems/detail/48985</link> Accessed: <date when="2017-01-15">January 15, 2017</date>
 </citation>
 
 <title>Phenomenal Woman</title>
@@ -39,7 +39,7 @@ And the flash of my <w ref="body">teeth</w><punct type="comma">,</punct><lb n="2
 The swing in my <w ref="body">waist</w><punct type="comma">,</punct><lb n="24"/>
 And the joy in my <w ref="body">feet</w><punct type="period">.</punct><lb n="25"/>
 <text style="repetition">I'm a <w ref="female">woman</w><lb n="26"/> 
-Phenomenally<punct type="pd">.</punct><lb n="27"/></text> 
+Phenomenally<punct type="period">.</punct><lb n="27"/></text> 
 </lg> 
 
 <lg>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <poem>
 <citation>
-Maya Angelou, "Phenomenal Woman" from And Still I Rise. Copyright © 1978 by Maya Angelou. The Complete Collected Poems of Maya Angelou (Random House Inc., 1994).
-<link>https://www.poetryfoundation.org/poems-and-poets/poems/detail/48985</link>
+Maya Angelou, "Phenomenal Woman" from And Still I Rise. Copyright © <date when="1978">1978</date> by Maya Angelou. The Complete Collected Poems of Maya Angelou (Random House Inc.,<date when="1994"> 1994</date>).
+<link>https://www.poetryfoundation.org/poems-and-poets/poems/detail/48985</link> Accessed: <date when="2017-15-01">January 15, 2017</date>
 </citation>
 
 <title>Phenomenal Woman</title>
@@ -18,10 +19,10 @@ It's in the reach of my <w ref="body">arms</w><punct type="comma">,</punct><lb n
 The span of my <w ref="body">hips</w><punct type="comma">,</punct><lb n="7"/>
 The stride of my step<punct type="comma">,</punct><lb n="8"/>
 The curl of my <w ref="body">lips</w><punct type="period">.</punct><lb n="9"/>
-I'm a <w ref="female">woman</w><lb n="10"/>  
+<text style="repetition">I'm a <w ref="female">woman</w><lb n="10"/>  
 Phenomenally<punct type="period">.</punct><lb n="11"/>  
 Phenomenal <w ref="female">woman</w><punct type="comma">,</punct><lb n="12"/>
-That's me<punct type="period">.</punct><lb n="13"/> 
+That's me<punct type="period">.</punct><lb n="13"/></text> 
 </lg> 
 
 <lg>
@@ -37,13 +38,13 @@ It's the fire in my <w ref="body">eyes</w><punct type="comma">,</punct><lb n="22
 And the flash of my <w ref="body">teeth</w><punct type="comma">,</punct><lb n="23"/>
 The swing in my <w ref="body">waist</w><punct type="comma">,</punct><lb n="24"/>
 And the joy in my <w ref="body">feet</w><punct type="period">.</punct><lb n="25"/>
-I'm a <w ref="female">woman</w><lb n="26"/> 
-Phenomenally<punct type="period">.</punct><lb n="27"/> 
+<text style="repetition">I'm a <w ref="female">woman</w><lb n="26"/> 
+Phenomenally<punct type="pd">.</punct><lb n="27"/></text> 
 </lg> 
 
 <lg>
-Phenomenal <w ref="female">woman</w><punct type="comma">,</punct><lb n="28"/>  
-That's me<punct type="period">.</punct><lb n="29"/> 
+<text style="repetition">Phenomenal <w ref="female">woman</w><punct type="comma">,</punct><lb n="28"/>  
+That's me<punct type="period">.</punct><lb n="29"/> </text>
 </lg> 
 
 <lg>
@@ -59,10 +60,10 @@ It's in the arch of my <w ref="body">back</w><punct type="comma">,</punct><lb n=
 The sun of my <w ref="body">smile</w><punct type="comma">,</punct><lb n="39"/> 
 The ride of my <w ref="body">breasts</w><punct type="comma">,</punct><lb n="40"/>  
 The grace of my style<punct type="period">.</punct><lb n="41"/>  
-I'm a <w ref="female">woman</w><lb n="42"/>  
+<text style="repetition">I'm a <w ref="female">woman</w><lb n="42"/>  
 Phenomenally<punct type="period">.</punct><lb n="43"/>  
 Phenomenal <w ref="female">woman</w><punct type="comma">,</punct><lb n="44"/>  
-That's me<punct type="period">.</punct><lb n="45"/> 
+That's me<punct type="period">.</punct><lb n="45"/></text>
 </lg> 
 
 <lg>
@@ -77,9 +78,9 @@ It's in the click of my <w ref="body">heels</w><punct type="comma">,</punct><lb 
 The bend of my <w ref="body">hair</w><punct type="comma">,</punct><lb n="54"/>
 the palm of my <w ref="body">hand</w><punct type="comma">,</punct><lb n="55"/>
 The need for my care<punct type="period">.</punct><lb n="56"/>
-'Cause I'm a <w ref="female">woman</w><lb n="57"/>  
+'Cause <text style="repetition">I'm a <w ref="female">woman</w><lb n="57"/>  
 Phenomenally<punct type="period">.</punct><lb n="58"/>  
 Phenomenal <w ref="female">woman</w><punct type="comma">,</punct><lb n="59"/>  
-That's me<punct type="period">.</punct><lb n="60"/> 
+That's me<punct type="period">.</punct><lb n="60"/></text> 
 </lg>
 </poem>

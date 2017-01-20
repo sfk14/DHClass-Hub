@@ -1,0 +1,41 @@
+
+<?xml-model href="Newton_rncEX3.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+    <title>Where the Sidewalk Ends</title> 
+    <author>Shel Silverstein</author>
+    <stanza n="1" rhyme="abcccb">
+        <line l="1">There is a place <literary_device repetition="whereTheSidewalkEnds">where the
+                sidewalk ends</literary_device></line>
+        <line l="2">And before the street begins,</line>
+        <line l="3">And there the <literary_device alliteration="g">grass grows</literary_device>
+            soft and white,</line>
+        <line l="4">And there the sun burns crimson bright,</line>
+        <line l="5">And there the moon-bird rests from his flight</line>
+        <line l="6">To cool in the peppermint wind.</line>
+    </stanza>
+    <stanza n="2" rhyme="abcccb">
+        <line l="7">Let us leave this place where the smoke blows black</line>
+        <line l="8">And the dark street winds and bends.</line>
+        <line l="9"><literary_device alliteration="p">Past the pits</literary_device> where the
+                <literary_device metaphor="beautifulCity">asphalt flowers</literary_device>
+            grow</line>
+        <line l="10"><literary_device repetition="weWalkWithAWalkThatIsMeasuredAndSlow"
+                    alliteration="w">We walk with a walk that is
+                measured and slow</literary_device>,</line>
+        <line l="11">And <literary_device alliteration="w">watch where the
+                chalk-white</literary_device> arrows go</line>
+        <line l="12">To the place <literary_device repetition="whereTheSidewalkEnds">where the
+                sidewalk ends</literary_device>.</line>
+    </stanza>
+    <stanza n="3" rhyme="aaab">
+        <line l="13">Yes <literary_device repetition="weWalkWithAWalkThatIsMeasuredAndSlow"
+                    alliteration="w">we'll walk with a walk that
+                is measured and slow</literary_device>,</line>
+        <line l="14">And <literary_device alliteration="w">we'll go where the
+                chalk-white</literary_device> arrows go,</line>
+        <line l="15">For <literary_device alliteration="t">the children, they mark, and the
+                children, they</literary_device> know</line>
+        <line l="16">The place <literary_device repetition="whereTheSidewalkEnds">where the sidewalk
+                ends</literary_device>.</line>
+    </stanza>
+</poem>

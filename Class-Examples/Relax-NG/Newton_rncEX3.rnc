@@ -1,0 +1,27 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = poem
+poem = element poem {title, author, stanza+}
+title = element title {text}
+author = element author {text}
+stanza = element stanza {n, rhyme+, line+}
+n = attribute n {xsd:int}
+rhyme = attribute rhyme {text}
+line = element line {l, mixed{literary_device*}} 
+
+
+#JMH: Ok, so we have an error message with in your document.
+#JMH: Checking the error description can help your troubleshoot as you test your schemas, and here it is saying
+# that "literary_device" is not allowed, and it expects the end of your <line> element or text to be present in
+# that space. What your code reads as is: "Line is an element called line, it has text mixed with a single l
+# attributes OR zero or more literary_device elements." The problem is the pipe! What would you do to indicate
+# that there is an order in sequence? What you want is an "l AND literary_device" rule: HINT! You used it above!
+l = attribute l {xsd:int}
+literary_device = element literary_device {mixed{(alliteration | repetition | metaphor)*}}
+alliteration = attribute alliteration {text}
+repetition = attribute repetition {text}
+metaphor = attribute metaphor {text}
+
+#2017-01-20 JMH ebb: Good work here, and except for that one piping problem (puns, you cannot escape them in a code class) your code is well structured!
+# You also are thinking as if you could use your schema for multiple documents, using the repetition indicators
+# to your advantage. camelCase is usually what we prefer to use when tagging and it might be
+# easier for you than using underscores, so we'd suggest to use it more in the future. Score: 8.5/10

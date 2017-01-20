@@ -4,24 +4,22 @@ poem = element poem {title, author, stanza+}
 title = element title {text}
 author = element author {text}
 stanza = element stanza {n, rhyme+, line+}
+# ebb  We noticed that you put a repetition indicator on rhyme, but it's an attribute, so literally you can't use it more than once! This doesn't cause a problem in your schema, and it's okay in your XML because you always have at least one rhyme, but you really don't want a repetition indicator here. Rewrite thus:
+# stanza = element stanza {n, rhyme, line+}
 n = attribute n {xsd:int}
+# ebb jmh (after class 2017-01-20: great use of data types! We could actually re-use this attribute on MULTIPLE elements, now that we have defined its contents. All we have to do is indicate WHERE we want to permit it. So we'd suggest using n INSTEAD of the l attribute that you're putting on line.
 rhyme = attribute rhyme {text}
 line = element line {l, mixed{literary_device*}} 
+#2017-01-20 ebb jmh: In class today, we corrected your original code to move the l attribute out of the mixed syntax. We'd actually recommend to change @l over to @n, since you're really @n the same way, to count stuff! 
 
-
-#JMH: Ok, so we have an error message with in your document.
-#JMH: Checking the error description can help your troubleshoot as you test your schemas, and here it is saying
-# that "literary_device" is not allowed, and it expects the end of your <line> element or text to be present in
-# that space. What your code reads as is: "Line is an element called line, it has text mixed with a single l
-# attributes OR zero or more literary_device elements." The problem is the pipe! What would you do to indicate
-# that there is an order in sequence? What you want is an "l AND literary_device" rule: HINT! You used it above!
 l = attribute l {xsd:int}
+
 literary_device = element literary_device {mixed{(alliteration | repetition | metaphor)*}}
 alliteration = attribute alliteration {text}
 repetition = attribute repetition {text}
 metaphor = attribute metaphor {text}
 
-#2017-01-20 JMH ebb: Good work here, and except for that one piping problem (puns, you cannot escape them in a code class) your code is well structured!
+#2017-01-20 JMH ebb: Good work here, and this gave us a great example to play with in class. (THANK YOU!) :-) 
 # You also are thinking as if you could use your schema for multiple documents, using the repetition indicators
 # to your advantage. camelCase is usually what we prefer to use when tagging and it might be
 # easier for you than using underscores, so we'd suggest to use it more in the future. Score: 8.5/10

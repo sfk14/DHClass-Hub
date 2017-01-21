@@ -29,7 +29,7 @@ Hit enter, and watch the lines scroll away in the command line terminal as the r
 
 2) You interact with your local directory the way you would any other. You can drag files into it using the Finder/File Explorer, save files into it, and check in with the remote repository to **pull** new files in.  
 So this is what you should do:
-Open Terminal/Command Line Shell, and step down into your GitHub directory, and then down into the DHClass-Hub (or desired repo), and check that you are where you think intend to be, **by typing `ls`.** The ls command will **show the contents of the directory** in which you've positioned yourself.  
+Open Terminal/Command Line Shell, and step down into your GitHub directory, and then down into the DHClass-Hub (or desired repo), and check that you are where you want to be **by typing `ls`.** The ls command will **show the contents of the directory** in which you've positioned yourself.  
 
 * To make sure you're in the right directory, the top level of the DHClass-Hub, also check to see the directory name at the terminal prompt. Yours should look similar to this, and the key part is "DHClass-Hub":
 `gbg-wireless-pittnet-150-212-105-8:DHClass-Hub ebb8$ `

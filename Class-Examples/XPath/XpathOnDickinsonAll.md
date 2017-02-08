@@ -1,0 +1,38 @@
+Find all poems:
+//div[@type=“poem"]
+
+First poem:
+//div[@type="poem"][1]
+
+First poem, first lg:
+//div[@type=“poem"][1]/lg[1] 
+OR
+//div[@type="poem"]/child::lg[1]
+
+First poem, first lg, first l:
+//div[@type=“poem"][1]/lg[1]/l[1]
+OR
+//div[@type="poem"][1]/child::lg[1]/child::l[1]
+OR
+//div[@type=“poem"][1]/lg[1]/l[@n=“1"]
+
+Any elements that come before the first lg:
+//div[@type="poem"]/lg[1]/preceding-sibling::*
+
+Finding Attributes on Elements:
+//div[@type=“poem”/lg/attribute::*
+
+Counting:
+count(//div[@type=“poem”])
+
+Find all instances of an element in an entire document:
+//-ELEMENT NAME-
+EG. //rdg[@wit='#fh’]
+
+Finding parents of elements:
+//div[@type=“poem”]/parent::*
+
+Functions:
+last() - Finds the last of anything
+name() - Finds the names of elements or attributes
+count() - When it wraps around an expression, gives a count of what you’re searching for

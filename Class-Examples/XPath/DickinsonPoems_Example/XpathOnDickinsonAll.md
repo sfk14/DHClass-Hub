@@ -1,3 +1,5 @@
+2017-02-08 IN CLASS EXAMPLE
+
 Find all poems:
 //div[@type=“poem"]
 
@@ -32,7 +34,19 @@ EG. //rdg[@wit='#fh’]
 Finding parents of elements:
 //div[@type=“poem”]/parent::*
 
+
+2017-02-10 IN CLASS EXAMPLES
+
+Difference between:
+//div[@type="poem"]//rdg[1]
+and
+(//div[@type="poem"]//rdg)[1]
+The top one is looking at the first rdg in every poem. The second is looking at the first rdg inside the first poem.
+
+
 Functions:
 last() - Finds the last of anything
 name() - Finds the names of elements or attributes
 count() - When it wraps around an expression, gives a count of what you’re searching for
+not () - Finds where something doesn't happen
+distinct-values()

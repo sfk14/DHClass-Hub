@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="SchematronClassExProsop.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <root>
     <!--2017-02-17 ebb: This is an example of a document holding information about a list of places, and sometimes this is known as a "gazetteer" or a "placeography". It's a kind of "prosopography" collection, that is, a collection holding data about proper names, and when it holds information about people, it's called a "personography".-->
     

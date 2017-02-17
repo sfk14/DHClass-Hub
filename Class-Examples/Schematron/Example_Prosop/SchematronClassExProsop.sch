@@ -8,7 +8,7 @@
         <rule context="geo">
             <!--<assert test="true()">Error message.</assert>-->
             
-            <assert test="matches(., '[0-9.]+\s[-0-9+]+')">Every geo element must contain a latitude(?) followed by a longitude(?) ccordinate, and the two are separated by a white space. This must not be separated properly!</assert>
+            <assert test="matches(., '[0-9.]+\s[\-0-9+]+')">Hey team! Every geo element must contain a latitude followed by a longitude ccordinate, and the two are separated by a white space. This must not be separated properly!</assert>
             
             <!-- model a report test as well!-->
         </rule>

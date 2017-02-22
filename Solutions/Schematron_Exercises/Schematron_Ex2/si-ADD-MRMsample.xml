@@ -3,7 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<?xml-model href="Schematron_Ex2_rjp.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="Schematron_Ex2.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <!-- RJP:2017-02-20: The above association is for solution schematron -->
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0">

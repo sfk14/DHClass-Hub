@@ -6,7 +6,7 @@
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat"
         omit-xml-declaration="yes"/>    
   
-<!--2016-10-23 ebb: This is a repaired and improved version that we started in class on Friday 10/20. It is designed to process the ForsterGeorgComplete.xml file and output an HTML file  containing a list of the chapter heads in Book I only.
+<!--2016-10-23 ebb: This XSLT is designed to process the ForsterGeorgComplete.xml file and output an HTML file  containing a list of the chapter heads in Book I only.
     The results of this are saved as ForsterContentsBook1.html in the Class Examples XSLT directory alongside this Stylesheet on the DHClassHub.--> 
     
 <xsl:template match="/">

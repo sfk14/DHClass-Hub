@@ -22,13 +22,13 @@ min(//placeName[contains(.,"Taheitee")]/string-length())
 
 Longest:  
 (distinct-values(//placeName[contains(.,"Taheitee")]/string-length()))   
-*You get 5 results: 8, 10, 16, 15, 14*
+*You get 5 results: 10, 8, 18, 16, 15, 14*
 
 max(//placeName[contains(.,"Taheitee")]/string-length())   
-*You get a result with 16 characters*
+*You get a result with 18 characters*
 
 //placeName[contains(.,"Taheitee")][string-length()= max(//placeName[contains(.,"Taheitee")]/string-length())]   
-*If you wanted to take it further and get the XPath location of all the longest, you would do this expression with 1 Result: spelled O-Taheitee-eetee*
+*If you wanted to take it further and get the XPath location of all the longest, you would do this expression with 1 Result spelled: isle of O-Taheitee*
 
 
 

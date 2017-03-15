@@ -19,9 +19,11 @@
     <!--ebb: This code (above) matches and copies all the elements of the GPS visualizer KML file that we select as input, and essentially makes this an Identity Transformation stylesheet.-->
     
     <xsl:template match="Placemark">
+       <Placemark> 
         <xsl:apply-templates select="description"/> 
         <xsl:apply-templates select="name"/>
         <xsl:apply-templates select="description/following-sibling::*"/>
+       </Placemark>
     </xsl:template>
    
      <xsl:template match="description">

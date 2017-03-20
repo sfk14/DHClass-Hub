@@ -19,9 +19,11 @@
     <!--ebb: This code (above) matches and copies all the elements of the GPS visualizer KML file that we select as input, and essentially makes this an Identity Transformation stylesheet.-->
     
     <xsl:template match="Placemark">
+       <Placemark> 
         <xsl:apply-templates select="description"/> 
         <xsl:apply-templates select="name"/>
         <xsl:apply-templates select="description/following-sibling::*"/>
+       </Placemark>
     </xsl:template>
    
      <xsl:template match="description">
@@ -31,7 +33,7 @@
       2017-03-15:  We've also added a template rule to match on <Placemark> to process these in the correct order, so the description element is processed first, to be turned into the name element. Otherwise the description element will turn out on top, before the name, and we won't produce valid KML.
    -->
        
-  <xsl:template match="name">
+  <xsl:template match="Placemark/name">
      <description>  
          <xsl:value-of select="$PO//name[. = current()]/following-sibling::description"/>
      </description>

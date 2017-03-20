@@ -53,8 +53,8 @@
          <name>Waypoints</name>
          <visibility>1</visibility>
          <Placemark>
-            <description>Since then, some United States congregations have left the  Church, and primates overseas have threatened schism.  supported 's election in 2003, and the  Diocese of Nevada permits the blessing of same-sex unions. Moreover, that  is a woman could further strain relations with three dioceses in the United States and many  provinces that refuse to ordain women as priests and bishops, critics of the vote said Sunday.</description>
             <name>Nevada</name>
+            <description>Since then, some United States congregations have left the  Church, and primates overseas have threatened schism.  supported 's election in 2003, and the  Diocese of Nevada permits the blessing of same-sex unions. Moreover, that  is a woman could further strain relations with three dioceses in the United States and many  provinces that refuse to ordain women as priests and bishops, critics of the vote said Sunday.</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -62,8 +62,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>The proposed new province would unite nine groups that have left the Episcopal Church and the Anglican Church of Canada over the years. This includes four Episcopal dioceses and umbrella groups for dozens of individual parishes in the United States and Canada.</description>
             <name>United States</name>
+            <description>The proposed new province would unite nine groups that have left the Episcopal Church and the Anglican Church of Canada over the years. This includes four Episcopal dioceses and umbrella groups for dozens of individual parishes in the United States and Canada.</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -71,8 +71,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>The secessionist church, the  Diocese of Pittsburgh (), is in violation of its October 2005 agreement with the  Church of America, Judge James ruled.</description>
             <name>Pittsburgh, Pennsylvania</name>
+            <description>The secessionist church, the  Diocese of Pittsburgh (), is in violation of its October 2005 agreement with the  Church of America, Judge James ruled.</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -80,10 +80,10 @@
             </Point>
          </Placemark>
          <Placemark>
+            <name>Quincy, Illinois</name>
             <description>That regard for autonomy has allowed three dioceses — those in Quincy, Ill.; Fort Worth; and San Joaquin, Calif. — to resist the ordination of women. In Quincy, at least,  would not be welcome, said the , rector of St. John's Episcopal Church there.
 
 "Just like we can't use grape juice and saltines for Communion, because it isn't the right matter, we do not believe that the right matter is being offered here," Mr. Herrmann said in an interview on Sunday.</description>
-            <name>Quincy, Illinois</name>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -91,10 +91,10 @@
             </Point>
          </Placemark>
          <Placemark>
+            <name>Fort Worth, Texas</name>
             <description>That regard for autonomy has allowed three dioceses — those in Quincy, Ill.; Fort Worth; and San Joaquin, Calif. — to resist the ordination of women. In Quincy, at least,  would not be welcome, said the , rector of St. John's Episcopal Church there.
 
 "Just like we can't use grape juice and saltines for Communion, because it isn't the right matter, we do not believe that the right matter is being offered here," Mr. Herrmann said in an interview on Sunday.</description>
-            <name>Fort Worth, Texas</name>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -102,10 +102,10 @@
             </Point>
          </Placemark>
          <Placemark>
+            <name>San Joaquin, California</name>
             <description>That regard for autonomy has allowed three dioceses — those in Quincy, Ill.; Fort Worth; and San Joaquin, Calif. — to resist the ordination of women. In Quincy, at least,  would not be welcome, said the , rector of St. John's Episcopal Church there.
 
 "Just like we can't use grape juice and saltines for Communion, because it isn't the right matter, we do not believe that the right matter is being offered here," Mr. Herrmann said in an interview on Sunday.</description>
-            <name>San Joaquin, California</name>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -113,10 +113,10 @@
             </Point>
          </Placemark>
          <Placemark>
+            <name>Quincy, Massachusetts</name>
             <description>That regard for autonomy has allowed three dioceses — those in Quincy, Ill.; Fort Worth; and San Joaquin, Calif. — to resist the ordination of women. In Quincy, at least,  would not be welcome, said the , rector of St. John's Episcopal Church there.
 
 "Just like we can't use grape juice and saltines for Communion, because it isn't the right matter, we do not believe that the right matter is being offered here," Mr. Herrmann said in an interview on Sunday.</description>
-            <name>Quincy, Massachusetts</name>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -124,8 +124,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>The move threatens the fragile unity of the Anglican Communion, the world’s third-largest Christian body, made up of 38 provinces around the world that trace their roots to the Church of England and its spiritual leader, the Archbishop of Canterbury.</description>
             <name>Canterbury, England, United Kingdom</name>
+            <description>The move threatens the fragile unity of the Anglican Communion, the world’s third-largest Christian body, made up of 38 provinces around the world that trace their roots to the Church of England and its spiritual leader, the Archbishop of Canterbury.</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -133,8 +133,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>'s role on the commission has only increased the suspicion of some critics. "Her gender has to be combined with her response to Windsor," said the , a critic of the church and theologian-in-residence at St. Paul's Episcopal Church in Summerville, S.C. Speaking of other , he said, "Their anxiety will be focused less on her gender than her theology."</description>
             <name>Summerville, South Carolina</name>
+            <description>'s role on the commission has only increased the suspicion of some critics. "Her gender has to be combined with her response to Windsor," said the , a critic of the church and theologian-in-residence at St. Paul's Episcopal Church in Summerville, S.C. Speaking of other , he said, "Their anxiety will be focused less on her gender than her theology."</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -142,8 +142,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>WHEATON, Ill. — Conservatives alienated from the Episcopal Church announced on Wednesday that they were founding their own rival denomination, the biggest challenge yet to the authority of the Episcopal Church since it ordained an openly gay bishop five years </description>
             <name>Wheaton, Illinois</name>
+            <description>WHEATON, Ill. — Conservatives alienated from the Episcopal Church announced on Wednesday that they were founding their own rival denomination, the biggest challenge yet to the authority of the Episcopal Church since it ordained an openly gay bishop five years </description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -151,8 +151,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>In the last few years, Episcopalians who wanted to leave the church but remain in the Anglican Communion put themselves under the authority of bishops in Africa and Latin America. A new American province would give them a homegrown alternative.</description>
             <name>Africa</name>
+            <description>In the last few years, Episcopalians who wanted to leave the church but remain in the Anglican Communion put themselves under the authority of bishops in Africa and Latin America. A new American province would give them a homegrown alternative.</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -160,8 +160,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>In the last few years, Episcopalians who wanted to leave the church but remain in the Anglican Communion put themselves under the authority of bishops in Africa and Latin America. A new American province would give them a homegrown alternative.</description>
             <name>United States</name>
+            <description>In the last few years, Episcopalians who wanted to leave the church but remain in the Anglican Communion put themselves under the authority of bishops in Africa and Latin America. A new American province would give them a homegrown alternative.</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -169,8 +169,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>The proposed new province would unite nine groups that have left the Episcopal Church and the Anglican Church of Canada over the years. This includes four Episcopal dioceses and umbrella groups for dozens of individual parishes in the United States and Canada.</description>
             <name>Canada</name>
+            <description>The proposed new province would unite nine groups that have left the Episcopal Church and the Anglican Church of Canada over the years. This includes four Episcopal dioceses and umbrella groups for dozens of individual parishes in the United States and Canada.</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -178,8 +178,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>He added that the Episcopal Church, the Anglican Church of Canada and La Iglesia Anglicana de Mexico will continue to be “the official, recognized presence of the Anglican Communion in North America.”</description>
             <name>Mexico</name>
+            <description>He added that the Episcopal Church, the Anglican Church of Canada and La Iglesia Anglicana de Mexico will continue to be “the official, recognized presence of the Anglican Communion in North America.”</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -187,8 +187,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>The  diocese now is affiliated with the  Province of the Southern Cone in South America and the new  Church in North America.</description>
             <name>North America</name>
+            <description>The  diocese now is affiliated with the  Province of the Southern Cone in South America and the new  Church in North America.</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -196,8 +196,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>In a news conference on Wednesday evening, the conservative group unveiled its new constitution and canons at a large evangelical church here in Wheaton, near Chicago.</description>
             <name>Chicago, Illinois</name>
+            <description>In a news conference on Wednesday evening, the conservative group unveiled its new constitution and canons at a large evangelical church here in Wheaton, near Chicago.</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -205,8 +205,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>In a news conference on Wednesday evening, the conservative group unveiled its new constitution and canons at a large evangelical church here in Wheaton, near Chicago.</description>
             <name>Wheaton, Illinois</name>
+            <description>In a news conference on Wednesday evening, the conservative group unveiled its new constitution and canons at a large evangelical church here in Wheaton, near Chicago.</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -214,8 +214,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>In a news conference on Wednesday evening, the conservative group unveiled its new constitution and canons at a large evangelical church here in Wheaton, near Chicago.</description>
             <name>Chicago, Illinois</name>
+            <description>In a news conference on Wednesday evening, the conservative group unveiled its new constitution and canons at a large evangelical church here in Wheaton, near Chicago.</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -223,10 +223,10 @@
             </Point>
          </Placemark>
          <Placemark>
+            <name>San Joaquin, California</name>
             <description>That regard for autonomy has allowed three dioceses — those in Quincy, Ill.; Fort Worth; and San Joaquin, Calif. — to resist the ordination of women. In Quincy, at least,  would not be welcome, said the , rector of St. John's Episcopal Church there.
 
 "Just like we can't use grape juice and saltines for Communion, because it isn't the right matter, we do not believe that the right matter is being offered here," Mr. Herrmann said in an interview on Sunday.</description>
-            <name>San Joaquin, California</name>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -234,8 +234,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>Besides Pittsburgh, those dioceses are Fort Worth; Quincy, Ill.; and San Joaquin, in the Central Valley of California — representing 4 of 110 dioceses in the Episcopal Church. But not all the parishes and Episcopalians in those four dioceses agreed to leave the Episcopal Church.</description>
             <name>Central Valley, California</name>
+            <description>Besides Pittsburgh, those dioceses are Fort Worth; Quincy, Ill.; and San Joaquin, in the Central Valley of California — representing 4 of 110 dioceses in the Episcopal Church. But not all the parishes and Episcopalians in those four dioceses agreed to leave the Episcopal Church.</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -243,8 +243,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>Conservative leaders in North America say they expect to win approval for their new province from at least seven like-minded primates, who lead provinces primarily in Africa, Australia, Latin America and Asia.</description>
             <name>Australia</name>
+            <description>Conservative leaders in North America say they expect to win approval for their new province from at least seven like-minded primates, who lead provinces primarily in Africa, Australia, Latin America and Asia.</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -252,8 +252,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>Conservative leaders in North America say they expect to win approval for their new province from at least seven like-minded primates, who lead provinces primarily in Africa, Australia, Latin America and Asia.</description>
             <name>Asia</name>
+            <description>Conservative leaders in North America say they expect to win approval for their new province from at least seven like-minded primates, who lead provinces primarily in Africa, Australia, Latin America and Asia.</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -261,8 +261,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>These are the same primates who met in Jerusalem over the summer at the Global Anglican Future Conference and signed a declaration heralding a new era for the Anglican Communion. Most of these primates a few weeks later boycotted the Lambeth Conference, the international gathering of Anglican bishops in England held once every 10 years.</description>
             <name>Jerusalem</name>
+            <description>These are the same primates who met in Jerusalem over the summer at the Global Anglican Future Conference and signed a declaration heralding a new era for the Anglican Communion. Most of these primates a few weeks later boycotted the Lambeth Conference, the international gathering of Anglican bishops in England held once every 10 years.</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -270,8 +270,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>Bishop Minns, a priest who led his large, historic church in Fairfax, Va., out of the Episcopal Church two years ago and was subsequently ordained a bishop by the Anglican Archbishop of Nigeria, said in an interview: “One of the questions a number of the primates are asking is why do we still need to be operating under the rules of an English charity, which is what the Anglican Consultative Council does. Why is England still considered the center of the universe?”</description>
             <name>Fairfax, Virginia</name>
+            <description>Bishop Minns, a priest who led his large, historic church in Fairfax, Va., out of the Episcopal Church two years ago and was subsequently ordained a bishop by the Anglican Archbishop of Nigeria, said in an interview: “One of the questions a number of the primates are asking is why do we still need to be operating under the rules of an English charity, which is what the Anglican Consultative Council does. Why is England still considered the center of the universe?”</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -279,8 +279,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>Since the Episcopal Church ordained Bishop Gene Robinson, an openly gay man who lives with his partner, in the Diocese of New Hampshire in 2003, the parallel rifts in the Episcopal Church and the Anglican Communion have widened.</description>
             <name>New Hampshire</name>
+            <description>Since the Episcopal Church ordained Bishop Gene Robinson, an openly gay man who lives with his partner, in the Diocese of New Hampshire in 2003, the parallel rifts in the Episcopal Church and the Anglican Communion have widened.</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -288,8 +288,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>Told of this new Anglican entity, David C. Steinmetz, Amos Ragan Kearns professor of the history of Christianity at the Divinity School at Duke University, said in a phone interview, “It’s really an unprecedented and momentous event,” that all of these dissident groups had agreed to bury their differences.</description>
             <name>University Park, Texas</name>
+            <description>Told of this new Anglican entity, David C. Steinmetz, Amos Ragan Kearns professor of the history of Christianity at the Divinity School at Duke University, said in a phone interview, “It’s really an unprecedented and momentous event,” that all of these dissident groups had agreed to bury their differences.</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -297,8 +297,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>Due to the litigation, the financial services firm  froze diocesan trust funds pending a decision by an Allegheny County Common Pleas judge. The 600-member Church of the Ascension was denied more than $30,000 in promised grants, most of which were intended to start a mission church.</description>
             <name>Allegheny, Pennsylvania</name>
+            <description>Due to the litigation, the financial services firm  froze diocesan trust funds pending a decision by an Allegheny County Common Pleas judge. The 600-member Church of the Ascension was denied more than $30,000 in promised grants, most of which were intended to start a mission church.</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -306,8 +306,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>The  diocese now is affiliated with the  Province of the Southern Cone in South America and the new  Church in North America.</description>
             <name>South America</name>
+            <description>The  diocese now is affiliated with the  Province of the Southern Cone in South America and the new  Church in North America.</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -315,8 +315,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>The lawsuit was filed in 2003 by Calvary parish in Shadyside, as a pre-emptive strike against secession. Calvary, with 1,200 members, has grown since the split. Its rector, the , admits that the split he fought to prevent has been good for Calvary.</description>
             <name>Shadyside, Pennsylvania</name>
+            <description>The lawsuit was filed in 2003 by Calvary parish in Shadyside, as a pre-emptive strike against secession. Calvary, with 1,200 members, has grown since the split. Its rector, the , admits that the split he fought to prevent has been good for Calvary.</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -324,8 +324,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>The 2005 agreement said that property held by the central diocese -- such as endowment funds, but not necessarily parish property -- would continue to be held by the " Diocese of Pittsburgh of the  Church of the United States of America" whether or not any parishes or diocesan leaders secede. Calvary claims that the diocese has violated its end of the 2005 agreement.</description>
             <name>United States</name>
+            <description>The 2005 agreement said that property held by the central diocese -- such as endowment funds, but not necessarily parish property -- would continue to be held by the " Diocese of Pittsburgh of the  Church of the United States of America" whether or not any parishes or diocesan leaders secede. Calvary claims that the diocese has violated its end of the 2005 agreement.</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -333,8 +333,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>As the  Diocese of Pittsburgh neared a split,  could not follow her beloved Church of the Atonement in Carnegie out of the  Church.</description>
             <name>Carnegie, Pennsylvania</name>
+            <description>As the  Diocese of Pittsburgh neared a split,  could not follow her beloved Church of the Atonement in Carnegie out of the  Church.</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -342,10 +342,10 @@
             </Point>
          </Placemark>
          <Placemark>
+            <name>Crafton, Pennsylvania</name>
             <description>She moved to the Church of the Nativity in Crafton, but she still supports Atonement's rummage sales and collects the baby items that it gives to her favorite charity.
 
 "I have friends there, but I feel a release not being there any more. My heart is in the parish where I belong now," she said.</description>
-            <name>Crafton, Pennsylvania</name>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -353,10 +353,10 @@
             </Point>
          </Placemark>
          <Placemark>
+            <name>Monroeville, Pennsylvania</name>
             <description>While  builds a 100,000-member international body from scratch,  ministers part time to the 28-parish diocese that remains in the  Church. It now has an office in Monroeville.
 
 "When I arrived it was just me -- a bishop, a cell phone and a car. It was like being a missionary bishop," said , the retired bishop of Western North Carolina.</description>
-            <name>Monroeville, Pennsylvania</name>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -364,10 +364,10 @@
             </Point>
          </Placemark>
          <Placemark>
+            <name>North Carolina</name>
             <description>While  builds a 100,000-member international body from scratch,  ministers part time to the 28-parish diocese that remains in the  Church. It now has an office in Monroeville.
 
 "When I arrived it was just me -- a bishop, a cell phone and a car. It was like being a missionary bishop," said , the retired bishop of Western North Carolina.</description>
-            <name>North Carolina</name>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -375,11 +375,11 @@
             </Point>
          </Placemark>
          <Placemark>
+            <name>Mt Lebanon Township, Pennsylvania</name>
             <description>Some of those caught in the split faced painful choices.
 
  believed that the  Church had lost its biblical moorings. But her parish, St. Paul's in Mount Lebanon, remained , and her husband is a priest who assisted at St. Paul's and another  parish, Christ Church in Ross.
 </description>
-            <name>Mt Lebanon Township, Pennsylvania</name>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -387,10 +387,10 @@
             </Point>
          </Placemark>
          <Placemark>
+            <name>South Sudan</name>
             <description>Some of those caught in the split faced painful choices.
 
  believed that the  Church had lost its biblical moorings. But her parish, St. Paul's in Mount Lebanon, remained , and her husband is a priest who assisted at St. Paul's and another  parish, Christ Church in Ross.</description>
-            <name>South Sudan</name>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -398,10 +398,10 @@
             </Point>
          </Placemark>
          <Placemark>
+            <name>Washington, District of Columbia</name>
             <description>She felt that St. Paul's had moved too far to the theological left. She could have been happy at Christ Church, but it was too far from their home in Upper St. Clair. She moved to Trinity in Washington, and worships in the  diocese while her husband works in the Episcopal diocese.
 
 "St. Paul's no longer represented what we believed in. Toward the end there were people who weren't talking to me, just because my views were known to be a little more traditional," she said.</description>
-            <name>Washington, District of Columbia</name>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -409,8 +409,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description>Volunteers from  parishes still cook and serve meals at Shepherd's Heart in Oakland, a parish for the homeless that belongs to the  diocese.</description>
             <name>Oakland, California</name>
+            <description>Volunteers from  parishes still cook and serve meals at Shepherd's Heart in Oakland, a parish for the homeless that belongs to the  diocese.</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -418,8 +418,8 @@
             </Point>
          </Placemark>
          <Placemark>
-            <description/>
             <name>Calvary, Wisconsin</name>
+            <description/>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -427,12 +427,12 @@
             </Point>
          </Placemark>
          <Placemark>
+            <name>Oakmont, Pennsylvania</name>
             <description>But  leaders are just as theologically conservative as the . Among them is the , pastor of St. Thomas in Oakmont. He lost about 50 of his church's 630 members, who started an  parish in a Baptist church a few blocks away.
 "There is sadness, because we love these people and have worked together with them for years," he said. He offered to let them meet at St. Thomas or to send them out as an official "plant" of the parish. But those who left wanted a clear break with the Church.
 St. Thomas has come through strong, and some parish events have soared in attendance. After a mission trip to New Orleans, the parish changed its pre-Ash Wednesday pancake supper to a Mardi Gras event.
 
 "We had jambalaya for 100 and ran out of food," the Rev. Murph said.</description>
-            <name>Oakmont, Pennsylvania</name>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -440,12 +440,12 @@ St. Thomas has come through strong, and some parish events have soared in attend
             </Point>
          </Placemark>
          <Placemark>
+            <name>New Orleans, Louisiana</name>
             <description>But  leaders are just as theologically conservative as the . Among them is the , pastor of St. Thomas in Oakmont. He lost about 50 of his church's 630 members, who started an  parish in a Baptist church a few blocks away.
 "There is sadness, because we love these people and have worked together with them for years," he said. He offered to let them meet at St. Thomas or to send them out as an official "plant" of the parish. But those who left wanted a clear break with the Church.
 St. Thomas has come through strong, and some parish events have soared in attendance. After a mission trip to New Orleans, the parish changed its pre-Ash Wednesday pancake supper to a Mardi Gras event.
 
 "We had jambalaya for 100 and ran out of food," the Rev. Murph said.</description>
-            <name>New Orleans, Louisiana</name>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -453,12 +453,12 @@ St. Thomas has come through strong, and some parish events have soared in attend
             </Point>
          </Placemark>
          <Placemark>
+            <name>Homer City, Pennsylvania</name>
             <description>People from both churches remain in prayer groups with friends from St. Thomas. The parishes aren't competitors, but share a mission field, he said.
 
 Harvest  Church in Homer City, Indiana County, moved miles away from two parishes that its 30 members left."We felt that, to have a fresh start, we should be someplace that would give us an opportunity to reach into a community that didn't already have an Anglican church," said , who leads the new congregation.
 
 "We've all agreed that what has happened has happened," he said. "We wish the other churches well. Christianity in this country is suffering and there is plenty of room for growth for everybody."</description>
-            <name>Homer City, Pennsylvania</name>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -466,6 +466,7 @@ Harvest  Church in Homer City, Indiana County, moved miles away from two parishe
             </Point>
          </Placemark>
          <Placemark>
+            <name>Franklin Park, Illinois</name>
             <description>The , the only openly gay priest in the original diocese, is a member of the chapter.
 
 "When we're in chapter meetings, I call him Archbishop, because that is his title now. I would never dream of calling him Mr. Duncan, as some people have. ... He is still a bishop, he simply isn't my bishop any more," the Rev. Edwards said.
@@ -473,7 +474,6 @@ Harvest  Church in Homer City, Indiana County, moved miles away from two parishe
 , a member of the  diocesan council, belongs to St. Brendan's in Franklin Park, the only parish in the original diocese to take  up on his offer to receive oversight from another bishop before the split. They loved the bishop who came from West Virginia, but were delighted when his services were no longer needed, she said.
 
 " is the right person for us. ... He understands what has transpired, and that there needs to be some healing."</description>
-            <name>Franklin Park, Illinois</name>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -481,6 +481,7 @@ Harvest  Church in Homer City, Indiana County, moved miles away from two parishe
             </Point>
          </Placemark>
          <Placemark>
+            <name>West Virginia</name>
             <description>The , the only openly gay priest in the original diocese, is a member of the chapter.
 
 "When we're in chapter meetings, I call him Archbishop, because that is his title now. I would never dream of calling him Mr. Duncan, as some people have. ... He is still a bishop, he simply isn't my bishop any more," the Rev. Edwards said.
@@ -488,7 +489,6 @@ Harvest  Church in Homer City, Indiana County, moved miles away from two parishe
 , a member of the  diocesan council, belongs to St. Brendan's in Franklin Park, the only parish in the original diocese to take  up on his offer to receive oversight from another bishop before the split. They loved the bishop who came from West Virginia, but were delighted when his services were no longer needed, she said.
 
 " is the right person for us. ... He understands what has transpired, and that there needs to be some healing."</description>
-            <name>West Virginia</name>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -496,13 +496,13 @@ Harvest  Church in Homer City, Indiana County, moved miles away from two parishe
             </Point>
          </Placemark>
          <Placemark>
+            <name>Squirrel Hill, Pittsburgh, Pennsylvania</name>
             <description>The diocese has leaders who once opposed each other, and who still disagree on matters such as gay ordination. Trust has taken time, he said.
 
 "All of us are trying to figure out how to work together," he said. "I suspect that, to some degree, all sides are going to try to avoid divisive issues until we have a longer history of working with one another."
 The Church of the Redeemer in Squirrel Hill is a gay-friendly parish that had felt marginalized in the original diocese.
 
 "We are really happy in this new configuration," said the Rev. Cynthia Bronson Sweigert.</description>
-            <name>Squirrel Hill, Pittsburgh, Pennsylvania</name>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>

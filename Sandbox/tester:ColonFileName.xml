@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xml>
-    <head>Test File</head>
-    <author>Elisa Beshero-Bondar</author>
-    <p>Here's a file I'm bouncing around on GitHub. I am writing it on a Mac.</p>
-    <p>I'm going to send it to the Sandbox on my DH-ClassHub, after I save it with a colon in its file name. What happens when someone on a PC pulls it in? How will the file name be altered as it moves? Note: I'm going to have to use command line mv to change the file name so it has a colon in it.</p>
-</xml>

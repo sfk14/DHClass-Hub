@@ -1,8 +1,0 @@
-datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
-start = poem
-poem = element poem {citation, title, byline, lg+}
-citation = element citation {mixed{(date|link)+}}
-title = element title {text}
-byline = element byline {mixed{persName}}
-lg = element lg {mixed{(w | punct | lb | \text)+}
-\text = element text {style, text}

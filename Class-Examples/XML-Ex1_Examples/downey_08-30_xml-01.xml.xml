@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Recipe_Name>Gazpacho Recipe
+
+ <description>California version of the classic Spanish gazpacho!
+     Chilled soup made with ripe fresh tomatoes, cucumber, bell pepper, celery, and onions.
+ </description>
+    <Prep_time> 25 minutes</Prep_time>
+    <Yield> Serves 8</Yield> 
+<Ingredients>
+    <ing_1 units="6 cups">6 ripe tomatoes (about 3 lbs), peeled and chopped (yielding about 6 cups)</ing_1>
+    <ing_2 units="1 1/4 cups">1 red onion, finely chopped (about 1 1/4 cups)</ing_2>
+    <ing_3 units="1 cup">1 cucumber, peeled, seeded, chopped (about 1 cup)</ing_3>
+    <ing_4 units="1 cup">1 sweet red bell pepper (or green) seeded and chopped (about 1 cup)</ing_4>  
+    <ing_5 units="1 cup">2 stalks celery, chopped (about 1 cup)</ing_5>
+    <ing_6 units="Tbsp"> 1-2 Tbsp chopped fresh parsley</ing_6>
+    <ing_7 units="Tbsp">2 Tbsp chopped fresh chives</ing_7>
+    <ing_8>1 clove garlic, minced (about 1 teaspoon)</ing_8>
+    <ing_9 units="cups">1/4 cup red wine vinegar</ing_9>
+    <ing_10 units="cups">1/4 cup olive oil</ing_10>
+    <ing_11 units="Tbsp">1 Tbsp freshly squeezed lemon juice</ing_11>
+    <ing_12 units="tsp">2 teaspoons sugar (more may be needed to balance out the acidity of the tomatoes,
+    add to taste)</ing_12>
+    <ing_13>Salt and fresh ground pepper to taste</ing_13>
+    <ing_14>6 or more drops of Tabasco sauce to taste</ing_14>
+    <ing_15 units="tsp">1 teaspoon Worcestershire sauce (omit for vegan or vegetarian option)</ing_15>
+    <in_16 units="cups">2 cups tomato juice (or 1 15-ounce can crushed tomatoes if you don't have tomato
+        juice)
+    </in_16>
+</Ingredients>
+<Directions>
+    <step_1>Place all ingredients in a large bowl.</step_1> 
+    <step_2>Use an immersion blender or blend in batches, to desired smoothness. We prefer our gazpacho
+        somewhat chunky, so only pulse a few times in the blender.
+    </step_2>
+    <step_3>Adjust seasonings to taste.</step_3>
+    <step_4>Place in a non-reactive container (tomatoes are acidic) to store.</step_4>
+    <step_5>Chill several hours or overnight to allow the flavors to blend.</step_5>
+ </Directions>
+</Recipe_Name>
+<!--I'm hoping this is good. I'm excited to learn something new. :) --> 

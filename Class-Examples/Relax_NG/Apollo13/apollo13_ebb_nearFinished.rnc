@@ -1,0 +1,16 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = apollo13
+apollo13 = element apollo13 {nasadoc, (crew | ground | transmission | O2-tank-anomaly)*}
+nasadoc =  attribute nasadoc {text} 
+crew = element crew {CDR, CMP, LMP, empty}
+CDR = attribute CDR {"James Lovell" | "Jack Swigert" | "Fred Haise"}
+CMP = attribute CMP {"James Lovell" | "Jack Swigert" | "Fred Haise"}
+LMP = attribute LMP {"James Lovell" | "Jack Swigert" | "Fred Haise"}
+ground = element ground {CC, empty}
+CC = attribute CC {"Jack Lousma" | "Joe Schmo"}
+transmission = element transmission {MET, com} # something's missing here?
+panel = element panel {text}
+MCandW = element MCandW {text}
+MET = attribute MET {xsd:time}  #ebb I'm not sure this is the right datatype
+com = attribute com {"CC" | "CMP" | "LMP" | "CDR"}
+O2-tank-anomaly = element O2-tank-anomaly {empty}

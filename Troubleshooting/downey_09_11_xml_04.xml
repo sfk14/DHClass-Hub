@@ -1,16 +1,28 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start = root
 root = element root {place, speech, intro, quote}
-place = element place {location}
-speech = element speech {year, date}
-intro = element intro {setting, location}
+place = element place {text}
+setting = attribute setting {"cemetary"}
+location = attribute location {"Gettysburg,PA" | "Gettysburg"}
 quote = element quote {text}
-
-opening_para = element line {"1"}
-year = element score {"20" | "80" | "87"}
+opening_para = element opening_para {text}
+year = element year {year, text}
+line = attribute line {("1" | "2" | "3" | "4" | "5")*}
+score = attribute score {"20"}
+times4 = attribute times4 {"80"}
+plus7 = attribute plus7 {"87"}
+document = attribute document {"declaration_of_independence"}
 quotation = element quotation {text}
-
-para = element line {"2"}
+para = element para {text}
+speech = element speech {text}
+yr = attribute yr {"1863"}
+date = attribute date {"November,19"}
+intro = element intro {text}
+gettysburg = element gettysburg {text}
+n = attribute n {"1861-1865"}
+devote = element devote {text}
+declare = element declare {text}
+closer_para = element closer_para {text}
 
 
 

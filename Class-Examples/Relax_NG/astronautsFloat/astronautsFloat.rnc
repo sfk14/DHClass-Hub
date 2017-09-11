@@ -1,0 +1,17 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = news
+news = element news {header, body}
+head = element head {headLine, image*, byLine, info?, dateLine}
+dateLine = element dateLine {mixed{place, date}}
+date = element date {when, text}
+when = attribute when {xs:date}
+
+body = element body{att?, (p | subHead)+}
+# this is a dummy attribute just to remind me how to set them in 
+# relax-NG schema rule. I like to put them first b/c it's easier
+# to read them. 
+
+
+# 2017-09-11 ebb I didn't finish this, but I wanted to show the class
+# mixed syntax, so this a start, and we'll return to it on
+# Wed. in class. 

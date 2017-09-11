@@ -1,0 +1,17 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = root
+root = element root {place, speech, intro, quote}
+place = element place {location}
+speech = element speech {year, date}
+intro = element intro {setting, location}
+quote = element quote {text}
+
+opening_para = element line {"1"}
+year = element score {"20" | "80" | "87"}
+quotation = element quotation {text}
+
+para = element line {"2"}
+
+
+
+

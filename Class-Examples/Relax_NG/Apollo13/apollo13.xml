@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--ebb: This is missing the schema line! In class we'll apply it in oXygen, using the file menu:
-Document -> Schema -> Associate Schema, and then browse to locate the .rnc (or Relax NG Compact Syntax) file.
--->
+<?xml-model href="apollo13_ebb_.rnc" type="application/relax-ng-compact-syntax"?>
 <apollo13 nasadoc="techtranscript">
         <head>
                 <!-- These are pages 128 and 129 from the 624-page "NASA APOLLO 13 TECHNICAL AIR-TO-GROUND VOICE TRANSCRIPTION" -->

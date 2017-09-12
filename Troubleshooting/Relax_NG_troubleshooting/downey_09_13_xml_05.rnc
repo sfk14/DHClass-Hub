@@ -5,6 +5,15 @@ header = element header {text}
 date = element date {text}
 author = element author {text}
 body = element body {text}
+#ajn: What does your body element include? What other elements are inside of it?
+  # body = element body {line+}
+  # Your body doest include text. It only includes line and you should be expecting at least one of them. Always keep your outline view open when writing Relax NG. It will help you out tremendously.
+  
 n = attribute n {("1" | "2" | "3")+}
+#ajn: Your 'n' attribute doesnt only include "1" "2" or "3". It also includes "4" "5" "6" etc. So the way that we code integers is {xsd:integer} and this will cover all numbers and also will help your computer better understand them as well.
+
 line = element line {text}
+#ajn: Your line element also contains the 'n' attribute more than once. How would you code that?
+
 location = attribute location {text}
+#ajn: Where is your location attribute in your code? Is this needed?

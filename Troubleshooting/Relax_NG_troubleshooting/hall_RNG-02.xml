@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="hall_09-11_RNG-02.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="hall_RNG-02_Schema.rnc" type="application/relax-ng-compact-syntax"?>
 <letter>
     <head>
     <date>March 29, 1937</date>

@@ -1,7 +1,7 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start = letter
 letter = element letter {head, body}
-head = element head {date | salutation | person}
+head = element head {date | salutation | person | text}
 date = element date {text}
 salutation = element salutation {text}
 person = element person {text}

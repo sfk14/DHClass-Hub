@@ -1,0 +1,13 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = news
+news = element news {header, body}
+head =  element head {headline, image?*, byline, info?, dateline}
+dateline = element dateline {mixed{place, date}}
+date = element date {when, text} 
+body = element body {att?, (p | subHead)+}
+when = element when 
+# this is a dummy attribute just to remind me how to set them in 
+# relax NG schema rule. i like 
+# to read them
+
+# 2017-09-11 i didnt finish this

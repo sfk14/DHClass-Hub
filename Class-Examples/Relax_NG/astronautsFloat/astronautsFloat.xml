@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<news>2 Astronauts Float Free in Space, 170 Miles Up
+<news><head><headline>2 Astronauts Float Free in Space, 170 Miles Up</headline>
+<image>
+ ....<pic file="astrofloat.jpg"/>
+ ....<caption>Capt. Bruce McCandless 2d working outside the cargo bay of the shuttle.</caption> </image>
+<byline>By John Noble</byline>
 
-Capt. Bruce McCandless 2d working outside the cargo bay of the shuttle. 
-(caption)
-By John Noble
+<info>Special to The New York Times</info>
+<dateline><place>Houston</place>,<!--this comma is a text floating mixed amoung elements --><date when="1964-02-07">Feb. 7</date></dateline></head>
 
-Special to The New York Times
-
-Houston, Feb. 7 
+<body> 
  <p>-- In a spectacle of bravery and beauty, two American astronauts flew out, up and away from the space shuttle Challenger today. Free of any lifeline and propelled into the dark void by tiny jets, they became, in effect, the first human satellites.</p>
 
 <p>The successful test of the propulsion backpacks - a wireless high-wire act 170 miles above the earth - was an important step toward future operations to repair and service orbiting satellites and to assemble and maintain large space stations.</p>
@@ -72,4 +73,4 @@ Captain McCandless, meanwhile, was taking his turn working from the end of the m
 <p>The mishaps were few and minor. Captain McCandless dropped the checklist attached to his cuff and had to dump it into a small trash bag. And once, for reasons not quiet clear, he uttered an expletive of frustration, which proved that he was indeed a human satellite.</p>
 <p>
 As the two astronauts returned to the shuttle airlock, about 1 P.M., Captain McCandless said of the experience: ''It was a real thrill. A real honor to be out there.''</p>
-</news>
+</news></body>

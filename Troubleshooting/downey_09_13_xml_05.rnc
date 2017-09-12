@@ -1,0 +1,10 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = document
+document = element document {header, date, author, body}
+header = element header {text}
+date = element date {text}
+author = element author {text}
+body = element body {text}
+n = attribute n {("1" | "2" | "3")+}
+line = element line {text}
+location = attribute location {text}

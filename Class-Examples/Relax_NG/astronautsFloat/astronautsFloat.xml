@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="astronautsFloat.rnc" type="application/relax-ng-compact-syntax"?>
 <news><head><headLine>2 Astronauts Float Free in Space, 170 Miles Up</headLine>
 <image>
     <pic file="astroFloat.jpg"/>
-    <caption>Capt. Bruce McCandless 2d working outside the cargo bay of the shuttle.</caption> 
+    <caption><person ref="#McCandless_B">Capt. Bruce McCandless</person> 2d working outside the cargo bay of the shuttle.</caption> 
 </image>
-<byLine>By John Noble</byLine>
+<byLine>By <person ref="#Noble_J">John Noble</person></byLine>
 
 <info>Special to The New York Times</info>
-<dateLine><place>Houston</place>,<!--ebb: Now I'm making element soup! This comma is text floating MIXED among elements inside dateLine --> <date when="1964-02-07">Feb. 7</date> </dateLine>
+<dateLine>Text can go here now. <place>Houston</place>, I'm writing MORE text now! <!--ebb: Now I'm making element soup! This comma is text floating MIXED among elements inside dateLine --> <date when="1964-02-07">Feb. 7</date> text could also go here. </dateLine>
 </head>
 <body>
  <p>-- In a spectacle of bravery and beauty, two American astronauts flew out, up and away from the space shuttle Challenger today. Free of any lifeline and propelled into the dark void by tiny jets, they became, in effect, the first human satellites.</p>
 
 <p>The successful test of the propulsion backpacks - a wireless high-wire act 170 miles above the earth - was an important step toward future operations to repair and service orbiting satellites and to assemble and maintain large space stations.</p>
 
-<p>A second test by the same two space fliers, Capt. Bruce McCandless 2d of the Navy and Lieut. Col. Robert L. Stewart of the Army, is scheduled for Thursday morning. They are to practice grappling a large object rotating at the end of the shuttle's mechanical arm, a dress rehearsal for a mission in April to repair a crippled scientific satellite.</p>
+<p>A second test by the same two space fliers, <person ref="#McCandless_B">Capt. Bruce McCandless</person> 2d of the Navy and Lieut. Col. Robert L. Stewart of the Army, is scheduled for Thursday morning. They are to practice grappling a large object rotating at the end of the shuttle's mechanical arm, a dress rehearsal for a mission in April to repair a crippled scientific satellite.</p>
 
 <subHead>Success After Failures</subHead>
 
 <p>The success of today's space-walking exercise was particularly sweet for the National Aeronautics and Space Administration, coming as it did after days of repeated failures. Two satellites deployed by the shuttle went off- course, and a target balloon burst to disrupt another test for the satellite-repair mission.</p>
 
-<p>All that was forgotten when, at 8:25 A.M. Eastern standard time, Captain McCandless fired the jet thrusters of his bulky white backpack to rise out of the Challenger's open cargo bay and move away, untethered to the spaceship. He was orbiting the earth at the same velocity as the shuttle, 17,500 miles an hour. In the virtual vacuum of space, however, he sensed nothing of his speed. The only sensation of motion he had came when he looked down at the rotating earth, which was going by at four miles a second.</p>
+<p>All that was forgotten when, at 8:25 A.M. Eastern standard time, <person ref="#McCandless_B">Captain McCandless</person> fired the jet thrusters of his bulky white backpack to rise out of the Challenger's open cargo bay and move away, untethered to the spaceship. He was orbiting the earth at the same velocity as the shuttle, 17,500 miles an hour. In the virtual vacuum of space, however, he sensed nothing of his speed. The only sensation of motion he had came when he looked down at the rotating earth, which was going by at four miles a second.</p>
 <p>
-Beginning his excursion as the first free-flying human in space, Captain McCandless joked: ''That may have been one small step for Neil, but it's a heck of a big leap for me.''He was referring to the words uttered by Neil A. Armstrong when he made the first human bootprint on the moon in 1969.</p>
+Beginning his excursion as the first free-flying human in space, <person ref="#McCandless_B">Captain McCandless</person> joked: ''That may have been one small step for Neil, but it's a heck of a big leap for me.''He was referring to the words uttered by Neil A. Armstrong when he made the first human bootprint on the moon in 1969.</p>
 
-<p>Captain McCandless took his big leap while the Challenger was passing over the Pacific Ocean, then in darkness. His movements were deliberate, never more than one foot a second. He said he looked for but could see no stars.</p>
+<p><person ref="#McCandless_B">Captain McCandless</person> took his big leap while the Challenger was passing over the Pacific Ocean, then in darkness. His movements were deliberate, never more than one foot a second. He said he looked for but could see no stars.</p>
 
 <p>He headed out to 150 feet, a stiff figure with slightly spread legs, looking a little like a puffy white gingerbread man. He then went out as far as 320 feet as he and the shuttle, separate but not too far apart, flew over the continental United States in daylight.</p>
 
@@ -69,7 +70,7 @@ Captain McCandless, meanwhile, was taking his turn working from the end of the m
 </p>
 <p>In one real repair, the astronauts adjusted the setting of a switch on a scientific instrument attached to a West German payload. This is the shuttle pallet satellite, a re-usable platform carrying instruments and cameras. It will serve as the object, attached to the mechanical arm, that Captain McCandless and Colonel Stewart are to hook up to in Thursday's planned space-walking activities.</p>
 
-<p>The astronauts also detached a malfunctioning television camera from the cargo bay, brought it in for repairs and plan to re-install it at the beginning of Thursday's spacewalk. The camera is expected to provide more television coverage of the astronauts as they grapple with the rotating pallet satellite at the end of the mechanical arm.</p>
+<p>The astronauts also detached a malfunctioning television camera from the cargo bay, brought it in for repairs and plan to re-install it at the beginning of <event when="1964-06-24">Thursday's spacewalk</event>. The camera is expected to provide more television coverage of the astronauts as they grapple with the rotating pallet satellite at the end of the mechanical arm.</p>
 
 <p>The mishaps were few and minor. Captain McCandless dropped the checklist attached to his cuff and had to dump it into a small trash bag. And once, for reasons not quiet clear, he uttered an expletive of frustration, which proved that he was indeed a human satellite.</p>
 <p>

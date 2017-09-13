@@ -1,6 +1,6 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
-start = letter
-letter = element letter {title, location, dateline, greeting, para*, closing_para}
+start = Letter
+Letter = element Letter {title, location, dateline, greeting, para*, closing_para}
 title = element title {text}
 to = attribute to {"hodgson"}
 location = element location {text}

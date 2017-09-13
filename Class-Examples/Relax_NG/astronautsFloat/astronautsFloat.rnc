@@ -1,12 +1,25 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start = news
-news = element news {header, body}
+news = element news {head, body}
 head = element head {headLine, image*, byLine, info?, dateLine}
-dateLine = element dateLine {mixed{place, date}}
+dateLine = element dateLine {mixed{(place | date)+}}
 date = element date {when, text}
-when = attribute when {xs:date}
+when = attribute when {xsd:date}
+place = element place {text}
+info = element info {text}
+byLine = element byLine {mixed{person+}}
+person = element person {ref, text}
+ref = attribute ref {"#Noble_J" | "#McCandless_B"}
+image = element image {pic, caption}
+pic = element pic {file, empty} 
+file = attribute file {text} # ebb: LOOK UP HOW TO CODE A URI HERE. I want a filepath to appear here 
+caption = element caption {mixed{person*}}
+headLine = element headLine {text}
 
-body = element body{att?, (p | subHead)+}
+body = element body{(p | subHead)+}
+p = element p {mixed{(person | event)*}}
+event = element event {when, text}
+subHead = element subHead {text}
 # this is a dummy attribute just to remind me how to set them in 
 # relax-NG schema rule. I like to put them first b/c it's easier
 # to read them. 

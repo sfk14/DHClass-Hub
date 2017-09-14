@@ -1,13 +1,15 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start = Editorial
-Editorial = element Editorial {title, magazine, publicated, date,  p+, names}
+Editorial = element Editorial {title, magazine, publicated, age,  date?,  p+, name+}
 title = element title {text}
 magazine = element magazine {issue?, text}
 issue = attribute issue {"9"}
 publicated = element publication {type | text}
 type = attribute type {"online"}
 date = element date {when, text}
-when = attribute when {""}
-p = element p {text+}
-names = element names {text}
-age = element age {xsd:integer}
+when = attribute when {"xsd:date"}
+p = element p {age?, text+}
+name = element name {text}
+age = element age {n}
+n = attribute n {"xsd:integer"}
+

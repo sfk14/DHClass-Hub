@@ -1,16 +1,17 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start = Editorial
-Editorial = element Editorial {title, magazine, published, date*,  p+}
+Editorial = element Editorial {direct descendants}
 title = element title {text}
 magazine = element magazine {issue, text}
 issue = attribute issue {"9"}
-published = element published {type | text} # ebb: you need to be using this element name in your XML file
+published = element published {type, text}
 type = attribute type {"online"}
-date = element date {when}
-when = attribute when {xsd:date | xsd:gYearMonth | xsd:gYear}
-p = element p {name+, ref, age, text} # ebb: A couple of problems here: Don't you want "element soup" inside your paragraphs? (What syntax do you need to do to indicate that special condition? This is expecting a SEQUENCE of multiple name elements as the very first content inside <p>, not the free-floating element-soup that you want, I think.) Your schema very properly reports that your p elements don't contain ref attributes. I'm not sure why you would want those on the p elements anyway, so I imagine that's just something to remove from this rule. 
-name = element name {ref+}
-ref = attribute ref {"#Moore_Pat" | "#Sagan_C" | "#Hoyle_F" | "#Burnell_J"}
+date = element date {when, text}
+when = attribute when {"xsd:date"}
+p = element p {name | age | year | text+}
+name = element name {(ref)+, text}
+ref = attribute ref {"#Moore_Pat" | "#Sagan_C" | "#Hoyle_F" | "#Burnell_J" | "#Armstrong_N" | "Clarke_A" }
 age = element age {n}
+year = element year {]
 n = attribute n {xsd:integer}
 

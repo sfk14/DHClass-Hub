@@ -1,3 +1,7 @@
+## Background on the TEI:
+
+Origins and Goals: [Poughkeepsie Principles (Poughkeepsie Planning Conference, 1987)](http://www.tei-c.org/Vault/ED/edp01.htm)
+
 ## Sample TEI documents (posted here in our GitHub): 
 You can download these and open them locally in oXygen, or access them with a git pull from our DHClass-Hub, in the Class Examples --> TEI Samples directory.
 
@@ -18,3 +22,4 @@ You can download these and open them locally in oXygen, or access them with a gi
 
 * [**TEI P5 Guidelines: The Whole Set**](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html)
 
+Just for fun: [Songs about TEI (and related document encoding)](http://www.tei-c.org/Vault/Songs/) composed in the early years of the TEI community

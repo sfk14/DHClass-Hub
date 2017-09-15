@@ -2,6 +2,10 @@
 
 Origins and Goals: [Poughkeepsie Principles (Poughkeepsie Planning Conference, 1987)](http://www.tei-c.org/Vault/ED/edp01.htm)
 
+## newtFire Document Analysis and TEI assignment:
+[Part 1](http://dh.newtfire.org/TEIExercise1.html)
+[Part 2](http://dh.newtfire.org/TEIExercise2.html)
+
 ## Sample TEI documents (posted here in our GitHub): 
 You can download these and open them locally in oXygen, or access them with a git pull from our DHClass-Hub, in the Class Examples --> TEI Samples directory.
 

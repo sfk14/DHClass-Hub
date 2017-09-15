@@ -4,39 +4,18 @@ news = element news {head, body}
 head = element head {headLine, image*, byLine, info?, dateLine}
 dateLine = element dateLine {mixed{(place | date)+}}
 date = element date {when, text}
-when = attribute when {xsd:date}
+when = attribute when {xsd:date} # ebb: Notice the use of a datatype here.
 place = element place {text}
 info = element info {text}
 byLine = element byLine {mixed{person+}}
 person = element person {ref, text}
 ref = attribute ref {"#Noble_J" | "#McCandless_B"}
 image = element image {pic, caption}
-<<<<<<< HEAD
-pic = element pic {text} #look up how to code a uri here. i want a 
-#filepath to appear here
-caption = element caption {mixed{person*}}
-headLine = element headLine {text}
-
-body = element body {(p | subHead)+}
-p = element p {mixed{person*}}
-subHead = element subHead {text}
-
-=======
 pic = element pic {file, empty} 
 file = attribute file {text} # ebb: LOOK UP HOW TO CODE A URI HERE. I want a filepath to appear here 
 caption = element caption {mixed{person*}}
 headLine = element headLine {text}
-
 body = element body{(p | subHead)+}
 p = element p {mixed{(person | event)*}}
 event = element event {when, text}
 subHead = element subHead {text}
->>>>>>> 5a14d66be371b0b390044ae14dc496d0deabed8e
-# this is a dummy attribute just to remind me how to set them in 
-# relax-NG schema rule. I like to put them first b/c it's easier
-# to read them. 
-
-
-# 2017-09-11 ebb I didn't finish this, but I wanted to show the class
-# mixed syntax, so this a start, and we'll return to it on
-# Wed. in class. 

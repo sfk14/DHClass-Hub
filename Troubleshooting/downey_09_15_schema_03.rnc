@@ -1,6 +1,6 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start = Editorial
-Editorial = element Editorial {direct descendant}
+Editorial = element Editorial {title, p+}
 title = element title {text}
 magazine = element magazine {issue, text}
 issue = attribute issue {"9"}
@@ -8,9 +8,8 @@ published = element published {type, text}
 type = attribute type {"online"}
 date = element date {when, text}
 when = attribute when {"xsd:date"}
-p = element p {name | age | year | text+}
-name = element name {(ref)+, text}
-ref = attribute ref {"#Moore_Pat" | "#Sagan_C" | "#Hoyle_F" | "#Burnell_J" | "#Armstrong_N" | "Clarke_A" }
+p = element p {mixed{(name | age | date) | text*}
+name = element name {text}
+ref = attribute ref {"#Moore_Pat" | "#Sagan_C" | "#Hoyle_F" | "#Burnell_J" | "#Armstrong_N" | "#Clarke_A"}
 age = element age {n}
 n = attribute n {xsd:integer}
-

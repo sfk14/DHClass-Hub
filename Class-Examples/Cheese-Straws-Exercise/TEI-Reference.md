@@ -1,7 +1,6 @@
 ## Background on the TEI:
-
-* Origins and Goals: [Poughkeepsie Principles (Poughkeepsie Planning Conference, 1987)](http://www.tei-c.org/Vault/ED/edp01.htm)
 * [Quick history](http://guides.library.ucla.edu/c.php?g=180472&p=1190308#s-lg-box-3584416)
+* Origins and Goals: [Poughkeepsie Principles (Poughkeepsie Planning Conference, 1987)](http://www.tei-c.org/Vault/ED/edp01.htm)
 
 ## Sample TEI documents (posted here in our GitHub): 
 You can download these and open them locally in oXygen, or access them with a git pull from our DHClass-Hub, in the Class Examples --> TEI Samples directory.

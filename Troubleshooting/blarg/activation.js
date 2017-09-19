@@ -14,8 +14,14 @@ document.getElementById("svg1").onmouseover = function() {mouseOver1()};
         
         function mouseDown1() {
         document.getElementById("circle1").setAttribute("opacity","0.5");
+        document.getElementById("lock1").style.display = "none";
+        document.getElementById("lock2").style.display = "none";
+        document.getElementById("title").style.display = "inline";
         }
         
         function mouseUp1() {
         document.getElementById("circle1").setAttribute("opacity","1");
+        document.getElementById("yay").style.display = "inline";
+        document.getElementById("click").style.display = "none";
+        document.getElementById("point").style.display = "none";
         }

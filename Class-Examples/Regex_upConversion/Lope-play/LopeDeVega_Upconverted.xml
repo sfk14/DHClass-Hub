@@ -1,0 +1,1406 @@
+<play>
+<title type="play">Peribez y el Comendador de Ocaa</title><author>Lope de Vega</author><note>Arriba Abajo</note>
+<title type="act" n="1">Acto I</title>
+<characterList><note>Figuras del primer acto</note>
+<character>UN CURA </character><role>a lo gracioso</role>
+<character>INS</character> <role>madrina</role>
+<character>COSTANZA</character> <role>labradora</role>
+<character>CASILDA</character> <role>desposada</role>
+<character>PERIBEZ</character> <role>novio</role>
+<character>LOS MSICOS</character> <role>de villanos</role>
+<character>BARTOLO</character> <role>labrador</role>
+<character>OMENDADOR</character>
+<character>MARN</character> <role>lacayo</role>
+<character>LUJN</character> <role>lacayo</role>
+<character>LABRADORES</character>
+<character>LEONARDO</character> <role>criado</role>
+<character>NRIQUE</character>
+<character>ONDESTABLE</character>
+<character>ACOMPAAMIENTO</character>
+<character>AJE</character>
+<character>OLEDO</character>
+<character>UN PINTOR</character></characterList>
+    <scene n="I">
+        <stageDirection>Boda de villanos. EL CURA; INS, madrina; COSTANZA, labradora; CASILDA, novia; PERIBEZ; msicos, de labradores.</stageDirection>
+<spkr>INS</spkr>
+<l>   Largos aos os gocis.</l>
+<anchor type="Quintillas"/> <spkr>COSTANZA</spkr>
+<l>Si son como yo deseo</l>
+<l>casi inmortales seris.</l>
+<spkr>CASILDA</spkr>
+<l>Por el de serviros, creo</l>
+<l n="5">que merezco que me honris.</l>
+<spkr>CURA</spkr>
+<l>   Aunque no parecen mal,</l>
+<l>son escusadas razones</l>
+<l>para cumplimiento igual,</l>
+<l>ni puede haber bendiciones</l>
+<l n="10">que igualen con el misal.</l>
+<l>    Hartas os dije; no queda</l>
+<l>cosa que deciros pueda</l>
+<l>el ms deudo, el ms amigo.</l>
+<spkr>INS</spkr>
+<l>Seor doctor, yo no digo</l>
+<l n="15">ms de que bien les suceda.</l>
+<spkr>CURA</spkr>
+<l>   Esprelo en Dios, que ayuda</l>
+<l>a la gente virtosa.</l>
+<l>Mi sobrina es muy sesuda.</l>
+<spkr>PERIBEZ</spkr>
+<l>Slo con no ser celosa</l>
+<l n="20">saca este pleito de duda.</l>
+<spkr>CASILDA</spkr>
+<l>   No me deis vos ocasin;</l>
+<l>que en mi vida tendr celos.</l>
+<spkr>PERIBEZ</spkr>
+<l>Por m no sabris qu son.</l>
+<spkr>INS</spkr>
+<l>Dicen que al amor los cielos</l>
+<l n="25">le dieron esta pensin.</l>
+<spkr>CURA</spkr>
+<l>   Sentaos, y alegrad el da</l>
+<l>en que sois uno los dos.</l>
+<spkr>PERIBEZ</spkr>
+<l>Yo tengo harta alegra</l>
+<l>en ver que me ha dado Dios</l>
+<l n="30">tan hermosa compaa.</l>
+<spkr>CURA</spkr>
+<l>   Bien es que a Dios se atrebuya</l>
+<l>que en el reino de Toledo</l>
+<l>no hay cara como la suya.</l>
+<spkr>CASILDA</spkr>
+<l>Si con amor pagar puedo,</l>
+<l n="35">esposo, la aficin tuya,</l>
+<l>    de lo que debiendo quedas,</l>
+<l>me ests en obligacin.</l>
+<spkr>PERIBEZ</spkr>
+<l>Casilda, mientras no puedas</l>
+<l>excederme en aficin,</l>
+<l n="40">no con palabras me excedas.</l>
+<l>    Toda esta villa de Ocaa</l>
+<l>poner quisiera a tus pies,</l>
+<l>y aun todo aquello que baa</l>
+<l>Tajo hasta ser portugus,</l>
+<l n="45">entrando en el mar de Espaa.</l>
+<l>    El olivar ms cargado</l>
+<l>de aceitunas me parece</l>
+<l>menos hermoso, y el prado</l>
+<l>que por el mayo florece,</l>
+<l n="50">slo del alba pisado.</l>
+<l>    No hay camuesa que se afeite</l>
+<l>que no te rinda ventaja,</l>
+<l>ni rubio y dorado aceite</l>
+<l>conservado en la tinaja,</l>
+<l n="55">que me cause ms deleite.</l>
+<l>    Ni el vino blanco imagino</l>
+<l>de cuarenta aos tan fino</l>
+<l>como tu boca olorosa,</l>
+<l>que como al seor la rosa</l>
+<l n="60">le gele al villano el vino.</l>
+<l>    Cepas que en diciembre arranco</l>
+<l>y en otubre dulce mosto,</l>
+<l><sic>ni</sic> mayo de lluvias franco,</l>
+<l>ni por los fines de agosto</l>
+<l n="65">la parva de trigo blanco,</l>
+<l>    igualan a ver presente</l>
+<l>en mi casa un bien que ha sido</l>
+<l>prevencin ms excelente</l>
+<l>para el invierno aterido</l>
+<l n="70">y para el verano ardiente.</l>
+<l>    Contigo, Casilda, tengo</l>
+<l>cuanto puedo desear,</l>
+<l>y slo el pecho prevengo;</l>
+<l>en l te he dado lugar,</l>
+<l n="75">ya que a merecerte vengo.</l>
+<l>    Vive en l; que si un villano</l>
+<l>por la paz del alma es rey,</l>
+<l>que t eres reina est llano,</l>
+<l>ya porque es divina ley,</l>
+<l n="80">y ya por derecho humano.</l>
+<l>    Reina, pues que tan dichosa</l>
+<l>te har el cielo, dulce esposa,</l>
+<l>que te diga quien te vea:</l>
+<l>la ventura de la fea</l>
+<l n="85">passe a Casilda hermosa.</l>
+<spkr>CASILDA</spkr>
+<l>   Pues yo, cmo te dir</l>
+<l>lo menos que miro en ti,</l>
+<l>que lo ms del alma fue?</l>
+<l>Jams en el baile o</l>
+<l n="90">son que me bullese el pie,</l>
+<l>    que tal placer me causase</l>
+<l>cuando el tamboril sonase,</l>
+<l>por ms que el tamborilero</l>
+<l>chiflase con el guarguero</l>
+<l n="95">y con el palo tocase.</l>
+<l>    En maana de San Juan</l>
+<l>nunca ms placer me hicieron</l>
+<l>la verbena y arrayn,</l>
+<l>ni los relinchos me dieron</l>
+<l n="100">el que tus voces me dan.</l>
+<l>    Cul adufe bien templado,</l>
+<l>cul salterio te ha igualado?</l>
+<l>Cul pendn de procesin</l>
+<l>con sus borlas y cordn,</l>
+<l n="105">a tu sombrero chapado?</l>
+<l>    No hay pies con zapatos nuevos</l>
+<l>como agradan tus amores,</l>
+<l>eres entre mil mancebos</l>
+<l>hornazo en Pascua de Flores</l>
+<l n="110">con sus picos y sus huevos.</l>
+<l>    Pareces en verde prado</l>
+<l>toro bravo y rojo echado;</l>
+<l>pareces camisa nueva,</l>
+<l>que entre jazmines se lleva</l>
+<l n="115">en azafate dorado.</l>
+<l>    Pareces cirio pascual</l>
+<l>y mazapn de bautismo</l>
+<l>con capillo de cendal,</l>
+<l>y parscete a ti mismo</l>
+<l n="120">porque no tienes igual.</l>
+<spkr>CURA</spkr>
+<l>   Ea, bastan los amores;</l>
+<l>que quieren estos mancebos</l>
+<l>bailar y ofrecer.</l>
+<spkr>PERIBEZ</spkr>
+<l>Seores</l>
+<l>pues no sois en amor nuevos,</l>
+<l>perdn.</l>
+<spkr>LOS MSICOS</spkr>
+<l n="125">Ama hasta que adores.</l>
+<stageDirection>Canten y danzan.</stageDirection><anchor type="Cancin-romancillo -o"/> <l>    Dente parabienes</l>
+<l>el mayo garrido,</l>
+<l>los alegres campos,</l>
+<l>las fuentes y ros.</l>
+<l n="130">Alcen las cabezas</l>
+<l>los verdes alisos,</l>
+<l>y con frutos nuevos</l>
+<l>almendros floridos.</l>
+<l>Echen las maanas,</l>
+<l n="135">despus del roco,</l>
+<l>en espadas verdes</l>
+<l>guarnicin de lirios.</l>
+<l>Suban los ganados</l>
+<l>por el monte mismo</l>
+<l n="140">que cubri la nieve,</l>
+<l>a pacer tomillos.</l>
+<stageDirection>Fola.</stageDirection><l>    Y a los nuevos desposados</l>
+<l>eche Dios su bendicin;</l>
+<l>parabin les den los prados,</l>
+<l n="145">pues hoy para en uno son.</l>
+<stageDirection>Vuelva<sic>n</sic> a danzar.</stageDirection><l>    Montaas heladas</l>
+<l>y soberbios riscos,</l>
+<l>antiguas encinas</l>
+<l>y robustos pinos,</l>
+<l n="150">dad paso a las aguas</l>
+<l>en arroyos limpios</l>
+<l>que a los valles bajan</l>
+<l>de los yelos fros.</l>
+<l>Canten ruiseores,</l>
+<l n="155">y con dulces silbos</l>
+<l>sus amores cuenten</l>
+<l>a estos verdes mirtos.</l>
+<l>Fabriquen las aves</l>
+<l>con nuevo artificio,</l>
+<l n="160">para sus hijuelos</l>
+<l>amorosos nidos.</l>
+<stageDirection>Fola.</stageDirection><l>    Y a los nuevos desposados</l>
+<l>eche Dios su bendicin;</l>
+<l>parabin les den los prados</l>
+<l n="165">pues hoy para en uno son.</l></scene><scene n="II"><stageDirection>Hagan gran ruido y entre BARTOLO, labrador.</stageDirection><anchor type="Redondillas"/> <spkr>CURA</spkr>
+<l>   Qu es aquello?</l>
+<spkr>BARTOLO</spkr>
+<l>No lo veis</l>
+<l>en la grita y el rido?</l>
+<spkr>CURA</spkr>
+<l>Mas que el novillo han trado?</l>
+<spkr>BARTOLO</spkr>
+<l>Cmo un novillo? Y aun tres!</l>
+<l n="170">    Pero al tiznado que agora</l>
+<l>traen del campo, voto al sol,</l>
+<l>que tiene bro espaol!</l>
+<l>No se ha encintado en una hora.</l>
+<l>    Dos vueltas ha dado a Bras,</l>
+<l n="175">que ningn italano</l>
+<l>se ha vido andar tan liviano</l>
+<l>por la maroma jams.</l>
+<l>    A la yegua de Antn Gil,</l>
+<l>del verde recin sacada,</l>
+<l n="180">por la panza desgarrada</l>
+<l>se le mira el perejil.</l>
+<l>    No es de burlas; que a Toms,</l>
+<l>quitndole los calzones,</l>
+<l>no ha quedado en opiniones,</l>
+<l n="185">aunque no barbe jams.</l>
+<l>    El nueso Comendador,</l>
+<l>seor de Ocaa y su tierra,</l>
+<l>bizarro a picarle cierra,</l>
+<l>ms gallardo que un azor.</l>
+<l n="190">    Juro a m, si no tuviera</l>
+<l>cintero el novillo!...</l>
+<spkr>CURA</spkr>
+<l>Aqu</l>
+<l>no podr entrar?</l>
+<spkr>BARTOLO</spkr>
+<l>Antes s.</l>
+<spkr>CURA</spkr>
+<l>Pues, Pedro, de esa manera</l>
+<l>    all me suba al terrado.</l>
+<spkr>COSTANZA</spkr>
+<l n="195">Dgale alguna oracin;</l>
+<l>que ya ve que no es razn</l>
+<l>irse, seor licenciado.</l>
+<spkr>CURA</spkr>
+<l>   Pues oracin, a qu fin?</l>
+<spkr>COSTANZA</spkr>
+<l>A qu fin? De resistillo.</l>
+<spkr>CURA</spkr>
+<l n="200">Engaste; que hay novillo</l>
+<l>que no entiende bien latn.</l>
+<stageDirection>Entrese.</stageDirection></scene><scene n="III"><spkr>COSTANZA</spkr>
+<l>   Al terrado va sin duda.</l>
+<l>La grita creciendo va.</l>
+<stageDirection>Voces.</stageDirection><spkr>INS</spkr>
+<l>Todas iremos all;</l>
+<l n="205">que atado, al fin, no se muda.</l>
+<spkr>BARTOLO</spkr>
+<l>   Es verdad que no es posible</l>
+<l>que ms que la soga alcance.</l>
+<stageDirection>Vanse.</stageDirection></scene><scene n="IV"><spkr>PERIBEZ</spkr>
+<l>T quieres que intente un lance?</l>
+<spkr>CASILDA</spkr>
+<l>Ay no, mi bien, que es terrible!</l>
+<spkr>PERIBEZ</spkr>
+<l n="210">   Aunque ms terrible sea,</l>
+<l>de los cuernos le asir,</l>
+<l>y en tierra con l dar,</l>
+<l>porque mi valor se vea.</l>
+<spkr>CASILDA</spkr>
+<l>   No conviene a tu decoro</l>
+<l n="215">el da que te has casado,</l>
+<l>ni que un recin desposado</l>
+<l>se ponga en cuernos de un toro.</l>
+<spkr>PERIBEZ</spkr>
+<l>   Si refranes considero,</l>
+<l>dos me dan gran pesadumbre:</l>
+<l n="220">que a la crcel, ni aun por lumbre,</l>
+<l>y de cuernos, ni aun tintero.</l>
+<l>    Quiero obedecer.</l>
+<spkr>CASILDA</spkr>
+<l>Ay Dios!</l>
+<l>Qu es esto?</l>
+<stageDirection>Dentro.</stageDirection><l>GENTE</l>
+<l>Qu gran desdicha!</l>
+<spkr>CASILDA</spkr>
+<l>Algn mal hizo, por dicha.</l>
+<spkr>PERIBEZ</spkr>
+<l n="225">Cmo, estando aqu los dos?</l></scene><scene n="V"><stageDirection>BARTOLOM vuelve.</stageDirection><anchor type="Romance o-o"/> <spkr>BARTOLO</spkr>
+<l>   Oh, que nunca le trujeran,</l>
+<l>pluguiera al cielo, del soto!</l>
+<l>A la fe, que no se alaben</l>
+<l>de aquesta fiesta los mozos!</l>
+<l n="230">Oh, mal hayas, el novillo!</l>
+<l>Nunca en el abril llovioso</l>
+<l>halles yerba en verde prado</l>
+<l>ms que si fuera en agosto.</l>
+<l>Siempre te venza el contrario</l>
+<l n="235">cuando estuvieres celoso,</l>
+<l>y por los bosques bramando,</l>
+<l>halles secos los arroyos.</l>
+<l>Mueras en manos del vulgo,</l>
+<l>a pura garrocha, en coso;</l>
+<l n="240">no te mate caballero</l>
+<l>con lanza o cuchillo de oro;</l>
+<l>mal lacayo por detrs,</l>
+<l>con el acero mohoso,</l>
+<l>te haga sentar por fuerza</l>
+<l n="245">y manchar en sangre el polvo.</l>
+<spkr>PERIBEZ</spkr>
+<l>Reprtate ya, si quieres,</l>
+<l>y dinos lo que es, Bartolo;</l>
+<l>que no maldijera ms</l>
+<l>Zamora a Vellido Dolfos.</l>
+<spkr>BARTOLO</spkr>
+<l n="250">El Comendador de Ocaa,</l>
+<l>mueso seor generoso,</l>
+<l>en un bayo que cubran</l>
+<l>moscas negras pecho y lomo,</l>
+<l>mostrando por un bozal</l>
+<l n="255">de plata el rostro fogoso,</l>
+<l>y lavando en blanca espuma</l>
+<l>un tafetn verde y rojo,</l>
+<l>pasaba la calle acaso,</l>
+<l>y viendo correr el toro,</l>
+<l n="260">cal la gorra y sac</l>
+<l>de la capa el brazo airoso.</l>
+<l>Vibr la vara y las piernas</l>
+<l>puso al bayo, que era un corzo,</l>
+<l>y al batir los acicates,</l>
+<l n="265">revolviendo el vulgo loco,</l>
+<l>trab la soga al caballo</l>
+<l>y cay en medio de todos.</l>
+<l>Tan grande fue la cada,</l>
+<l>que es el peligro forzoso.</l>
+<l n="270">Pero qu os cuento, si aqu</l>
+<l>le trae la gente en hombros?</l></scene><scene n="VI"><stageDirection>EL COMENDADOR, entre algunos labradores; dos lacayos, de librea, MARN y LUJN, borcegus, capa y gorra.</stageDirection><anchor type="Redondillas"/> <l>SANCHO</l>
+<l>   Aqu estaba el licenciado,</l>
+<l>y lo podrn absolver.</l>
+<spkr>INS</spkr>
+<l>Pienso que se fue a esconder.</l>
+<spkr>PERIBEZ</spkr>
+<l n="275">Sube, Bartolo, al terrado.</l>
+<spkr>BARTOLO</spkr>
+<l>   Voy a buscarle.</l>
+<spkr>PERIBEZ</spkr>
+<l>Camina!</l>
+<spkr>LUJN</spkr>
+<l>Por silla vamos los dos</l>
+<l>en que llevarle, si Dios</l>
+<l>llevrsele determina.</l>
+<spkr>MARN</spkr>
+<l n="280">   Vamos, Lujn, que sospecho</l>
+<l>que es muerto el Comendador.</l>
+<spkr>LUJN</spkr>
+<l>El corazn de temor</l>
+<l>me va saltando en el pecho.</l>
+<stageDirection>Vanse.</stageDirection></scene><scene n="VII"><spkr>CASILDA</spkr>
+<l>   Id vos, porque me parece,</l>
+<l n="285">Pedro, que algo vuelve en s,</l>
+<l>y traed agua.</l>
+<spkr>PERIBEZ</spkr>
+<l>Si aqu</l>
+<l>el Comendador muriese,</l>
+<l>    no vivo ms en Ocaa.</l>
+<l>Maldita la fiesta sea!</l></scene><scene n="VIII"><stageDirection>Vanse todos. Queden CASILDA y EL COMENDADOR en una silla, y ella tomndole las manos.</stageDirection>
+<spkr>CASILDA</spkr>
+<l n="290">Oh, qu mal <sic>el mal</sic> se emplea</l>
+<l>en quien es la flor de Espaa!</l>
+<l>    Ah, gallardo caballero!</l>
+<l>Ah, valiente lidiador!</l>
+<l>Sois vos quien daba temor</l>
+<l n="295">con ese desnudo acero</l>
+<l>    a los moros de Granada?</l>
+<l>Sois vos quien tantos mat?</l>
+<l>Una soga derrib</l>
+<l>a quien no pudo su espada!</l>
+<l n="300">    Con soga os hiere la muerte;</l>
+<l>mas ser por ser ladrn</l>
+<l>de la gloria y opinin</l>
+<l>de tanto capitn fuerte.</l>
+<l>    Ah, seor Comendador!</l>
+<spkr>COMENDADOR</spkr>
+<l n="305">Quin llama? Quin est aqu?</l>
+<spkr>CASILDA</spkr>
+<l>Albricias, que habl!</l>
+<spkr>COMENDADOR</spkr>
+<l>Ay de m!</l>
+<l>Quin eres?</l>
+<spkr>CASILDA</spkr>
+<l>Yo soy, seor.</l>
+<l>    No os aflijis, que no estis</l>
+<l>donde no os desean ms bien</l>
+<l n="310">que vos mismo, aunque tambin</l>
+<l>quejas, mi seor, tengis</l>
+<l>    de haber corrido aquel toro.</l>
+<l>Haced cuenta que esta casa,</l>
+<l>aunque <sic>humilde</sic> es vuestra.</l>
+<spkr>COMENDADOR</spkr>
+<l>Hoy pasa</l>
+<l n="315">todo el humano tesoro!</l>
+<l>    Estuve muerto en el suelo,</l>
+<l>y como ya lo cre,</l>
+<l>cuando los ojos abr,</l>
+<l>pens que estaba en el cielo.</l>
+<l n="320">    Desengaadme, por Dios;</l>
+<l>que es justo pensar que sea</l>
+<l>cielo donde un hombre vea</l>
+<l>que hay ngeles como vos.</l>
+<spkr>CASILDA</spkr>
+<l>   Antes por vuestras razones</l>
+<l n="325">podra yo presumir</l>
+<l>que estis cerca de morir.</l>
+<spkr>COMENDADOR</spkr>
+<l>Cmo?</l>
+<spkr>CASILDA</spkr>
+<l>Porque veis visiones.</l>
+<l>    Y advierta vueseora</l>
+<l>que, si es agradecimiento</l>
+<l n="330">de hallarse en el aposento</l>
+<l>desta humilde casa ma,</l>
+<l>    de hoy solamente lo es.</l>
+<spkr>COMENDADOR</spkr>
+<l>Sois la novia, por ventura?</l>
+<spkr>CASILDA</spkr>
+<l>No por ventura, si dura</l>
+<l n="335">y crece este mal despus,</l>
+<l>    venido por mi ocasin.</l>
+<spkr>COMENDADOR</spkr>
+<l>Que vos estis ya casada?</l>
+<spkr>CASILDA</spkr>
+<l>Casada y bien empleada.</l>
+<spkr>COMENDADOR</spkr>
+<l>Pocas hermosas lo son.</l>
+<spkr>CASILDA</spkr>
+<l n="340">   Pues por eso he yo tenido</l>
+<l>la ventura de la fea.</l>
+<spkr>COMENDADOR</spkr>
+<stageDirection>Aparte.</stageDirection>
+<lg type="aside"><l>Que un tosco villano sea</l>
+<l>de esta hermosura marido!</l></lg>
+<l>    Vuestro nombre?</l>
+<spkr>CASILDA</spkr>
+<l>Con perdn,</l>
+<l n="345">Casilda, seor, me nombro.</l>
+<spkr>COMENDADOR</spkr>
+<stageDirection>Aparte.</stageDirection>
+<lg type="aside"><l>De ver su traje me asombro</l>
+<l>y su rara perfecin.</l></lg>
+<l>    Diamante en plomo engastado,</l>
+<l>dichoso el hombre mil veces</l>
+<l n="350">a quien tu hermosura ofreces!</l>
+<spkr>CASILDA</spkr>
+<l>No es l el bien empleado;</l>
+<l>    yo lo soy Comendador.</l>
+<l>Cralo su seora.</l>
+<spkr>COMENDADOR</spkr>
+<l>Aun para ser mujer ma</l>
+<l n="355">tenis, Casilda, valor.</l>
+<l>    Dame licencia que pueda</l>
+<l>regalarte.</l></scene><scene n="IX"><stageDirection>PERIBEZ entre.</stageDirection>
+<spkr>PERIBEZ</spkr>
+<l>No parece</l>
+<l>el licenciado: Si crece</l>
+<l>el acidente...</l>
+<spkr>CASILDA</spkr>
+<l>Ah te queda,</l>
+<l n="360">    porque ya tiene salud</l>
+<l>don Fadrique, mi seor.</l>
+<spkr>PERIBEZ</spkr>
+<l>Albricias te da mi amor!</l>
+<spkr>COMENDADOR</spkr>
+<l>Tal ha sido la virtud</l>
+<l>    desta piedra celestial.</l></scene><scene n="X"><stageDirection>MARN y LUJN, lacayos.</stageDirection>
+<spkr>MARN</spkr>
+<l n="365">Ya dicen que ha vuelto en s.</l>
+<spkr>LUJN</spkr>
+<l>Seor, la silla est aqu.</l>
+<spkr>COMENDADOR</spkr>
+<l>Pues no pase del portal;</l>
+<l>    que no he menester ponerme</l>
+<l>en ella.</l>
+<spkr>LUJN</spkr>
+<l>Gracias a Dios!</l>
+<spkr>COMENDADOR</spkr>
+<l n="370">Esto que os debo a los dos;</l>
+<l>si con salud vengo a verme,</l>
+<l>    satisfar de manera</l>
+<l>que conozcis lo que siento</l>
+<l>vuestro buen acogimiento.</l>
+<spkr>PERIBEZ</spkr>
+<l n="375">Si a vuestra salud pudiera,</l>
+<l>    seor, ofrecer la ma,</l>
+<l>no lo dudis.</l>
+<spkr>COMENDADOR</spkr>
+<l>Yo lo creo.</l>
+<spkr>LUJN</spkr>
+<stageDirection>Aparte.</stageDirection>
+<lg type="aside"><l>Qu sientes?</l>
+<spkr>COMENDADOR</spkr>
+<l>Un gran deseo</l>
+<l>que cuando entr no tena.</l>
+<spkr>LUJN</spkr>
+<l>   No lo entiendo.</l>
+<spkr>COMENDADOR</spkr>
+<l n="380">Importa poco.</l>
+<spkr>LUJN</spkr>
+<l>Yo hablo de tu cada.</l>
+<spkr>COMENDADOR</spkr>
+<l>En peligro est mi vida</l>
+<l>por un pensamiento loco.</l></lg>
+<stageDirection>Vyanse; queden CASILDA y PERIBEZ.</stageDirection></scene><scene n="XI"><spkr>PERIBEZ</spkr>
+<l>   Parece que va mejor.</l>
+<spkr>CASILDA</spkr>
+<l n="385">Lstima, Pedro, me ha dado.</l>
+<spkr>PERIBEZ</spkr>
+<l>Por mal agero he tomado</l>
+<l>que caiga el Comendador.</l>
+<l>    Mal haya la fiesta, amn,</l>
+<l>el novillo y quien lo at!</l>
+<spkr>CASILDA</spkr>
+<l n="390">No es nada, luego me habl.</l>
+<l>Antes lo tengo por bien,</l>
+<l>    porque nos haga favor</l>
+<l>si ocasin se nos ofrece.</l>
+<spkr>PERIBEZ</spkr>
+<l>Casilda, mi amor merece</l>
+<l n="395">satisfacin de mi amor.</l>
+<l>    Ya estamos en nuestra casa;</l>
+<l>su dueo y mo has de ser.</l>
+<l>Ya sabes que la mujer</l>
+<l>para obedecer se casa;</l>
+<l n="400">    que as se lo dijo Dios</l>
+<l>en el principio del mundo;</l>
+<l>que en eso estriba me fundo,</l>
+<l>la paz y el bien de los dos.</l>
+<l>    Espero amores de ti;</l>
+<l n="405">que has de hacer gloria mi pena.</l>
+<spkr>CASILDA</spkr>
+<l>Qu ha de tener para buena</l>
+<l>una mujer?</l>
+<spkr>PERIBEZ</spkr>
+<l>Oye.</l>
+<spkr>CASILDA</spkr>
+<l>Di.</l>
+<spkr>PERIBEZ</spkr>
+<l>   Amar y honrar su marido</l>
+<l>es letra deste abec,</l>
+<l n="410">siendo buena por la B,</l>
+<l>que es todo el bien que te pido.</l>
+<l>    Harte cuerda la C,</l>
+<l>la D dulce y entendida</l>
+<l>la E, y la F en la vida</l>
+<l n="415">firme, fuerte y de gran fe.</l>
+<l>    La G grave, y para honrada,</l>
+<l>la H, que con la I</l>
+<l>te har ilustre, si de ti</l>
+<l>queda mi casa ilustrada.</l>
+<l n="420">    Limpia sers por la L,</l>
+<l>y por la M, maestra</l>
+<l>de tus hijos, cual lo muestra</l>
+<l>quien de sus vicios se duele.</l>
+<l>    La N te ensea un no</l>
+<l n="425">a solicitudes locas;</l>
+<l>que este no, que aprenden pocas,</l>
+<l>est en la N y la O.</l>
+<l>    La P te har pensativa,</l>
+<l>la Q bien quista, la R</l>
+<l n="430">con tal razn, que destierre</l>
+<l>toda locura excesiva.</l>
+<l>    Solcita te ha de hacer</l>
+<l>de mi regalo la S,</l>
+<l>la T tal que no pudiese</l>
+<l n="435">hallarse mejor mujer.</l>
+<l>    La V te har verdadera,</l>
+<l>la X buena cristiana,</l>
+<l>letra que en la vida humana</l>
+<l>has de aprender la primera.</l>
+<l n="440">    Por la Z has de guardarte</l>
+<l>de ser celosa; que es cosa</l>
+<l>que nuestra paz amorosa</l>
+<l>puede, Casilda, quitarte.</l>
+<l>    Aprende este canto llano;</l>
+<l n="445">que con aquesta cartilla,</l>
+<l>t sers flor de la villa,</l>
+<l>y yo el ms noble villano.</l>
+<spkr>CASILDA</spkr>
+<l>   Estudiar, por servirte,</l>
+<l>las letras de ese abec;</l>
+<l n="450">pero dime si podr</l>
+<l>otro, mi Pedro, decirte,</l>
+<l>    si no es acaso licencia.</l>
+<spkr>PERIBEZ</spkr>
+<l>Antes yo me huelgo. Di;</l>
+<l>que quiero aprender de ti.</l>
+<spkr>CASILDA</spkr>
+<l n="455">Pues escucha, y ten paciencia.</l>
+<l>    La primera letra es A,</l>
+<l>que altanero no has de ser;</l>
+<l>por la B no me has de hacer</l>
+<l>burla para siempre ya.</l>
+<l n="460">    La C te har compaero</l>
+<l>en mis trabajos; la D</l>
+<l>dadivoso, por la fe</l>
+<l>con que regalarte espero.</l>
+<l>    La F de fcil trato,</l>
+<l n="465">la G galn para m,</l>
+<l>la H honesto, y la I</l>
+<l>sin pensamiento de ingrato.</l>
+<l>    Por la L liberal,</l>
+<l>y por la M el mejor</l>
+<l n="470">marido que tuvo amor,</l>
+<l>porque es el mayor caudal.</l>
+<l>    Por la N no sers</l>
+<l>necio, que es fuerte castigo;</l>
+<l>por la O slo conmigo</l>
+<l n="475">todas las horas tendrs.</l>
+<l>    Por la P me has de hacer obras</l>
+<l>de padre; porque quererme</l>
+<l>por la Q ser ponerme</l>
+<l>en la obligacin que cobras.</l>
+<l n="480">    Por la R regalarme,</l>
+<l>y por la S servirme,</l>
+<l>por la T tenerte firme,</l>
+<l>por la V verdad tratarme,</l>
+<l>    por la X con abiertos</l>
+<l n="485">brazos imitarla ans,</l>
+<stageDirection>Abrzale.</stageDirection>
+<l>y como estamos aqu,</l>
+<l>estemos despus de muertos.</l>
+<spkr>PERIBEZ</spkr>
+<l>   Yo me ofrezco, prenda ma,</l>
+<l>a saber este abec.</l>
+<l>Quieres ms?</l>
+<spkr>CASILDA</spkr>
+<l n="490">Mi bien, no s</l>
+<l>si me atreva el primer da</l>
+<l>    a pedirte un gran favor.</l>
+<spkr>PERIBEZ</spkr>
+<l>Mi amor se agravia de ti.</l>
+<spkr>CASILDA</spkr>
+<l>Cierto?</l>
+<spkr>PERIBEZ</spkr>
+<l>S.</l>
+<spkr>CASILDA</spkr>
+<l>Pues oye.</l>
+<spkr>PERIBEZ</spkr>
+<l>Di,</l>
+<l n="495">cuantas se obliga mi amor.</l>
+<spkr>CASILDA</spkr>
+<l>   El da de la Asuncin</l>
+<l>se acerca; tengo deseo</l>
+<l>de ir a Toledo, y creo</l>
+<l>que no es gusto, es devocin</l>
+<l n="500">    de ver la imagen tambin</l>
+<l>del Sagrario, que aquel da</l>
+<l>sale en procesin.</l>
+<spkr>PERIBEZ</spkr>
+<l>La ma</l>
+<l>es tu voluntad, mi bien.</l>
+<l>    Tratemos de la partida.</l>
+<spkr>CASILDA</spkr>
+<l n="505">Ya por la G me pareces</l>
+<l>galn; tus manos mil veces</l>
+<l>beso.</l>
+<spkr>PERIBEZ</spkr>
+<l>A tus primas convida,</l>
+<l>    y vaya un famoso carro.</l>
+<spkr>CASILDA</spkr>
+<l>Tanto me quieres honrar?</l>
+<spkr>PERIBEZ</spkr>
+<l n="510">   All te pienso comprar...</l>
+<spkr>CASILDA</spkr>
+<l>Dilo.</l>
+<spkr>PERIBEZ</spkr>
+<l>Un vestido bizarro!</l>
+<stageDirection>Entre<sic>n</sic>se.</stageDirection></scene><scene n="XII"><stageDirection>Salga<sic>n</sic> EL COMENDADOR y LEONARDO, criado.</stageDirection><anchor type="Quintillas"/> <spkr>COMENDADOR</spkr>
+<l>   Llmame, Leonardo, presto</l>
+<l>a Lujn.</l>
+<spkr>LEONARDO</spkr>
+<l>Ya le avis,</l>
+<l>pero estaba descompuesto.</l>
+<spkr>COMENDADOR</spkr>
+<l>Vuelve a llamarle.</l>
+<spkr>LEONARDO</spkr>
+<l n="515">Yo ir.</l>
+<spkr>COMENDADOR</spkr>
+<l>Parte.</l>
+<spkr>LEONARDO</spkr>
+<stageDirection>Aparte.</stageDirection>
+<lg type="aside"><l>En qu ha de parar esto?</l>
+<l>    Cuando se siente mejor,</l>
+<l>tiene ms melancola,</l>
+<l>y se queja sin dolor,</l>
+<l n="520">sospiros al aire enva.</l>
+<l>Mtenme si no es amor!</l></lg>
+<stageDirection>Vyanse.</stageDirection></scene><scene n="XIII"><anchor type="Liras"/> <spkr>COMENDADOR</spkr>
+<l>   Hermosa labradora,</l>
+<l>ms bella, ms lucida,</l>
+<l>que ya del sol vestida</l>
+<l n="525">la colorada aurora;</l>
+<l>sierra de blanca nieve,</l>
+<l>que los rayos de amor vencer se atreve,</l>
+<l>    parece que cogiste</l>
+<l>con esas blancas manos</l>
+<l n="530">en los campos lozanos,</l>
+<l>que el mayo adorna y viste,</l>
+<l>cuantas flores agora</l>
+<l>Cfiro engendra en el regazo a Flora.</l>
+<l>    Yo vi los verdes prados</l>
+<l n="535">llamar tus plantas bellas,</l>
+<l>por florecer con ellas,</l>
+<l>de su nieve pisados,</l>
+<l>y vi de tu labranza</l>
+<l>nacer al corazn verde esperanza.</l>
+<l n="540">    Venturoso el villano</l>
+<l>que tal agosto ha hecho</l>
+<l>del trigo de tu pecho</l>
+<l>con atrevida mano,</l>
+<l>y <sic>que</sic> con blanca barba</l>
+<l n="545">ver en sus eras de tus hijos parva!</l>
+<l>    Para tan gran tesoro</l>
+<l>de fruto sazonado,</l>
+<l>el mismo sol dorado</l>
+<l>te preste el carro de oro,</l>
+<l n="550">o el que forman estrellas,</l>
+<l>pues las del norte no sern tan bellas.</l>
+<l>    Por su azadn trocara</l>
+<l>mi dorada cuchilla,</l>
+<l>a Ocaa tu casilla,</l>
+<l n="555">casa en que el sol repara.</l>
+<l>Dichoso t, que tienes</l>
+<l>en la troj de tu lecho tantos bienes!</l></scene><scene n="XIV"><stageDirection>Entre LUJN.</stageDirection><anchor type="Quintillas"/> <spkr>LUJN</spkr>
+<l>   Perdona; que estaba el bayo</l>
+<l>necesitado de m.</l>
+<spkr>COMENDADOR</spkr>
+<l n="560">Muerto estoy, matme un rayo.</l>
+<l>An dura, Lujn, en m</l>
+<l>la fuerza de aquel desmayo.</l>
+<spkr>LUJN</spkr>
+<l>   Todava persevera,</l>
+<l>y aquella pasin te dura?</l>
+<spkr>COMENDADOR</spkr>
+<l n="565">Como va el fuego a su esfera,</l>
+<l>el alma a tanta hermosura</l>
+<l>sube cobarde y ligera.</l>
+<l>    Si quiero, Lujn, hacerme</l>
+<l>amigo deste villano,</l>
+<l n="570">donde el honor menos duerme</l>
+<l>que en el sutil cortesano,</l>
+<l>qu medio puede valerme?</l>
+<l>    Ser bien decir que trato</l>
+<l>de no parecer ingrato</l>
+<l n="575">al deseo que mostr</l>
+<l>hacerle algn bien?</l>
+<spkr>LUJN</spkr>
+<l>Si yo</l>
+<l>quisiera bien, con recato,</l>
+<l>    quiero decir, advertido</l>
+<l>de un peligro conocido,</l>
+<l n="580">primero que a la mujer</l>
+<l>solicitara tener</l>
+<l>la gracia de su marido.</l>
+<l>    ste, aunque es hombre de bien</l>
+<l>y honrado entre sus iguales,</l>
+<l n="585">se descuidar tambin</l>
+<l>si le haces obras tales</l>
+<l>como por otros se ven.</l>
+<l>    Que hay marido que, obligado,</l>
+<l>procede ms descuidado;</l>
+<l n="590">que la obligacin, seor,</l>
+<l>descuida el mayor cuidado.</l>
+<spkr>COMENDADOR</spkr>
+<l>   Qu le dar por primeras</l>
+<l>seales?</l>
+<spkr>LUJN</spkr>
+<l>Si consideras</l>
+<l>lo que un labrador adulas,</l>
+<l n="595">ser darle un par de mulas</l>
+<l>ms que si a Ocaa le dieras.</l>
+<l>    ste es el mayor tesoro</l>
+<l>de un labrador. Y a su esposa,</l>
+<l>unas arracadas de oro;</l>
+<l n="600">que con Anglica hermosa</l>
+<l>esto escriben de Medoro:</l>
+<anchor type="Soneto"/> <l>    Reinaldo fuerte en roja sangre baa</l>
+<l>por Anglica el campo de Agramante;</l>
+<l>Roldn valiente, gran seor de Anglante,</l>
+<l n="605">cubre de cuerpos la marcial campaa;</l>
+<l>    la furia Malges del cetro engaa;</l>
+<l>sangriento corre el fiero Sacripante;</l>
+<l>cuanto le pone la ocasin delante,</l>
+<l>derriba al suelo Ferragut de Espaa.</l>
+<l n="610">Mas, mientras los gallardos paladines</l>
+<l>armados tiran tajos y reveses,</l>
+<l>presentle Medoro unos chapines;</l>
+<l>y entre unos verdes olmos y cipreses,</l>
+<l>goz de amor los regalados fines,</l>
+<l n="615">y la tuvo por suya trece meses.</l>
+<anchor type="Quintillas"/> <spkr>COMENDADOR</spkr>
+<l>   No pint mal el poeta</l>
+<l>lo que puede el inters.</l>
+<spkr>LUJN</spkr>
+<l>Ten por opinin discreta</l>
+<l>la del dar, porque al fin es</l>
+<l n="620">la ms breve y ms secreta.</l>
+<l>    Los servicios personales</l>
+<l>son vistos pblicamente,</l>
+<l>y dan del amor seales.</l>
+<l>El inters diligente,</l>
+<l n="625">que negocia por metales,</l>
+<l>    dicen que llevan los pies</l>
+<l>todos envueltos en lana.</l>
+<spkr>COMENDADOR</spkr>
+<l>Pues alto! Venza inters!</l>
+<spkr>LUJN</spkr>
+<l>Mares y montes allana,</l>
+<l n="630">y t lo vers despus.</l>
+<spkr>COMENDADOR</spkr>
+<l>   Desde que fuiste conmigo,</l>
+<l>Lujn, al Andaluca,</l>
+<l>y fui en la guerra testigo</l>
+<l>de tu honra y valenta,</l>
+<l n="635">huelgo de tratar contigo</l>
+<l>    todas las cosas que son</l>
+<l>de gusto y secreto, a efeto</l>
+<l>de saber tu condicin;</l>
+<l>que un hombre de bien discreto</l>
+<l n="640">es digno de estimacin</l>
+<l>    en cualquier parte o lugar</l>
+<l>que le ponga su fortuna;</l>
+<l>y yo te pienso mudar</l>
+<l>deste oficio.</l>
+<spkr>LUJN</spkr>
+<l>Si en alguna</l>
+<l n="645">cosa te puedo agradar,</l>
+<l>    mndame, y vers mi amor;</l>
+<l>que yo no puedo, seor,</l>
+<l>ofrecerte otras grandezas.</l>
+<spkr>COMENDADOR</spkr>
+<l>Scame destas tristezas.</l>
+<spkr>LUJN</spkr>
+<l n="650">ste es el medio mejor.</l>
+<spkr>COMENDADOR</spkr>
+<l>   Pues vamos, y buscars</l>
+<l>el par de mulas ms bello</l>
+<l>que l haya visto jams.</l>
+<spkr>LUJN</spkr>
+<l>Ponles ese yugo al cuello;</l>
+<l n="655">que antes de un hora vers</l>
+<l>    arar en su pecho fiero</l>
+<l>surcos de aficin, tributo</l>
+<l>de que tu cosecha espero;</l>
+<l>que en trigo de amor no hay fruto,</l>
+<l n="660">si no se siembra dinero.</l>
+<stageDirection>Vya<sic>n</sic>se.</stageDirection></scene><scene n="XV"><stageDirection>Salen INS, COSTANZA y CASILDA.</stageDirection><anchor type="Redondillas"/> <spkr>CASILDA</spkr>
+<l>   No es tarde para partir?</l>
+<l>El tiempo es bueno, y es llano</l>
+<l>todo el camino.</l>
+<spkr>COSTANZA</spkr>
+<l>En verano,</l>
+<l>suelen muchas veces ir</l>
+<l n="665">    en diez horas, y an en menos.</l>
+<l>Qu galas llevas, Ins?</l>
+<spkr>INS</spkr>
+<l>Pobres, y el talle que ves.</l>
+<spkr>COSTANZA</spkr>
+<l>Yo llevo unos cuerpos llenos</l>
+<l>    de pasamanos de plata.</l>
+<spkr>INS</spkr>
+<l n="670">Desabrochado el sayuelo,</l>
+<l>salen bien.</l>
+<spkr>CASILDA</spkr>
+<l>De terciopelo,</l>
+<l>sobre encarnada escarlata</l>
+<l>    los pienso llevar; que son</l>
+<l>galas de mujer casada.</l>
+<spkr>COSTANZA</spkr>
+<l n="675">Una basquia prestada</l>
+<l>me daba Ins, la de Antn.</l>
+<l>    Era palmilla gentil</l>
+<l>de Cuenca, si all se teje,</l>
+<l>y oblgame a que la deje</l>
+<l n="680">Menga, la de Blasco Gil,</l>
+<l>    porque dice que el color</l>
+<l>no dice bien con mi cara.</l>
+<spkr>INS</spkr>
+<l>Bien s yo quin te prestara</l>
+<l>una faldilla mejor.</l>
+<spkr>COSTANZA</spkr>
+<l>   Quin?</l>
+<spkr>INS</spkr>
+<l>Casilda.</l>
+<spkr>CASILDA</spkr>
+<l n="685">Si t quieres,</l>
+<l>la de grana blanca es buena,</l>
+<l>    o la verde, que est llena</l>
+<l>de vivos.</l>
+<spkr>COSTANZA</spkr>
+<l>Liberal eres</l>
+<l>    y bien acondicionada;</l>
+<l n="690">mas, si Pedro ha de reir,</l>
+<l>no te la quiero pedir,</l>
+<l>y gurdete Dios, casada.</l>
+<spkr>CASILDA</spkr>
+<l>   No es Peribez, Costanza,</l>
+<l>tan mal acondicionado.</l>
+<spkr>INS</spkr>
+<l n="695">Quirete bien tu velado?</l>
+<spkr>CASILDA</spkr>
+<l>Tan presto temes mudanza?</l>
+<l>    No hay en esta villa toda</l>
+<l>novios de placer tan ricos;</l>
+<l>pero an comemos los picos</l>
+<l n="700">de las roscas de la boda.</l>
+<spkr>INS</spkr>
+<l>   Dcete muchos amores?</l>
+<spkr>CASILDA</spkr>
+<l>No s yo cules son pocos.</l>
+<l>S que mis sentidos locos</l>
+<l>lo estn de tantos favores.</l>
+<l n="705">    Cuando se muestra el lucero,</l>
+<l>viene del campo mi esposo,</l>
+<l>de su cena deseoso;</l>
+<l>sintele el alma primero,</l>
+<l>    y salgo a abrille la puerta,</l>
+<l n="710">arrojando el almohadilla,</l>
+<l>que siempre tengo en la villa</l>
+<l>quien mis labores concierta.</l>
+<l>    El de las mulas se arroja,</l>
+<l>y yo me arrojo en sus brazos;</l>
+<l n="715">tal vez de nuestros abrazos</l>
+<l>la bestia hambrienta se enoja,</l>
+<l>    y, sintindola gruir,</l>
+<l>dice: En dndole la cena</l>
+<l>al ganado, cara buena,</l>
+<l n="720">volver Pedro a salir.</l>
+<l>    Mientras l paja les echa,</l>
+<l>ir por cebada me manda;</l>
+<l>yo la traigo, l la zaranda,</l>
+<l>y deja la que aprovecha.</l>
+<l n="725">    Revulvela en el pesebre,</l>
+<l>y all me vuelve a abrazar;</l>
+<l>que no hay tan bajo lugar</l>
+<l>que el amor no le celebre.</l>
+<l>    Salimos donde ya est</l>
+<l n="730">dndonos voces la olla,</l>
+<l>porque el ajo y la cebolla,</l>
+<l>fuera del olor que da</l>
+<l>    por toda nuestra cocina,</l>
+<l>tocan a la cobertera</l>
+<l n="735">el villano de manera</l>
+<l>que a bailalle nos inclina.</l>
+<l>    Scola en limpios manteles,</l>
+<l>no en plata, aunque yo quisiera;</l>
+<l>platos son de Talavera,</l>
+<l n="740">que estn vertiendo claveles.</l>
+<l>    Avahle su escodilla</l>
+<l>de sopas con tal primor,</l>
+<l>que no la come mejor</l>
+<l>el seor de muesa villa;</l>
+<l n="745">    y l lo paga, porque a fe,</l>
+<l>que apenas bocado toma,</l>
+<l>de que, como a su paloma,</l>
+<l>lo que es mejor no me d.</l>
+<l>    Bebe, y deja la mitad;</l>
+<l n="750">bbole las fuerzas yo.</l>
+<l>Traigo olivas, y si no,</l>
+<l>es postre la voluntad.</l>
+<l>    Acabada la comida</l>
+<l>puestas las manos los dos,</l>
+<l n="755">dmosle gracias a Dios</l>
+<l>por la merced recibida;</l>
+<l>    y vmonos a acostar</l>
+<l>donde le pesa al Aurora</l>
+<l>cuando se llega la hora</l>
+<l n="760">de venirnos a llamar.</l>
+<spkr>INS</spkr>
+<l>   Dichosa t, casadilla,</l>
+<l>que en tan buen estado ests!</l>
+<l>Ea, ya no falta ms</l>
+<l>sino salir de la villa.</l></scene><scene n="XVI"><stageDirection>Entre PERIBEZ.</stageDirection>
+<spkr>CASILDA</spkr>
+<l n="765">   Est el carro aderezado?</l>
+<spkr>PERIBEZ</spkr>
+<l>Lo mejor que puede est.</l>
+<spkr>CASILDA</spkr>
+<l>Luego, pueden subir ya?</l>
+<spkr>PERIBEZ</spkr>
+<l>Pena, Casilda, me ha dado</l>
+<l>    el ver que el carro de Bras</l>
+<l n="770">lleva alhombra y repostero.</l>
+<spkr>CASILDA</spkr>
+<l>Pdele a algn caballero.</l>
+<spkr>INS</spkr>
+<l>Al Comendador podrs.</l>
+<spkr>PERIBEZ</spkr>
+<l>   l nos mostraba aficin,</l>
+<l>y pienso que nos le diera.</l>
+<spkr>CASILDA</spkr>
+<l>Qu se pierde en ir?</l>
+<spkr>PERIBEZ</spkr>
+<l n="775">Espera;</l>
+<l>que a la fe que no es razn</l>
+<l>    que vaya sin repostero.</l>
+<spkr>INS</spkr>
+<l>Pues vmonos a vestir.</l>
+<spkr>CASILDA</spkr>
+<l>Tambin le puedes pedir...</l>
+<spkr>PERIBEZ</spkr>
+<l>Qu, mi Casilda?</l>
+<spkr>CASILDA</spkr>
+<l n="780">Un sombrero.</l>
+<spkr>PERIBEZ</spkr>
+<l>   Eso no.</l>
+<spkr>CASILDA</spkr>
+<l>Por qu? Es exceso?</l>
+<spkr>PERIBEZ</spkr>
+<l>Porque plumas de seor</l>
+<l>podrn darnos por favor,</l>
+<l>a ti viento y a m peso.</l>
+<stageDirection>Vanse todos.</stageDirection></scene><scene n="XVII"><stageDirection>Entre<sic>n</sic> EL COMENDADOR y LUJN.</stageDirection><anchor type="Endecaslabos su"/> <spkr>COMENDADOR</spkr>
+<l>Ellas son con estremo.</l>
+<spkr>LUJN</spkr>
+<l n="785">Yo no he visto</l>
+<l>mejores bestias, por tu vida y ma,</l>
+<l>en cuantas he tratado, y no son pocas.</l>
+<spkr>COMENDADOR</spkr>
+<l>Las arracadas faltan.</l>
+<spkr>LUJN</spkr>
+<l>Dijo el dueo</l>
+<l>que cumplen a estas yerbas <sic>los</sic> tres aos,</l>
+<l n="790">y costaron lo mismo que le diste,</l>
+<l>habr un mes, en la feria de Mansilla,</l>
+<l>y que saben muy bien de albarda y silla.</l>
+<spkr>COMENDADOR</spkr>
+<l>De qu manera, di, Lujn, podremos</l>
+<l>darlas a Peribez, su marido,</l>
+<l n="795">que no tenga malicia en mi propsito?</l>
+<spkr>LUJN</spkr>
+<l>Llamndole a tu casa, y previnindole</l>
+<l>de que ests a su amor agradecido.</l>
+<l>Pero cusame risa en ver que hagas</l>
+<l>tu secretario en cosas de tu gusto</l>
+<l>un hombre de mis prendas.</l>
+<spkr>COMENDADOR</spkr>
+<l n="800">No te espantes;</l>
+<l>que, sirviendo mujer de humildes prendas,</l>
+<l>es fuerza que lo trate con las tuyas.</l>
+<l>Si sirviera una dama, hubiera dado</l>
+<l>parte a mi secretario o mayordomo,</l>
+<l n="805">o a algunos gentilhombres de mi casa.</l>
+<l>stos hicieran joyas, y buscaran</l>
+<l>cadenas de diamantes, brincos, perlas,</l>
+<l>telas, rasos, damascos, terciopelos,</l>
+<l>y otras cosas extraas y exquisitas,</l>
+<l n="810">hasta en Arabia procurar la Fnix;</l>
+<l>pero la calidad de lo que quiero</l>
+<l>me obliga a darte parte de mis cosas,</l>
+<l>Lujn, aunque eres mi lacayo; mira</l>
+<l>que para comprar mulas eres propio,</l>
+<l n="815">de suerte que yo trato el amor mo</l>
+<l>de la manera misma que l me trata.</l>
+<spkr>LUJN</spkr>
+<l>Ya que no fue tu amor, seor, discreto,</l>
+<l>el modo de tratarle lo parece.</l></scene><scene n="XVIII"><stageDirection>Entre LEONARDO.</stageDirection>
+<spkr>LEONARDO</spkr>
+<l>Aqu est Peribez.</l>
+<spkr>COMENDADOR</spkr>
+<l>Quin, Leonardo?</l>
+<spkr>LEONARDO</spkr>
+<l>Peribez, seor.</l>
+<spkr>COMENDADOR</spkr>
+<l n="820">Qu es lo que dices?</l>
+<spkr>LEONARDO</spkr>
+<l>Digo que me pregunta Peribez</l>
+<l><sic>por ti</sic>, y yo pienso bien que le conoces.</l>
+<l>Es Peribez labrador de Ocaa,</l>
+<l>cristiano viejo y rico, hombre tenido</l>
+<l n="825">en gran veneracin de sus iguales,</l>
+<l>y que, si se quisiese alzar agora</l>
+<l>en esta villa, seguirn su nombre</l>
+<l>cuantos salen al campo con su arado,</l>
+<l>porque es, aunque villano, muy honrado.</l>
+<spkr>LUJN</spkr>
+<l>De qu has perdido el color?</l>
+<spkr>COMENDADOR</spkr>
+<l n="830">Ay cielos!</l>
+<l>Que de slo venir el que es esposo</l>
+<l>de una mujer que quiero bien, me sienta</l>
+<l>descolorir, helar y temblar todo!</l>
+<spkr>LUJN</spkr>
+<l>Luego, no terns nimo de verle?</l>
+<spkr>COMENDADOR</spkr>
+<l n="835">Di que entre; que del modo que quien ama,</l>
+<l>la calle, las ventanas y las rejas</l>
+<l>agradables le son, y en las cradas</l>
+<l>parece que ve el rostro de su dueo,</l>
+<l>as pienso mirar en su marido</l>
+<l n="840">la hermosura por quien estoy perdido.</l></scene><scene n="XIX"><stageDirection>PERIBEZ con capa.</stageDirection>
+<spkr>PERIBEZ</spkr>
+<l>Dame tus generosos pies.</l>
+<spkr>COMENDADOR</spkr>
+<l>Oh Pedro!</l>
+<l>Seas mil veces bien venido. Dame</l>
+<l>otras tantas tus brazos.</l>
+<spkr>PERIBEZ</spkr>
+<l>Seor mo!</l>
+<l>Tanta merced a un rstico villano</l>
+<l n="845">de los menores que en Ocaa tienes!</l>
+<l>Tanta merced a un labrador!</l>
+<spkr>COMENDADOR</spkr>
+<l>No eres</l>
+<l>indigno, Peribez, de mis brazos,</l>
+<l>que, fuera de ser hombre bien nacido,</l>
+<l>y, por tu entendimiento y tus costumbres,</l>
+<l n="850">honra de los vasallos de mi tierra,</l>
+<l>te debo estar agradecido, y tanto</l>
+<l>cuanto ha sido por ti tener la vida;</l>
+<l>que pienso que sin ti fuera perdida.</l>
+<l>Qu quieres de esta casa?</l>
+<spkr>PERIBEZ</spkr>
+<l>Seor mo,</l>
+<l n="855">yo soy, ya lo sabrs, recin casado.</l>
+<l>Los hombres, y de bien, cual lo profeso,</l>
+<l>hacemos, aunque pobres, el oficio</l>
+<l>que hicier<sic>a</sic>n los galanes de palacio.</l>
+<l>Mi mujer me ha pedido que la lleve</l>
+<l n="860">a la fiesta de agosto, que en Toledo</l>
+<l>es, como sabes, de su santa iglesia</l>
+<l>celebrada de suerte, que convoca</l>
+<l>a todo el reino. Van tambin sus primas.</l>
+<l>Yo, seor, tengo en casa pobres sargas,</l>
+<l n="865">no franceses tapices de oro y seda,</l>
+<l>no reposteros con doradas armas,</l>
+<l>ni coronados de blasn y plumas</l>
+<l>los timbres generosos; y as, vengo</l>
+<l>a que se digne vuestra seora</l>
+<l n="870">de prestarme una alhombra y repostero</l>
+<l>para adornar el carro; y le suplico</l>
+<l>que mi ignorancia su grandeza abone,</l>
+<l>y como enamorado me perdone.</l>
+<spkr>COMENDADOR</spkr>
+<l>Ests contento, Peribez?</l>
+<spkr>PERIBEZ</spkr>
+<l>Tanto,</l>
+<l n="875">que no trocara a este sayal grosero</l>
+<l>la encomienda mayor que el pecho cruza</l>
+<l>de vuestra seora, porque tengo</l>
+<l>mujer honrada, y no de mala cara,</l>
+<l>    buena cristiana, humilde, y que me quiere</l>
+<l n="880">no s si tanto como yo la quiero,</l>
+<l>pero con ms amor que mujer tuvo.</l>
+<spkr>COMENDADOR</spkr>
+<l>Tenis razn de amar a quien os ama,</l>
+<l>por ley divina y por humanas leyes;</l>
+<l>que a vos eso os agrada como vuestro.</l>
+<l n="885">Hola! Dalde el alfombra mequinesa,</l>
+<l>con ocho reposteros de mis armas,</l>
+<l>y pues hay ocasin para pagarle</l>
+<l>el buen acogimiento de su casa</l>
+<l>adonde hall la vida, las dos mulas</l>
+<l n="890">que compr para el coche de camino;</l>
+<l>y a su esposa llevad las arracadas,</l>
+<l>si el platero las tiene ya acabadas.</l>
+<spkr>PERIBEZ</spkr>
+<l>Aunque bese la tierra, seor mo,</l>
+<l>en tu nombre mil veces, no te pago</l>
+<l n="895">una mnima parte de las muchas</l>
+<l>que debo a las mercedes que me haces.</l>
+<l>Mi esposa y yo, hasta aqu vasallos tuyos,</l>
+<l>desde hoy somos esclavos de tu casa.</l>
+<spkr>COMENDADOR</spkr>
+<l>Ve, Leonardo, con l.</l>
+<spkr>LEONARDO</spkr>
+<l>Ven<sic>te</sic> conmigo.</l>
+<stageDirection>Vanse.</stageDirection></scene><scene n="XX"><spkr>COMENDADOR</spkr>
+<l>Lujn, qu te parece?</l>
+<spkr>LUJN</spkr>
+<l n="900">Que se viene</l>
+<l>la ventura a tu casa.</l>
+<spkr>COMENDADOR</spkr>
+<l>Escucha aparte:</l>
+<l>el alazn al punto me adereza,</l>
+<l>que quiero ir a Toledo rebozado,</l>
+<l>porque me lleva el alma esta villana.</l>
+<spkr>LUJN</spkr>
+<l>Seguirla quieres?</l>
+<spkr>COMENDADOR</spkr>
+<l n="905">S, pues me persigue,</l>
+<l>porque este ardor con verla se mitigue.</l>
+<stageDirection>Vyanse.</stageDirection></scene><scene n="XXI"><stageDirection>Entren con acompaamiento EL REY ENRIQUE y EL CONDESTABLE.</stageDirection><anchor type="Redondillas"/> <spkr>CONDESTABLE</spkr>
+<l>   Alegre est la ciudad,</l>
+<l>y a servirte apercebida</l>
+<l>con la dichosa venida</l>
+<l n="910">de tu sacra majestad.</l>
+<l>    Aumntales el placer</l>
+<l>ser vspera de tal da.</l>
+<spkr>REY</spkr>
+<l>El deseo que tena</l>
+<l>me pueden agradecer.</l>
+<l n="915">    Soy de su rara hermosura</l>
+<l>el mayor apasionado.</l>
+<spkr>CONDESTABLE</spkr>
+<l>Ella, en amor y en cuidado,</l>
+<l>notablemente procura</l>
+<l>    mostrar agradecimiento.</l>
+<spkr>REY</spkr>
+<l n="920">Es otava maravilla,</l>
+<l>es corona de Castilla,</l>
+<l>es su lustre y ornamento;</l>
+<l>    es cabeza, Condestable,</l>
+<l>de quien los miembros reciben</l>
+<l n="925">vida, con que alegres viven;</l>
+<l>es a la vista admirable.</l>
+<l>    Como Roma, est sentada</l>
+<l>sobre un monte, que ha vencido</l>
+<l>los siete por quien ha sido</l>
+<l n="930">tantos siglos celebrada.</l>
+<l>    Salgo de su santa iglesia</l>
+<l>con admiracin y amor.</l>
+<spkr>CONDESTABLE</spkr>
+<l>Este milagro, seor,</l>
+<l>vence al antiguo de Efesia.</l>
+<l n="935">    Piensas hallarte maana</l>
+<l>en la procesin?</l>
+<spkr>REY</spkr>
+<l>Ir,</l>
+<l>para ejemplo de mi fe,</l>
+<l>con la imagen soberana,</l>
+<l>    que la querra obligar</l>
+<l n="940">a que rogase por m</l>
+<l>en esta jornada.</l></scene><scene n="XXII"><stageDirection>UN PAJE entre.</stageDirection>
+<spkr>PAJE</spkr>
+<l>Aqu</l>
+<l>tus pies vienen a besar</l>
+<anchor type="Romance e-o"/> <l>    dos regidores, de parte</l>
+<l>de su noble ayuntamiento.</l>
+<spkr>REY</spkr>
+<l>Di que lleguen.</l>
+<stageDirection>Dos regidores.</stageDirection><spkr>REGIDOR</spkr>
+<l n="945">Esos pies</l>
+<l>besa, gran seor, Toledo,</l>
+<l>y dice que, para darte</l>
+<l>respuesta con breve acuerdo</l>
+<l>a lo que pides, y es justo,</l>
+<l n="950">de la gente y el dinero,</l>
+<l>junt sus nobles, y todos</l>
+<l>de comn consentimiento,</l>
+<l>para la jornada ofrecen</l>
+<l>mil hombres de todo el reino</l>
+<l n="955">y cuarenta mil ducados.</l>
+<spkr>REY</spkr>
+<l>Mucho a Toledo agradezco</l>
+<l>el servicio que me hace;</l>
+<l>pero <sic>es</sic> Toledo en efeto.</l>
+<l>Sois caballeros los dos?</l>
+<spkr>REGIDOR</spkr>
+<l n="960">Los dos somos caballeros.</l>
+<spkr>REY</spkr>
+<l>Pues hablad al Condestable</l>
+<l>maana, porque Toledo</l>
+<l>vea que en vosotros pago</l>
+<l>lo que a su nobleza debo.</l></scene><scene n="XXIII"><stageDirection>Entren INS y COSTANZA, y CASILDA, con sombreros de borlas y vestidos de labradoras a uso de la Sagra, y PERIBEZ, y EL COMENDADOR, de camino, detrs.</stageDirection>
+<spkr>INS</spkr>
+<l n="965">Pardiez, que tengo de verle,</l>
+<l>pues hemos venido a tiempo</l>
+<l>que est el rey en la ciudad!</l>
+<spkr>COSTANZA</spkr>
+<l>Oh, qu gallardo mancebo!</l>
+<l>ste llaman don Enrique</l>
+<l>Tercero.</l>
+<spkr>CASILDA</spkr>
+<l n="970">Qu buen tercero!</l>
+<spkr>PERIBEZ</spkr>
+<l>Es hijo del rey don Juan</l>
+<l>el Primero, y as, es nieto</l>
+<l>del Segundo don Enrique,</l>
+<l>el que mat al rey don Pedro,</l>
+<l n="975">que fue Guzmn por la madre,</l>
+<l>y valiente caballero,</l>
+<l>aunque ms lo fue el hermano;</l>
+<l>pero cayendo en el suelo,</l>
+<l>valise de la Fortuna,</l>
+<l n="980">y de los brazos asiendo</l>
+<l>a Enrique, le dio la daga</l>
+<l>que agora se ha vuelto cetro.</l>
+<spkr>INS</spkr>
+<l>Quin es aquel tan erguido</l>
+<l>que habla con l?</l>
+<spkr>PERIBEZ</spkr>
+<l>Cuando menos,</l>
+<l>el Condestable.</l>
+<spkr>CASILDA</spkr>
+<l n="985">Que son</l>
+<l>los reyes de carne y hueso?</l>
+<spkr>COSTANZA</spkr>
+<l>Pues, de qu pensabas t?</l>
+<spkr>CASILDA</spkr>
+<l>De damasco o terciopelo.</l>
+<spkr>COSTANZA</spkr>
+<l>S que eres boba en verdad!</l>
+<spkr>COMENDADOR</spkr>
+<stageDirection>Aparte.</stageDirection>
+<lg type="aside"><l n="990">Como sombra voy siguiendo</l>
+<l>el sol de aquesta villana,</l>
+<l>y con tanto atrevimiento,</l>
+<l>que de la gente del rey</l>
+<l>el ser conocido temo.</l>
+<l n="995">Pero ya se ve el Alczar.</l></lg>
+<stageDirection>Vase EL REY y su gente.</stageDirection></scene><scene n="XXIV"><spkr>INS</spkr>
+<l>Hola! El rey se va.</l>
+<spkr>COSTANZA</spkr>
+<l>Tan presto,</l>
+<l>que an no he podido saber</l>
+<l>si es barbirrubio o <sic>taheo</sic>.</l>
+<spkr>INS</spkr>
+<l>Los reyes son a la vista,</l>
+<l n="1000">Costanza, por el respeto,</l>
+<l>imgenes de milagros,</l>
+<l>porque siempre que los vemos,</l>
+<l>de otra color nos parecen.</l></scene><scene n="XXV"><stageDirection>LUJN entre con UN PINTOR.</stageDirection>
+<spkr>LUJN</spkr>
+<l>Aqu est.</l>
+<spkr>PINTOR</spkr>
+<l>Cul dellos?</l>
+<spkr>LUJN</spkr>
+<l>Quedo!</l>
+<l n="1005">Seor, aqu est el pintor.</l>
+<spkr>COMENDADOR</spkr>
+<l>Oh amigo!</l>
+<spkr>PINTOR</spkr>
+<l>A servirte vengo.</l>
+<spkr>COMENDADOR</spkr>
+<l>Traes el naipe y colores?</l>
+<spkr>PINTOR</spkr>
+<l>Sabiendo tu pensamiento,</l>
+<l>colores y naipe traigo.</l>
+<spkr>COMENDADOR</spkr>
+<l n="1010">Pues, con notable secreto,</l>
+<l>de aquellas tres labradoras</l>
+<l>me retratas la de enmedio,</l>
+<l>luego que en cualquier lugar</l>
+<l>tomen con espacio asiento.</l>
+<spkr>PINTOR</spkr>
+<l n="1015">Que ser dificultoso</l>
+<l>temo, pero yo me atrevo</l>
+<l>a que se parezca mucho.</l>
+<spkr>COMENDADOR</spkr>
+<l>Pues advierte lo que quiero:</l>
+<l>si se parece en el naipe,</l>
+<l n="1020">deste retrato pequeo</l>
+<l>quiero que hagas uno grande,</l>
+<l>con ms espacio, en un lienzo.</l>
+<spkr>PINTOR</spkr>
+<l>Quiresle entero?</l>
+<spkr>COMENDADOR</spkr>
+<l>No tanto;</l>
+<l>basta que de medio cuerpo,</l>
+<l n="1025">mas con las mismas patenas,</l>
+<l>sartas, camisa y sayuelo.</l>
+<spkr>LUJN</spkr>
+<l>All se sientan a ver</l>
+<l>la gente.</l>
+<spkr>PINTOR</spkr>
+<l>Ocasin tenemos.</l>
+<l>Yo har el retrato.</l>
+<spkr>PERIBEZ</spkr>
+<l>Casilda,</l>
+<l n="1030">tomemos aqueste asiento</l>
+<l>para ver las luminarias.</l>
+<spkr>INS</spkr>
+<l>Dicen que al ayuntamiento</l>
+<l>traern bueyes esta noche.</l>
+<spkr>CASILDA</spkr>
+<l>Vamos, que aqu los veremos</l>
+<l n="1035">sin peligro y sin estorbo.</l>
+<spkr>COMENDADOR</spkr>
+<l>Retrata, pintor, al cielo</l>
+<l>todo bordado de nubes,</l>
+<l>y retrata un prado ameno</l>
+<l>todo cubierto de flores.</l>
+<spkr>PINTOR</spkr>
+<l n="1040">Cierto que es bella en extremo!</l>
+<spkr>LUJN</spkr>
+<l>Tan bella que est mi amo</l>
+<l>todo cubierto de vello,</l>
+<l>de convertido en salvaje.</l>
+<spkr>PINTOR</spkr>
+<l>La luz faltar muy presto.</l>
+<spkr>COMENDADOR</spkr>
+<l n="1045">No lo temas; que otro sol</l>
+<l>tiene en sus ojos serenos,</l>
+<l>siendo estrellas para ti,</l>
+<l>para m rayos de fuego.</l>
+</scene>
+    <note>Fin del Primer Acto</note>
+</play>

@@ -1,4 +1,4 @@
-#Class Example 2016-09-23
+#Class Example 2017-09-29
 *The Shunned House by H.P. Lovecraft*
   
   
@@ -30,7 +30,7 @@ Prepare to create self-closing element for ampersand divisions and removing exce
   
 Remove ampersand division and replace with self-closing element to mark divisions.  
 	**Find:** `<p>\*.+</p>$` (8 results)  
-	**Return** `<anchor type="division" subtype="asterisk"/>` 
+	**Return** `<milestone type="division" unit="asterisk"/>` 
   
 Just some clean-up:  
 	Removing extra whitespace at line starts  

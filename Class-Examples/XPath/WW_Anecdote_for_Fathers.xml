@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg>
+            <l xml:id="n01"><said who="I-speaker" xml:id="s1" next="#s2"/>Now tell me, had you rather be,<said xml:id="s2" prev="#s1" ana="interrupt"/></l>
+            <l xml:id="n02">I said, and took him by the arm,</l>
+            <l xml:id="n03"><said xml:id="s3" next="#s4" ana="resume"/>On Kilve's smooth shore, by the green sea,</l>
+            <l xml:id="n04">Or here at Liswyn farm?<said xml:id="s4" prev="#s3"/></l>
+         </lg>
+         <lg>
+            <l xml:id="n05">In careless mood he looked at me,</l>
+            <l xml:id="n06">While still I held him by the arm,</l>
+            <l xml:id="n07">And said, <said who="Edward" xml:id="s5" next="#s6"/>At Kilve I'd rather be</l>
+            <l xml:id="n08">Than here at Liswyn farm.<said xml:id="s6" prev="#s5"/></l>
+         </lg>
+         <lg>
+            <l xml:id="n09"><said who="I-speaker" xml:id="s7" next="#s8"/>Now, little Edward, say why so:</l>
+            <l xml:id="n10">My little Edward, tell me why.<said xml:id="s8" prev="#s7"/> --</l>
+            <l xml:id="n11"><said who="Edward" xml:id="s9" next="#s10"/>I cannot tell, I do not know.<said xml:id="s10" prev="#s9"/> --</l>
+            <l xml:id="n12"><said who="I-speaker" xml:id="s11" next="#s12"/>Why, this is strange,<said xml:id="s12" prev="#s11" ana="interrupt"/> said I;</l>
+         </lg>
+         <lg>
+            <l xml:id="n13"><said who="I-speaker" xml:id="s13" next="#s14" ana="resume"/>For, here are woods, hills smooth and warm:</l>
+            <l xml:id="n14">There surely must some reason be</l>
+            <l xml:id="n15">Why you would change sweet Liswyn farm</l>
+            <l xml:id="n16">For Kilve by the green sea.<said xml:id="s14" prev="#s13"/></l>
+         </lg>
+         <lg>
+            <l xml:id="n17">At this, my boy hung down his head,</l>
+            <l xml:id="n18">He blushed with shame, nor made reply;</l>
+            <l xml:id="n19">And three times to the child I said,</l>
+            <l xml:id="n20"><said who="I-speaker" xml:id="s13" next="#s14"/>Why, Edward, tell me why?<said xml:id="s14" prev="#s13"/></l>
+         </lg>
+      </body>
+   </text>
+</TEI>

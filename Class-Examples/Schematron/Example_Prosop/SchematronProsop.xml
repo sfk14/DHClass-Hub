@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    <!--2017-02-17 ebb: This is an example of a document holding information about a list of places, and sometimes this is known as a "gazetteer" or a "placeography". It's a kind of "prosopography" collection, that is, a collection holding data about proper names, and when it holds information about people, it's called a "personography".-->
+    
+<place xml:id="Birmingham_city">
+    <placeName>Birmingham, West Midlands, England</placeName>
+    <placeName>
+        <settlement>Birmingham</settlement>
+        <region>West Midlands</region>
+        <region>Warwickshire</region>
+        <country>England</country>
+    </placeName>
+    <location>
+        <geo>52.483056 -1.893611</geo>
+    </location>
+    <note resp="#lmw">A city in the West Midlands, formerly part of the historic
+        county of Warwickshire. In <persName ref="#MRM">Mitford</persName>'s time, the
+        city was at the center of the Industrial Revolution, with developments in the
+        skilled trades, steam power, railways and canals, and banking beginning in the
+        eighteenth century. During the nineteenth century, the city became the
+        second-largest popular center, after London, and became a center for political
+        radicalism and reform.</note>
+</place>
+
+<place xml:id="Bisham_Abbey">
+    <placeName>Bisham Abbey, Bisham, Berkshire, England</placeName>
+    <placeName>
+        <settlement>Bisham</settlement>
+        <region>Berkshire</region>
+        <country>England</country>
+    </placeName>
+    <location>
+        <geo>51.5565589,-0.7774107999999842</geo>
+    </location>
+    <note resp="#lmw">A manor house in <placeName ref="#Berkshire"
+        >Berkshire</placeName>, named for the priory that once stood on the site. It
+        is now a grade I listed manor house.</note>
+    <note><ref target="http://www.bishamabbeynsc.co.uk/"/></note>
+</place>
+
+<place xml:id="Boston">
+    <placeName>Boston, Massachusetts, USA</placeName>
+    <settlement>Boston</settlement>
+    <region>Massachusetts</region>
+    <country>USA</country>
+    <location>
+        <geo>42.358056 -71.063611</geo>
+    </location>
+    <note resp="#lmw">One of the oldest cities in <placeName ref="#USA"
+        >America</placeName>; an important New England seaport, trading center, and
+        center of the publishing trade in the eighteenth and nineteenth centuries. A
+        key site of events of the War of American Independence.</note>
+</place>
+</root>

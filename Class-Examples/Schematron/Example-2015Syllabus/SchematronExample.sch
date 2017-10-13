@@ -11,7 +11,7 @@
             <!--RJP:2016-10-13: Uncomment this rule and see what happens to the document.-->
            <!-- <assert test=".[@resp]">Every note element must have a resp attribute that indicates the person responsible for the note.</assert>-->
 
-            <report test="./string-length() &gt; //tei:p[string-length() = max(//tei:p/string-length())]/string-length()">
+            <report test="./string-length() gt max(//tei:p/string-length())">
                 Notes need to be short and direct! This note is longer than the longest paragraph in the document; please revise! 
             </report>
             <!-- RJP:2016-10-13: What if instead of using the longest paragraph we wanted to use the shortest paragraph? How would your write that rule instead? What does this show you about the document? -->

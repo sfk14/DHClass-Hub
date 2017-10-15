@@ -51,3 +51,4 @@ Now, can you write an XPath expression that finds the very first paragraph holdi
   
 How would you modify the previous expression to return the contents of the placeName elements in that paragraph? What are the placeNames?  
 `(//p[count(geo[@select="lat"])>2][count(placeName)>1])[1]/placeName/text()`  
+The placeNames are South Sea and Cape of Good Hope

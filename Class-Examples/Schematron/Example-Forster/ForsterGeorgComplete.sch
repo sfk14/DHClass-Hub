@@ -13,17 +13,17 @@
         </rule>
     </pattern> -->
     
-   <pattern id="whitespace_in_elementStart">
+ <!--  <pattern id="whitespace_in_elementStart">
         
         <rule context="tei:*">
-            <report test="ends-with(., ' ')">Uh oh! The contents of this element ends with a
-                whitespace. Be careful not to include extra whitespace inside of elements.</report>
+            <assert test="starts-with(., ' ')">Uh oh! The contents of this element ends with a
+                whitespace. Be careful not to include extra whitespace inside of elements.</assert>
         </rule>
-    </pattern>
+    </pattern>-->
 
     
    <!-- <pattern>    
-        <rule context="tei:geo[@select]">
+        <rule context="tei:zgeo[@select]">
             <let name="tokens" value="for $w in tokenize(., '\s+') return substring-before($w, '°')"/>
             <assert test="every $token in $tokens satisfies $token = //tei:TEI//tei:geo//@select">
                  >.</assert>

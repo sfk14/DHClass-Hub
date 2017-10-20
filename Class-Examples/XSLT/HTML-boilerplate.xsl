@@ -3,6 +3,7 @@
     xmlns="http://www.w3.org/1999/xhtml"
     xpath-default-namespace="http://www.tei-c.org/ns/1.0"
     version="2.0">
+<!--ebb: NOTICE: the namespaces are defined above to read in TEI and output HTML. -->
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat"
         omit-xml-declaration="yes"/>  
     <xsl:template match="/">

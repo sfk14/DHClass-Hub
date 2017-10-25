@@ -1,0 +1,20 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = letter
+letter = element letter {head, body}
+head = element head {date | salutation | person | text}
+# 2017-09-11 ebb: There are a couple of problems here: 
+# 1) What are the elements contained by head? They are <date> and <salutation> only. <person> is tucked inside <salutation> so you need to define its presence inside that rule. 
+# 2) Do you want your head element to contain text floating among the elements at the same level as <date> and <salutation>? If so, you want the mixed{ } syntax, but that doesn't seem to be what's going on in the XML document from what I can see...?
+# 3) Think about what your "or" pipes are indicating here: You are indicating that you want one thing only: either date or salutation or person or just text. In reality you have date *and* salutation. We see an error firing in your XML on <salutation>, but not on <date>: think about why it fired there! Your schema rule was fully satisfied by the presence of the <date> element, and could not permit anything else there. Make sense? 
+date = element date {text}
+salutation = element salutation {text}
+# ebb: Here the element <salutation> contains more than just text, doesn't it?
+person = element person {text}
+
+body = element body {text, closing, signature, (p | person | place | subject)*}
+# ebb: You appear to be getting stuck on defining **too much** inside an element--including elements that are deeper down in the hierarchy, such as person, place, and subject. Those don't belong in the schema rule for <body>, because they are not its immediate contents. There's also a problem with defining sequences and groups here. You want to review and consult these sections in the Explain Relax-NG tutorial--and I think that should help you repair this. Please come back with more questions if you're still stuck!
+subject = element subject {text}
+p = element p {text}
+place = element place {text}
+closing = element closing {text}
+signature = element signature {text}

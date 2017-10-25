@@ -1,0 +1,462 @@
+<?xml version="1.0" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[GPS data]]></name>
+    <visibility>1</visibility>
+    <open>0</open>
+    <Snippet><![CDATA[created using <A href="http://www.gpsvisualizer.com/?ref=ge&time=20170313082545">GPS Visualizer</A>]]></Snippet>
+    <Style id="gv_waypoint_normal">
+      <IconStyle>
+        <color>ff00ffff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://maps.google.ca/mapfiles/kml/pal4/icon59.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" />
+      </IconStyle>
+      <LabelStyle>
+        <color>ff00ffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<div style="font-family:Arial,sans-serif; min-width:200px;"><h3>$[name]</h3> <div style="margin-top:8px;">$[description]</div></div>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="gv_waypoint_highlight">
+      <IconStyle>
+        <color>ff00ffff</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.ca/mapfiles/kml/pal4/icon59.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" />
+      </IconStyle>
+      <LabelStyle>
+        <color>ff00ffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<div style="font-family:Arial,sans-serif; min-width:200px;"><h3>$[name]</h3> <div style="margin-top:8px;">$[description]</div></div>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="gv_waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gv_waypoint_normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gv_waypoint_highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder id="Waypoints">
+      <name>Waypoints</name>
+      <visibility>1</visibility>
+      <Placemark>
+        <name>Nevada</name>
+        <description><![CDATA[Nevada]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-116.6554108,39.3564186</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>United States</name>
+        <description><![CDATA[United States]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-98.9573364,39.4432564</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pittsburgh</name>
+        <description><![CDATA[Pittsburgh, Pennsylvania]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-79.9973373,40.4385109</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quincy, Ill.</name>
+        <description><![CDATA[Quincy, Illinois]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-91.3958282,39.9355888</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fort Worth</name>
+        <description><![CDATA[Fort Worth, Texas]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-97.3308563,32.7509499</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Joaquin, Calif.</name>
+        <description><![CDATA[San Joaquin, California]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-120.5013504,36.7486229</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quincy</name>
+        <description><![CDATA[Quincy, Massachusetts]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-71.004158,42.2522812</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Canterbury</name>
+        <description><![CDATA[Canterbury, England, United Kingdom]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>1.07561,51.2759705</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Summerville, S.C.</name>
+        <description><![CDATA[Summerville, South Carolina]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-80.1760101,33.0189705</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WHEATON, Ill.</name>
+        <description><![CDATA[Wheaton, Illinois]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-88.1106262,41.8660583</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Africa</name>
+        <description><![CDATA[Africa]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>17.2942142,2.0991011</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Latin America</name>
+        <description><![CDATA[United States]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-98.9573364,39.4432564</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Canada</name>
+        <description><![CDATA[Canada]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-95.9133224,62.8329086</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mexico</name>
+        <description><![CDATA[Mexico]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-102.6334,23.9090939</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>North America</name>
+        <description><![CDATA[North America]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-91.3296204,54.7224388</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>evangelical church here in Wheaton, near Chicago.</name>
+        <description><![CDATA[Chicago, Illinois]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-87.6324463,41.8842506</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wheaton</name>
+        <description><![CDATA[Wheaton, Illinois]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-88.1106262,41.8660583</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chicago</name>
+        <description><![CDATA[Chicago, Illinois]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-87.6324463,41.8842506</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Joaquin</name>
+        <description><![CDATA[San Joaquin, California]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-120.5013504,36.7486229</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Central Valley of California</name>
+        <description><![CDATA[Central Valley, California]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-120.7629395,37.5894279</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Australia</name>
+        <description><![CDATA[Australia]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>134.5041199,-25.5852413</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asia</name>
+        <description><![CDATA[Asia]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>102.9412994,35.1083641</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jerusalem</name>
+        <description><![CDATA[Jerusalem]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>35.2188187,31.7800102</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fairfax, Va.</name>
+        <description><![CDATA[Fairfax, Virginia]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-77.3088684,38.8417892</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New Hampshire</name>
+        <description><![CDATA[New Hampshire]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-71.5775986,43.6855278</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duke University</name>
+        <description><![CDATA[University Park, Texas]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-96.7969894,32.8453598</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Allegheny County</name>
+        <description><![CDATA[Allegheny, Pennsylvania]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-79.9812012,40.4688301</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Southern Cone in South America</name>
+        <description><![CDATA[South America]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-61.5274086,-19.2477303</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shadyside</name>
+        <description><![CDATA[Shadyside, Pennsylvania]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-79.9412231,40.4517593</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>United States of America</name>
+        <description><![CDATA[United States]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-98.9573364,39.4432564</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carnegie</name>
+        <description><![CDATA[Carnegie, Pennsylvania]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-80.0918732,40.4045715</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crafton</name>
+        <description><![CDATA[Crafton, Pennsylvania]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-80.0672226,40.4343796</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monroeville</name>
+        <description><![CDATA[Monroeville, Pennsylvania]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-79.7801132,40.4364586</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Western North Carolina.</name>
+        <description><![CDATA[North Carolina]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-79.1854095,35.5393448</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mount Lebanon</name>
+        <description><![CDATA[Mt Lebanon Township, Pennsylvania]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-80.0437622,40.3839798</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ross</name>
+        <description><![CDATA[South Sudan]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>30.2807522,7.3038578</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Washington</name>
+        <description><![CDATA[Washington, District of Columbia]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-77.0319595,38.8903694</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oakland</name>
+        <description><![CDATA[Oakland, California]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-122.2730713,37.8050804</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calvary,</name>
+        <description><![CDATA[Calvary, Wisconsin]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-88.2425919,43.8462296</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oakmont</name>
+        <description><![CDATA[Oakmont, Pennsylvania]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-79.8388214,40.5221901</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New Orleans</name>
+        <description><![CDATA[New Orleans, Louisiana]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-90.0777512,29.9536991</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Homer City, Indiana County</name>
+        <description><![CDATA[Homer City, Pennsylvania]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-79.160881,40.5423203</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Franklin Park</name>
+        <description><![CDATA[Franklin Park, Illinois]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-87.8640976,41.936821</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>West Virginia</name>
+        <description><![CDATA[West Virginia]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-80.6136169,38.6424141</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Squirrel Hill</name>
+        <description><![CDATA[Squirrel Hill, Pittsburgh, Pennsylvania]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-79.9213562,40.4380608</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

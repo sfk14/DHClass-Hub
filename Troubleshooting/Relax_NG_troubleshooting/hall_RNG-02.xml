@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="hall_RNG-02_Schema.rnc" type="application/relax-ng-compact-syntax"?>
+<letter>
+    <head>
+    <date>March 29, 1937</date>
+    <salutation>My dear <person>Mother</person>,</salutation>
+    </head>
+    <body>
+        <p>I have been sent a notice of lecturers in <subject>mathematics</subject> to be appointed next term, by <place>Philip Hall</place>. <person>Maurice</person> and I are both putting in for it, though I don’t suppose either of us will get it: I think it is a good thing to start putting in for these things early, so as to get one’s existence recognised. It’s a thing I am liable to neglect. <person>Maurice</person> is much more conscious of what are the right things to do to help his career. He makes great social efforts with the mathematical bigwigs.</p>
+        <p><person>Champernowne</person> has been elected into a Fellowship at <place>King’s</place>. I have just written to him about it. Also . . . (which rather surprised me) and . . . (who tends to be bogus). I don’t know whether <person>Champ[ernowne]</person> is coming back to <place>Cambridge</place> next year or whether he is going to make a pig of himself by keeping his job at <place>London</place>.</p>
+    <p>I am now writing out some new ideas in <subject>logic</subject>. Not so good as <subject>computable numbers</subject>, but quite hopeful.</p>
+    <closing>Yours</closing>
+    <signature><person>Alan</person></signature>
+    </body>
+</letter>

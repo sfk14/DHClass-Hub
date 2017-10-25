@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<Gazpacho_Recipe>
+    <Time>25 min</Time>
+    <Yield>Serves 8 People</Yield>
+    <Ingredients>
+        <Fruit n="6" method="peeled and chopped" est="about 6 cups">tomatoes</Fruit>
+        <Vegetable n="1" method="finley chopped" est="1 1/4 cups">red onion</Vegetable>
+        <Vegetable n="1" method="peeled, seeded, chopped" est="about 1 cup"> cucumber</Vegetable>
+        <Vegetable n="1" type="red or green" method="seeded and chopped" est="1 cup">bell pepper</Vegetable>
+        <Vegetable n="2" method="chopped" est="1 cup"> celery</Vegetable>
+        <Spice method="chopped" est="1-2 Tbsp"> parsley</Spice>
+        <Spice method="chopped" est="2 Tbsp"> chives </Spice>2
+        <Spice n="1" method="minced" est="1 tsp"> garlic </Spice>1
+        <Sauce type="red wine" est="1/4 cup"> vinegar</Sauce>
+        <Sauce est="1/4 cup"> olive oil </Sauce>
+        <Juice method="freshly squeezed" est="1 Tbsp"> lemon juice</Juice>
+        <Spice est="2 tsp"> sugar </Spice>
+        <Spice est="to taste"> salt </Spice>
+        <Spice est="to taste"> pepper </Spice>
+        <Sauce est="6 or more drops to taste"> Tabasco sauce </Sauce>
+        <Sauce est="1 tsp"> Worcestershire sauce </Sauce>
+        <Juice est="2 cups"> tomato juice </Juice>
+    </Ingredients>
+    <Method>
+        <Combine> Place all ingredients in a large bowl. </Combine> 
+        <Blend> Use an immersion blender or blend in batches, to desired smoothness.</Blend>
+        <Season> Adjust seasoning to taste. </Season>
+        <Store> Place in a non-reactive container (tomatoes are acidic) to store. </Store>
+        <Refrigerate> Chill several hours or overnight to allow the flavors to blend.</Refrigerate>
+    </Method>
+</Gazpacho_Recipe>
+</root>
